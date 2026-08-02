@@ -1,0 +1,1001 @@
+﻿patient_id,patient_id fixed,patient_name,age,gender,gender fixed,appointment_date,booking_date,doctor,doctor fixed,department,department fixed,billing_amount,identify currency,extract number,billing_amount USD,follow_up_required,follow_up_required fix,count duplicate_ids,count duplicate_ids and name,age range
+1080,1,Tammy Williams,76,Female,Female,2/26/26,12/3/24,Christopher Graham,Christopher Graham,Cardiology,Cardiology,¬£425.8,GBP,425.8,540.766,1,N/A,11,1,Elderly
+1074,2,Megan Strickland,69,F,Female,5/23/25,6/12/24,Brandon Lewis,Brandon Lewis,Orthopedics,Orthopedics,‚Ç¨344.26,EUR,344.26,375.2434,Y,Yes,17,1,Elderly
+1067,3,Amanda Schroeder,79,M,Male,11/30/25,8/5/24,Deanna Edwards,Deanna Edwards,Neurology,Neurology,‚Ç¨203.34,EUR,203.34,221.6406,Y,Yes,9,1,Elderly
+1072,4,Anthony Mcpherson,47,F,Female,5/18/25,9/9/24,Karen Parsons,Karen Parsons,General,General,Rs85.76,INR,85.76,1.02912,No,No,9,1,Middle Aged
+1092,5,Benjamin Brown,45,N/A,N/A,3/7/26,8/17/24,Andrea Hernandez,Andrea Hernandez,General,General,$84.44,USD,84.44,84.44,1,N/A,11,1,Middle Aged
+1057,6,Joe Sharp,78,N/A,N/A,9/26/25,8/31/25,Kimberly Fields,Kimberly Fields,General,General,,N/A,,N/A,Yes,Yes,7,1,Elderly
+1018,7,Alexander Harris,22,Female,Female,10/30/25,12/29/24,Jim Jones,Jim Jones,Cardiology,Cardiology,‚Ç¨99.0,EUR,99,107.91,No,No,14,1,Young Adult
+1074,8,Raymond Williams,57,M,Male,4/23/25,3/28/25,James Brooks,James Brooks,Neurology,Neurology,Rs374.63,INR,374.63,4.49556,No,No,17,1,Middle Aged
+1041,9,Dustin Willis,54,Female,Female,8/22/25,11/7/24,Jamie Hill,Jamie Hill,General,General,$452.37,USD,452.37,452.37,Yes,Yes,8,1,Middle Aged
+1011,10,Tina Gallagher,45,M,Male,3/16/26,12/12/25,Tiffany Gates MD,Tiffany Gates Md,Neurology,Neurology,‚Ç¨494.97,EUR,494.97,539.5173,Yes,Yes,7,1,Middle Aged
+1086,11,Robert Guerrero,54,male,Male,4/24/25,10/7/24,Shane Brown,Shane Brown,Cardiology,Cardiology,¬£91.91,GBP,91.91,116.7257,Y,Yes,9,1,Middle Aged
+1041,12,Karen Walker,68,F,Female,3/7/26,4/24/24,Natalie White,Natalie White,General,General,$82.88,USD,82.88,82.88,Yes,Yes,8,1,Elderly
+1057,13,Chris Rice,61,N/A,N/A,7/31/25,5/5/24,Amy Olson,Amy Olson,Neurology,Neurology,Rs277.14,INR,277.14,3.32568,N,No,7,1,Middle Aged
+1022,14,Michael Mack,70,M,Male,9/21/25,11/6/24,John Larsen II,John Larsen Ii,Orthopedics,Orthopedics,‚Ç¨411.01,EUR,411.01,448.0009,Y,Yes,9,1,Elderly
+1046,15,Andrea Hubbard,36,F,Female,3/12/26,11/8/25,Andrea Gates,Andrea Gates,Cardiology,Cardiology,¬£67.51,GBP,67.51,85.7377,N,No,8,1,Young Adult
+1025,16,Brian Jones,23,Female,Female,2/6/26,3/9/25,Robert Navarro,Robert Navarro,Orthopedics,Orthopedics,‚Ç¨163.99,EUR,163.99,178.7491,Y,Yes,9,1,Young Adult
+1027,17,Kelly Olsen,72,Male,Male,8/27/25,2/13/25,Christopher Bryant,Christopher Bryant,Cardiology,Cardiology,¬£252.38,GBP,252.38,320.5226,Yes,Yes,12,1,Elderly
+1059,18,Andrew Oconnor,66,Female,Female,11/11/25,12/1/24,Christina Hill,Christina Hill,Cardiology,Cardiology,$153.07,USD,153.07,153.07,Y,Yes,13,1,Elderly
+1086,19,Dennis Hurley,81,M,Male,4/10/25,12/16/24,Daniel Jacobson,Daniel Jacobson,General,General,Rs329.3,INR,329.3,3.9516,1,N/A,9,1,Elderly
+1033,20,Paul Brock,76,Female,Female,11/5/25,5/23/25,Kayla Savage,Kayla Savage,Neurology,Neurology,‚Ç¨135.45,EUR,135.45,147.6405,Yes,Yes,11,1,Elderly
+1069,21,Jennifer Aguirre,90,male,Male,10/14/25,5/28/24,Richard Huang,Richard Huang,Neurology,Neurology,Rs72.73,INR,72.73,0.87276,N,No,10,1,Elderly
+1097,22,Todd Wilson,56,male,Male,5/15/25,5/5/24,Rebecca Harrington,Rebecca Harrington,Orthopedics,Orthopedics,Rs258.64,INR,258.64,3.10368,Y,Yes,10,1,Middle Aged
+1064,23,Jeremiah Cole,88,Female,Female,1/30/26,8/12/24,Louis Turner,Louis Turner,General,General,$203.61,USD,203.61,203.61,No,No,5,1,Elderly
+1089,24,Vincent Brown,32,F,Female,5/11/25,7/6/24,Brianna Garcia,Brianna Garcia,Neurology,Neurology,Rs236.22,INR,236.22,2.83464,N,No,16,1,Young Adult
+1086,25,Tracy Mcdonald,34,F,Female,7/31/25,4/9/24,Daniel Gutierrez,Daniel Gutierrez,Cardiology,Cardiology,Rs292.23,INR,292.23,3.50676,Y,Yes,9,1,Young Adult
+1073,26,Phillip Simpson,88,N/A,N/A,6/27/25,5/6/25,Darren Brooks,Darren Brooks,General,General,$51.72,USD,51.72,51.72,Y,Yes,11,1,Elderly
+1093,27,Penny Friedman,20,male,Male,3/23/26,6/13/25,Janice Taylor,Janice Taylor,Cardiology,Cardiology,¬£218.84,GBP,218.84,277.9268,1,N/A,11,1,Young Adult
+1084,28,Cynthia Hensley,86,male,Male,3/8/26,7/9/24,David Robles,David Robles,Neurology,Neurology,Rs160.38,INR,160.38,1.92456,Yes,Yes,15,1,Elderly
+1002,29,Cassandra Gardner,42,M,Male,10/14/25,11/4/24,Gregory Kirk,Gregory Kirk,Neurology,Neurology,Rs342.38,INR,342.38,4.10856,0,N/A,7,1,Middle Aged
+1030,30,Patrick Saunders,18,male,Male,9/11/25,10/5/24,Casey Wagner,Casey Wagner,Orthopedics,Orthopedics,Rs208.91,INR,208.91,2.50692,N,No,11,1,Young Adult
+1043,31,Angel Kelly,82,Female,Female,12/15/25,7/21/25,Stephanie Taylor,Stephanie Taylor,General,General,Rs426.86,INR,426.86,5.12232,No,No,12,1,Elderly
+1056,32,Heather Baker,67,Female,Female,9/13/25,1/7/25,Andrew Thomas,Andrew Thomas,Orthopedics,Orthopedics,¬£215.31,GBP,215.31,273.4437,Yes,Yes,13,1,Elderly
+1094,33,Stacy Cunningham,32,male,Male,3/9/26,11/14/24,Laura Klein,Laura Klein,General,General,¬£413.53,GBP,413.53,525.1831,0,N/A,8,1,Young Adult
+1041,34,Nicole Shaw,20,male,Male,5/7/25,1/19/25,Mr. Brian Morton,Mr. Brian Morton,Neurology,Neurology,,N/A,,N/A,Y,Yes,8,1,Young Adult
+1071,35,Michele Park,46,N/A,N/A,1/10/26,11/1/24,Robert Sparks,Robert Sparks,General,General,¬£396.22,GBP,396.22,503.1994,No,No,10,1,Middle Aged
+1051,36,Leslie Silva,26,Male,Male,6/7/25,12/9/24,Thomas Brandt,Thomas Brandt,Orthopedics,Orthopedics,$340.25,USD,340.25,340.25,Yes,Yes,9,1,Young Adult
+1003,37,Katelyn Smith,19,N/A,N/A,10/16/25,9/21/25,Robert Henry,Robert Henry,Neurology,Neurology,$481.44,USD,481.44,481.44,0,N/A,12,1,Young Adult
+1053,38,John Yang,37,N/A,N/A,9/15/25,5/9/24,Anthony Jensen,Anthony Jensen,Orthopedics,Orthopedics,$442.77,USD,442.77,442.77,0,N/A,14,1,Young Adult
+1052,39,Judy Blair,84,N/A,N/A,9/8/25,5/16/25,Kevin Benton,Kevin Benton,Orthopedics,Orthopedics,Rs175.63,INR,175.63,2.10756,0,N/A,8,1,Elderly
+1018,40,Jennifer Long,55,F,Female,3/1/26,6/3/24,Thomas Hernandez,Thomas Hernandez,Neurology,Neurology,‚Ç¨320.66,EUR,320.66,349.5194,0,N/A,14,1,Middle Aged
+1001,41,Melanie Gibson,50,Male,Male,8/17/25,9/23/24,Alison Stanton,Alison Stanton,Orthopedics,Orthopedics,$268.14,USD,268.14,268.14,Yes,Yes,12,1,Middle Aged
+1060,42,Amanda Jones,61,N/A,N/A,11/19/25,4/28/24,Christopher Morris,Christopher Morris,General,General,‚Ç¨499.75,EUR,499.75,544.7275,Y,Yes,6,1,Middle Aged
+1055,43,Donna West,35,Male,Male,5/24/25,7/18/24,Troy Hill,Troy Hill,Orthopedics,Orthopedics,Rs452.11,INR,452.11,5.42532,1,N/A,5,1,Young Adult
+1063,44,Edward Sanders,29,N/A,N/A,9/16/25,4/29/25,Steven Bailey,Steven Bailey,Orthopedics,Orthopedics,Rs479.77,INR,479.77,5.75724,0,N/A,11,1,Young Adult
+1069,45,Michael Levine,72,N/A,N/A,8/11/25,4/1/24,Janet Ray,Janet Ray,Neurology,Neurology,¬£213.35,GBP,213.35,270.9545,Y,Yes,10,1,Elderly
+1095,46,Loretta Richardson,29,N/A,N/A,8/22/25,4/25/25,Shane Jackson,Shane Jackson,Neurology,Neurology,Rs120.34,INR,120.34,1.44408,Yes,Yes,12,1,Young Adult
+1005,47,Kathleen Jones,49,N/A,N/A,6/12/25,8/11/24,Diana Baker,Diana Baker,Cardiology,Cardiology,Rs135.43,INR,135.43,1.62516,N,No,13,1,Middle Aged
+1001,48,Michael Allen,64,Female,Female,7/29/25,6/8/24,Brian Osborne DVM,Brian Osborne Dvm,Orthopedics,Orthopedics,‚Ç¨214.44,EUR,214.44,233.7396,N,No,12,1,Middle Aged
+1024,49,Kari Jackson,34,Female,Female,10/1/25,10/13/24,Jeremiah Rose,Jeremiah Rose,Orthopedics,Orthopedics,Rs376.08,INR,376.08,4.51296,No,No,12,1,Young Adult
+1016,50,Kim Allen,35,N/A,N/A,12/30/25,3/31/25,Nancy Levine MD,Nancy Levine Md,Orthopedics,Orthopedics,‚Ç¨343.51,EUR,343.51,374.4259,1,N/A,15,1,Young Adult
+1040,51,Regina Wilson,26,male,Male,8/14/25,6/3/24,Jenny Zuniga,Jenny Zuniga,Cardiology,Cardiology,Rs185.66,INR,185.66,2.22792,Yes,Yes,13,1,Young Adult
+1042,52,Samantha Mosley,30,N/A,N/A,12/5/25,9/3/24,Thomas Thomas,Thomas Thomas,Neurology,Neurology,‚Ç¨200.01,EUR,200.01,218.0109,Y,Yes,4,1,Young Adult
+1015,53,Kathleen Porter,66,Male,Male,1/28/26,5/6/25,Christine Calhoun,Christine Calhoun,Neurology,Neurology,$367.06,USD,367.06,367.06,0,N/A,17,1,Elderly
+1053,54,Cheryl Michael,49,male,Male,8/6/25,3/23/25,Thomas Bennett,Thomas Bennett,Neurology,Neurology,Rs393.4,INR,393.4,4.7208,1,N/A,14,1,Middle Aged
+1063,55,Lawrence Rios,62,Female,Female,1/10/26,12/11/24,Christopher Lee,Christopher Lee,Neurology,Neurology,¬£387.4,GBP,387.4,491.998,0,N/A,11,1,Middle Aged
+1068,56,Vanessa Jones,63,F,Female,11/9/25,9/10/25,Courtney Knight,Courtney Knight,Orthopedics,Orthopedics,$169.25,USD,169.25,169.25,Yes,Yes,14,1,Middle Aged
+1006,57,Tiffany Burke,48,N/A,N/A,7/9/25,4/3/25,Charles Lopez,Charles Lopez,Neurology,Neurology,$274.81,USD,274.81,274.81,1,N/A,8,1,Middle Aged
+1047,58,Joseph Church,87,male,Male,8/5/25,2/3/25,Ricky Velazquez,Ricky Velazquez,Orthopedics,Orthopedics,Rs68.81,INR,68.81,0.82572,1,N/A,17,1,Elderly
+1095,59,Heather Jackson,58,Female,Female,6/4/25,1/26/25,Todd Silva,Todd Silva,Neurology,Neurology,Rs365.13,INR,365.13,4.38156,0,N/A,12,1,Middle Aged
+1009,60,Adam Sanders,63,Male,Male,8/8/25,5/24/25,Patrick Floyd,Patrick Floyd,General,General,$466.97,USD,466.97,466.97,Yes,Yes,9,1,Middle Aged
+1078,61,Edward Perry,54,N/A,N/A,12/9/25,7/12/25,James Miller,James Miller,General,General,Rs484.52,INR,484.52,5.81424,No,No,8,1,Middle Aged
+1019,62,Bonnie Boone,35,F,Female,11/24/25,11/5/24,Lorraine Figueroa,Lorraine Figueroa,Orthopedics,Orthopedics,‚Ç¨114.45,EUR,114.45,124.7505,Yes,Yes,6,1,Young Adult
+1021,63,Robert Brown,39,M,Male,6/28/25,3/27/24,Jamie Sosa,Jamie Sosa,General,General,‚Ç¨195.21,EUR,195.21,212.7789,1,N/A,16,1,Young Adult
+1018,64,Matthew Cross,78,N/A,N/A,7/31/25,6/24/25,Connie Wood,Connie Wood,General,General,$149.8,USD,149.8,149.8,1,N/A,14,1,Elderly
+1077,65,Jennifer Stark,34,N/A,N/A,6/29/25,12/4/24,Jason Williams,Jason Williams,Neurology,Neurology,Rs270.33,INR,270.33,3.24396,N,No,10,1,Young Adult
+1063,66,Jordan Camacho Jr.,21,male,Male,11/12/25,6/30/25,Alexis Carter,Alexis Carter,Neurology,Neurology,$186.24,USD,186.24,186.24,Yes,Yes,11,1,Young Adult
+1015,67,Elizabeth Bryant,37,N/A,N/A,7/19/25,6/10/24,Rebecca Kim,Rebecca Kim,Orthopedics,Orthopedics,Rs425.63,INR,425.63,5.10756,No,No,17,1,Young Adult
+1068,68,Matthew Valdez,60,N/A,N/A,2/19/26,11/13/24,Rachel Terry,Rachel Terry,Neurology,Neurology,¬£91.77,GBP,91.77,116.5479,1,N/A,14,1,Middle Aged
+1010,69,Richard Woodard,38,Female,Female,2/11/26,9/28/25,Whitney Hoffman,Whitney Hoffman,Orthopedics,Orthopedics,‚Ç¨91.27,EUR,91.27,99.4843,N,No,10,1,Young Adult
+1034,70,Chad Reed,68,Male,Male,7/5/25,1/23/25,Jennifer Adams,Jennifer Adams,Neurology,Neurology,¬£453.06,GBP,453.06,575.3862,N,No,8,1,Elderly
+1095,71,Jessica Heath,86,N/A,N/A,6/25/25,4/24/24,Sherri Long,Sherri Long,Cardiology,Cardiology,‚Ç¨61.37,EUR,61.37,66.8933,Yes,Yes,12,1,Elderly
+1070,72,Clayton Williamson,85,N/A,N/A,9/10/25,8/20/24,Glen Diaz,Glen Diaz,Neurology,Neurology,$185.52,USD,185.52,185.52,No,No,13,1,Elderly
+1099,73,Timothy Walter,28,F,Female,7/21/25,7/14/25,Miss Julie Rodriguez,Miss Julie Rodriguez,Neurology,Neurology,¬£112.48,GBP,112.48,142.8496,Y,Yes,7,1,Young Adult
+1022,74,Katelyn Miller,23,Female,Female,2/19/26,9/16/24,Andrea Cruz,Andrea Cruz,Orthopedics,Orthopedics,$382.34,USD,382.34,382.34,Yes,Yes,9,1,Young Adult
+1095,75,Elizabeth Decker,86,F,Female,10/22/25,7/19/25,Brandi Hale,Brandi Hale,Orthopedics,Orthopedics,Rs168.18,INR,168.18,2.01816,Yes,Yes,12,1,Elderly
+1061,76,Jessica Smith,66,Female,Female,8/20/25,3/8/25,Crystal Mack,Crystal Mack,Neurology,Neurology,,N/A,,N/A,Yes,Yes,8,1,Elderly
+1088,77,James Johnston,22,male,Male,11/2/25,4/24/25,Drew Bartlett,Drew Bartlett,General,General,$206.53,USD,206.53,206.53,1,N/A,16,1,Young Adult
+1008,78,Christine Price,69,F,Female,10/1/25,5/23/24,Susan Brown,Susan Brown,Orthopedics,Orthopedics,$258.21,USD,258.21,258.21,0,N/A,11,1,Elderly
+1014,79,Amy Mayer,26,N/A,N/A,9/28/25,7/8/24,Jim Patterson,Jim Patterson,Cardiology,Cardiology,‚Ç¨253.4,EUR,253.4,276.206,1,N/A,10,1,Young Adult
+1005,80,Samuel Moore,69,M,Male,3/2/26,11/21/24,Heather Everett,Heather Everett,General,General,Rs83.09,INR,83.09,0.99708,1,N/A,13,1,Elderly
+1098,81,Jamie Mcclure,35,Female,Female,3/13/26,7/27/25,Katherine Sanders,Katherine Sanders,Orthopedics,Orthopedics,$80.38,USD,80.38,80.38,1,N/A,12,1,Young Adult
+1074,82,Luke Price,23,N/A,N/A,12/13/25,6/18/25,Virginia Lang,Virginia Lang,Orthopedics,Orthopedics,Rs260.4,INR,260.4,3.1248,Y,Yes,17,1,Young Adult
+1097,83,Luis Rodriguez,50,M,Male,11/23/25,9/24/25,Samantha Bass MD,Samantha Bass Md,Orthopedics,Orthopedics,$294.58,USD,294.58,294.58,1,N/A,10,1,Middle Aged
+1047,84,Pamela Brown,40,M,Male,2/25/26,6/1/25,Melinda Duncan,Melinda Duncan,Orthopedics,Orthopedics,$247.13,USD,247.13,247.13,Yes,Yes,17,1,Middle Aged
+1093,85,Craig Nixon,55,N/A,N/A,10/12/25,8/20/25,William Key,William Key,Neurology,Neurology,¬£341.19,GBP,341.19,433.3113,No,No,11,1,Middle Aged
+1044,86,Justin Caldwell,57,N/A,N/A,5/9/25,12/18/24,Ronnie Miller,Ronnie Miller,Orthopedics,Orthopedics,Rs383.69,INR,383.69,4.60428,N,No,12,1,Middle Aged
+1050,87,Cassandra Collins,60,N/A,N/A,10/3/25,8/26/25,Mark Lutz,Mark Lutz,General,General,‚Ç¨243.78,EUR,243.78,265.7202,Y,Yes,12,1,Middle Aged
+1100,88,Adam Torres,58,M,Male,7/3/25,8/25/24,Daniel Le,Daniel Le,Neurology,Neurology,Rs329.25,INR,329.25,3.951,No,No,8,1,Middle Aged
+1095,89,Carol Foster,61,Male,Male,10/19/25,8/22/25,Bryan Mann,Bryan Mann,Neurology,Neurology,‚Ç¨389.37,EUR,389.37,424.4133,0,N/A,12,1,Middle Aged
+1088,90,Chelsey Moore,34,Female,Female,10/12/25,1/15/25,Randy Garrett,Randy Garrett,Cardiology,Cardiology,¬£344.56,GBP,344.56,437.5912,Yes,Yes,16,1,Young Adult
+1027,91,John Hensley,35,M,Male,9/23/25,7/15/24,Paul Tate,Paul Tate,Orthopedics,Orthopedics,Rs289.07,INR,289.07,3.46884,1,N/A,12,1,Young Adult
+1040,92,Chelsea Burns,62,N/A,N/A,12/29/25,5/13/24,Michael Morales,Michael Morales,Cardiology,Cardiology,Rs193.6,INR,193.6,2.3232,Yes,Yes,13,1,Middle Aged
+1099,93,Ryan Miller,31,male,Male,7/11/25,3/19/25,Alexa Peterson,Alexa Peterson,Orthopedics,Orthopedics,Rs259.72,INR,259.72,3.11664,Yes,Yes,7,1,Young Adult
+1070,94,Jared Green,28,Female,Female,10/8/25,5/10/25,Brenda Castro,Brenda Castro,Neurology,Neurology,‚Ç¨235.69,EUR,235.69,256.9021,No,No,13,1,Young Adult
+1058,95,Traci Chandler,18,Female,Female,2/4/26,12/10/24,Tyler Carter,Tyler Carter,General,General,‚Ç¨428.75,EUR,428.75,467.3375,No,No,17,1,Young Adult
+1040,96,Kenneth Graham,34,N/A,N/A,10/31/25,3/19/25,Wayne Graham,Wayne Graham,Neurology,Neurology,$142.32,USD,142.32,142.32,0,N/A,13,1,Young Adult
+1018,97,Angela Watkins,34,Female,Female,12/25/25,9/12/24,Kyle Russell,Kyle Russell,Cardiology,Cardiology,¬£109.31,GBP,109.31,138.8237,No,No,14,1,Young Adult
+1052,98,Keith Becker,60,Female,Female,11/7/25,8/28/24,Kristopher Collier,Kristopher Collier,General,General,,N/A,,N/A,Y,Yes,8,1,Middle Aged
+1031,99,Nicole Hoffman,65,Female,Female,6/8/25,1/14/25,Robert Mitchell,Robert Mitchell,General,General,$325.25,USD,325.25,325.25,0,N/A,13,1,Elderly
+1028,100,Hannah Perez,21,Female,Female,11/7/25,7/27/25,Rita Smith,Rita Smith,Neurology,Neurology,¬£111.92,GBP,111.92,142.1384,N,No,8,1,Young Adult
+1089,101,Amanda Fuller,56,Male,Male,2/18/26,12/8/24,Anthony Cruz,Anthony Cruz,Orthopedics,Orthopedics,$347.68,USD,347.68,347.68,1,N/A,16,1,Middle Aged
+1092,102,Tina Lewis,40,Female,Female,2/10/26,12/18/25,Derrick Salazar,Derrick Salazar,Neurology,Neurology,¬£59.67,GBP,59.67,75.7809,Yes,Yes,11,1,Middle Aged
+1088,103,Sarah Hahn,60,N/A,N/A,3/19/26,10/18/24,Theresa Lee,Theresa Lee,General,General,Rs123.03,INR,123.03,1.47636,Yes,Yes,16,1,Middle Aged
+1058,104,Destiny Martin,24,Female,Female,2/16/26,8/26/25,Lynn Jones,Lynn Jones,General,General,Rs420.58,INR,420.58,5.04696,0,N/A,17,1,Young Adult
+1078,105,Megan Mitchell,69,N/A,N/A,11/27/25,5/18/24,Desiree Giles,Desiree Giles,Orthopedics,Orthopedics,‚Ç¨351.17,EUR,351.17,382.7753,No,No,8,1,Elderly
+1027,106,Benjamin Hughes,32,F,Female,3/2/26,12/17/25,Nicholas Mcneil,Nicholas Mcneil,Cardiology,Cardiology,¬£125.31,GBP,125.31,159.1437,1,N/A,12,1,Young Adult
+1062,107,John Anderson,60,male,Male,1/27/26,1/18/26,Paul Blackburn,Paul Blackburn,Cardiology,Cardiology,‚Ç¨253.42,EUR,253.42,276.2278,No,No,6,1,Middle Aged
+1015,108,Chelsea Matthews,68,F,Female,12/7/25,3/24/25,Elizabeth Obrien,Elizabeth Obrien,Orthopedics,Orthopedics,‚Ç¨359.78,EUR,359.78,392.1602,Y,Yes,17,1,Elderly
+1018,109,Monica Horton,53,N/A,N/A,10/11/25,3/30/24,Kayla Stein,Kayla Stein,Neurology,Neurology,$277.21,USD,277.21,277.21,Yes,Yes,14,1,Middle Aged
+1061,110,Joanna Tucker,18,male,Male,3/22/26,10/5/24,Andrew Gray,Andrew Gray,Neurology,Neurology,¬£84.69,GBP,84.69,107.5563,No,No,8,1,Young Adult
+1013,111,Dr. Peggy Mendoza,60,N/A,N/A,4/12/25,1/23/25,Ashley Flowers,Ashley Flowers,Neurology,Neurology,‚Ç¨96.94,EUR,96.94,105.6646,Yes,Yes,10,1,Middle Aged
+1087,112,Victoria Gomez,72,Female,Female,6/26/25,5/19/25,Nicole Chandler,Nicole Chandler,General,General,Rs205.35,INR,205.35,2.4642,1,N/A,8,1,Elderly
+1090,113,Daniel Rivera,63,F,Female,12/28/25,12/22/25,Morgan Green,Morgan Green,Neurology,Neurology,Rs155.42,INR,155.42,1.86504,Y,Yes,8,1,Middle Aged
+1086,114,Harry Wallace,80,Female,Female,12/1/25,10/28/24,Nancy Hernandez,Nancy Hernandez,Orthopedics,Orthopedics,$493.0,USD,493,493,Yes,Yes,9,1,Elderly
+1047,115,Alicia Scott,39,M,Male,11/22/25,11/14/24,William Cochran,William Cochran,Neurology,Neurology,$243.15,USD,243.15,243.15,0,N/A,17,1,Young Adult
+1014,116,Melissa Lane,81,Female,Female,6/1/25,8/19/24,Vanessa Pittman,Vanessa Pittman,Cardiology,Cardiology,‚Ç¨122.6,EUR,122.6,133.634,N,No,10,1,Elderly
+1047,117,Olivia Lambert,38,M,Male,12/15/25,12/25/24,Melanie Blanchard,Melanie Blanchard,Cardiology,Cardiology,¬£100.34,GBP,100.34,127.4318,Y,Yes,17,1,Young Adult
+1073,118,Russell Taylor,38,N/A,N/A,11/29/25,7/11/25,Breanna Gray,Breanna Gray,Orthopedics,Orthopedics,Rs335.07,INR,335.07,4.02084,N,No,11,1,Young Adult
+1093,119,Joshua Sanchez DDS,79,Female,Female,3/29/25,6/27/24,George Flores,George Flores,Orthopedics,Orthopedics,¬£154.29,GBP,154.29,195.9483,Y,Yes,11,1,Elderly
+1027,120,Kayla Drake,54,Female,Female,12/27/25,5/27/25,Jennifer Long DDS,Jennifer Long Dds,Orthopedics,Orthopedics,$412.07,USD,412.07,412.07,0,N/A,12,1,Middle Aged
+1037,121,Karen Carter,22,Female,Female,2/28/26,3/22/25,Chase Clark,Chase Clark,Neurology,Neurology,Rs401.33,INR,401.33,4.81596,1,N/A,5,1,Young Adult
+1021,122,Andrew Baker,27,N/A,N/A,5/4/25,7/11/24,Michael Gillespie,Michael Gillespie,General,General,$486.57,USD,486.57,486.57,1,N/A,16,1,Young Adult
+1007,123,Richard Hernandez,20,male,Male,11/16/25,9/18/25,Daniel Bradley,Daniel Bradley,General,General,¬£482.25,GBP,482.25,612.4575,0,N/A,3,1,Young Adult
+1043,124,Matthew Rivera,31,N/A,N/A,7/3/25,4/26/25,Theodore Bean,Theodore Bean,Orthopedics,Orthopedics,‚Ç¨255.82,EUR,255.82,278.8438,N,No,12,1,Young Adult
+1081,125,Benjamin Jenkins,86,N/A,N/A,7/23/25,4/22/25,Michael Bond,Michael Bond,General,General,‚Ç¨258.12,EUR,258.12,281.3508,No,No,9,1,Elderly
+1053,126,John Johnson,81,N/A,N/A,4/23/25,12/30/24,Steve Bush,Steve Bush,General,General,$162.94,USD,162.94,162.94,N,No,14,1,Elderly
+1035,127,Martha Zavala,58,M,Male,1/23/26,4/14/24,Penny Freeman,Penny Freeman,Cardiology,Cardiology,¬£153.05,GBP,153.05,194.3735,Y,Yes,9,1,Middle Aged
+1036,128,Daniel Ballard,38,N/A,N/A,3/26/25,3/2/25,Willie Williams,Willie Williams,Cardiology,Cardiology,¬£114.64,GBP,114.64,145.5928,N,No,14,1,Young Adult
+1052,129,Mariah Davis,22,Female,Female,10/24/25,1/6/25,Douglas Ford,Douglas Ford,Orthopedics,Orthopedics,¬£381.62,GBP,381.62,484.6574,0,N/A,8,1,Young Adult
+1058,130,Timothy Osborne,83,Female,Female,12/18/25,4/21/25,Christopher Ferguson,Christopher Ferguson,Neurology,Neurology,¬£215.46,GBP,215.46,273.6342,Yes,Yes,17,1,Elderly
+1074,131,Kelsey Collins,19,F,Female,4/24/25,10/8/24,Gabrielle Collins,Gabrielle Collins,Neurology,Neurology,$455.75,USD,455.75,455.75,0,N/A,17,1,Young Adult
+1018,132,David Kramer,54,F,Female,3/25/26,9/5/24,Anne Watkins,Anne Watkins,General,General,¬£325.97,GBP,325.97,413.9819,1,N/A,14,1,Middle Aged
+1033,133,Patricia King,68,male,Male,10/28/25,10/16/24,Jennifer Adams,Jennifer Adams,General,General,$468.06,USD,468.06,468.06,Yes,Yes,11,1,Elderly
+1045,134,Sheri Kline,55,Female,Female,1/2/26,4/11/24,Jennifer Russell,Jennifer Russell,General,General,¬£377.14,GBP,377.14,478.9678,Yes,Yes,8,1,Middle Aged
+1087,135,Troy White,80,N/A,N/A,1/7/26,5/26/24,Cindy Cox,Cindy Cox,Neurology,Neurology,$87.2,USD,87.2,87.2,No,No,8,1,Elderly
+1043,136,David Young,58,N/A,N/A,11/6/25,5/15/25,Amy Williams,Amy Williams,Cardiology,Cardiology,$226.97,USD,226.97,226.97,0,N/A,12,1,Middle Aged
+1020,137,Tim Flowers,31,N/A,N/A,9/29/25,11/4/24,Kimberly Henson,Kimberly Henson,Neurology,Neurology,Rs139.81,INR,139.81,1.67772,Y,Yes,10,1,Young Adult
+1089,138,Gregory Garcia,73,F,Female,5/1/25,7/25/24,Megan Jensen,Megan Jensen,Cardiology,Cardiology,$466.08,USD,466.08,466.08,N,No,16,1,Elderly
+1005,139,Max Martinez,63,N/A,N/A,9/21/25,11/5/24,Joshua Sellers,Joshua Sellers,Cardiology,Cardiology,Rs352.03,INR,352.03,4.22436,Y,Yes,13,1,Middle Aged
+1031,140,Paul Hinton,49,Female,Female,1/2/26,11/29/25,Lindsey Fitzpatrick,Lindsey Fitzpatrick,Neurology,Neurology,$461.19,USD,461.19,461.19,N,No,13,1,Middle Aged
+1069,141,Thomas Landry,60,N/A,N/A,9/3/25,8/1/25,Brandon Moore,Brandon Moore,General,General,,N/A,,N/A,No,No,10,1,Middle Aged
+1093,142,Alexander Le,77,Female,Female,1/20/26,4/4/24,Cynthia Booker,Cynthia Booker,Neurology,Neurology,¬£252.22,GBP,252.22,320.3194,1,N/A,11,1,Elderly
+1073,143,Joseph Irwin,29,Male,Male,7/27/25,6/8/25,Jacob Kerr,Jacob Kerr,General,General,¬£206.74,GBP,206.74,262.5598,Y,Yes,11,1,Young Adult
+1040,144,Corey Smith,52,Male,Male,5/18/25,2/15/25,Luke Williams,Luke Williams,Cardiology,Cardiology,$130.7,USD,130.7,130.7,N,No,13,1,Middle Aged
+1066,145,Brandon Baker,54,Male,Male,8/12/25,7/25/25,Alison Walters,Alison Walters,General,General,¬£106.33,GBP,106.33,135.0391,1,N/A,11,1,Middle Aged
+1047,146,John Campbell,67,N/A,N/A,2/10/26,6/21/24,Tanya Baxter,Tanya Baxter,Orthopedics,Orthopedics,,N/A,,N/A,N,No,17,1,Elderly
+1021,147,Craig Hunt,38,Female,Female,11/1/25,5/25/24,Cynthia Brown,Cynthia Brown,Neurology,Neurology,$122.56,USD,122.56,122.56,Yes,Yes,16,1,Young Adult
+1072,148,Lisa Cameron,37,male,Male,8/14/25,8/11/25,Karen Hunt,Karen Hunt,Cardiology,Cardiology,¬£238.81,GBP,238.81,303.2887,0,N/A,9,1,Young Adult
+1011,149,Nathaniel Wood,66,Male,Male,4/29/25,4/7/25,Alec Hill,Alec Hill,General,General,Rs413.21,INR,413.21,4.95852,1,N/A,7,1,Elderly
+1097,150,Dr. Lindsey Arias DDS,48,N/A,N/A,9/14/25,11/28/24,Colton Williams,Colton Williams,Cardiology,Cardiology,‚Ç¨91.87,EUR,91.87,100.1383,N,No,10,1,Middle Aged
+1028,151,Timothy Matthews,56,male,Male,10/30/25,5/18/24,Brandy Sutton,Brandy Sutton,Orthopedics,Orthopedics,‚Ç¨485.5,EUR,485.5,529.195,N,No,8,1,Middle Aged
+1057,152,Katelyn Byrd,32,Male,Male,3/30/25,5/3/24,Barbara Chavez,Barbara Chavez,General,General,¬£209.81,GBP,209.81,266.4587,1,N/A,7,1,Young Adult
+1002,153,Jeffrey Bates,87,M,Male,4/8/25,12/4/24,Lisa Ho,Lisa Ho,Cardiology,Cardiology,$401.55,USD,401.55,401.55,Yes,Yes,7,1,Elderly
+1065,154,Kevin Johnson,18,N/A,N/A,10/25/25,9/3/24,Lance Smith,Lance Smith,Neurology,Neurology,Rs283.3,INR,283.3,3.3996,0,N/A,9,1,Young Adult
+1026,155,Kelly Mcknight,87,N/A,N/A,2/3/26,7/12/25,Jerry Lopez,Jerry Lopez,Neurology,Neurology,¬£146.2,GBP,146.2,185.674,Y,Yes,10,1,Elderly
+1100,156,Jamie Wright,62,N/A,N/A,4/3/25,3/18/25,Lori Hall,Lori Hall,Orthopedics,Orthopedics,‚Ç¨211.18,EUR,211.18,230.1862,Y,Yes,8,1,Middle Aged
+1066,157,Kimberly Conner,86,F,Female,2/18/26,10/12/24,Steven Holland,Steven Holland,Cardiology,Cardiology,¬£476.99,GBP,476.99,605.7773,1,N/A,11,1,Elderly
+1025,158,Kelli Page,25,male,Male,10/8/25,3/24/25,Stephanie Wall,Stephanie Wall,Orthopedics,Orthopedics,$248.33,USD,248.33,248.33,0,N/A,9,1,Young Adult
+1038,159,Deanna Abbott,46,Female,Female,9/4/25,5/8/25,Damon Hayes,Damon Hayes,Orthopedics,Orthopedics,¬£192.67,GBP,192.67,244.6909,1,N/A,10,1,Middle Aged
+1038,160,Lindsay Rodriguez,39,male,Male,10/23/25,7/18/25,Troy Lynch,Troy Lynch,Orthopedics,Orthopedics,,N/A,,N/A,0,N/A,10,1,Young Adult
+1000,161,Christopher Singleton,81,F,Female,10/26/25,2/19/25,Brandy Graves,Brandy Graves,General,General,$65.06,USD,65.06,65.06,1,N/A,3,1,Elderly
+1008,162,Michael Walsh,69,N/A,N/A,5/8/25,1/24/25,Tammy Watts,Tammy Watts,Neurology,Neurology,¬£117.14,GBP,117.14,148.7678,Yes,Yes,11,1,Elderly
+1078,163,Caroline Reed,54,N/A,N/A,7/29/25,6/6/24,Eric Kelly,Eric Kelly,Neurology,Neurology,Rs433.77,INR,433.77,5.20524,No,No,8,1,Middle Aged
+1038,164,Jennifer Wells,79,F,Female,5/13/25,9/2/24,David Cole,David Cole,Orthopedics,Orthopedics,$82.84,USD,82.84,82.84,No,No,10,1,Elderly
+1082,165,Gary Walker,87,N/A,N/A,3/26/25,3/26/24,Matthew Lopez,Matthew Lopez,Orthopedics,Orthopedics,Rs216.23,INR,216.23,2.59476,Yes,Yes,14,1,Elderly
+1028,166,Michelle Johnson,24,male,Male,12/19/25,7/1/25,Jennifer Brooks,Jennifer Brooks,General,General,‚Ç¨492.98,EUR,492.98,537.3482,Yes,Yes,8,1,Young Adult
+1048,167,Malik Robinson,77,Female,Female,10/21/25,7/18/24,Amber Little,Amber Little,General,General,Rs280.77,INR,280.77,3.36924,N,No,8,1,Elderly
+1035,168,Michael Glenn,60,N/A,N/A,11/13/25,6/23/25,Robert Martinez,Robert Martinez,Cardiology,Cardiology,$99.19,USD,99.19,99.19,N,No,9,1,Middle Aged
+1010,169,Anthony Cortez,57,Male,Male,5/25/25,3/28/25,Derrick Cook,Derrick Cook,General,General,$225.83,USD,225.83,225.83,Y,Yes,10,1,Middle Aged
+1043,170,Daniel Cole,69,male,Male,5/6/25,9/28/24,Dustin Jones,Dustin Jones,Cardiology,Cardiology,$458.12,USD,458.12,458.12,Yes,Yes,12,1,Elderly
+1083,171,Matthew Lloyd,58,M,Male,1/17/26,7/21/25,Timothy Morgan,Timothy Morgan,Cardiology,Cardiology,‚Ç¨244.78,EUR,244.78,266.8102,N,No,7,1,Middle Aged
+1026,172,Jason Hicks,86,F,Female,12/17/25,9/19/25,Stacey Garcia,Stacey Garcia,Orthopedics,Orthopedics,‚Ç¨330.37,EUR,330.37,360.1033,0,N/A,10,1,Elderly
+1046,173,Stephanie Cisneros,50,F,Female,12/3/25,8/2/24,Rachel Richards,Rachel Richards,Orthopedics,Orthopedics,¬£98.14,GBP,98.14,124.6378,Yes,Yes,8,1,Middle Aged
+1084,174,Troy Taylor,52,N/A,N/A,12/28/25,2/24/25,Jason Gill,Jason Gill,General,General,¬£464.69,GBP,464.69,590.1563,Yes,Yes,15,1,Middle Aged
+1006,175,Charles Cruz,54,Female,Female,1/27/26,9/1/24,Jessica Sawyer,Jessica Sawyer,Orthopedics,Orthopedics,¬£91.65,GBP,91.65,116.3955,No,No,8,1,Middle Aged
+1015,176,Brenda Ward,43,N/A,N/A,11/26/25,8/25/25,Tonya Smith,Tonya Smith,Neurology,Neurology,Rs425.67,INR,425.67,5.10804,Y,Yes,17,1,Middle Aged
+1091,177,David Martinez,80,Male,Male,9/13/25,7/7/25,Amber Braun,Amber Braun,Cardiology,Cardiology,,N/A,,N/A,Y,Yes,9,1,Elderly
+1024,178,Alex Webster,34,M,Male,2/11/26,12/24/24,Lorraine Schroeder,Lorraine Schroeder,Orthopedics,Orthopedics,‚Ç¨140.86,EUR,140.86,153.5374,1,N/A,12,1,Young Adult
+1033,179,Carl Sanchez,87,Female,Female,4/6/25,8/2/24,Christina Price,Christina Price,Orthopedics,Orthopedics,$446.06,USD,446.06,446.06,N,No,11,1,Elderly
+1010,180,Lucas Ray,21,F,Female,2/12/26,2/7/25,Carrie Larsen,Carrie Larsen,Neurology,Neurology,¬£138.59,GBP,138.59,176.0093,Y,Yes,10,1,Young Adult
+1082,181,Cynthia Wells,37,M,Male,11/17/25,1/7/25,Ashlee Romero,Ashlee Romero,Orthopedics,Orthopedics,¬£448.6,GBP,448.6,569.722,0,N/A,14,1,Young Adult
+1096,182,Dwayne Clarke,42,male,Male,8/12/25,9/8/24,Andrew Meadows,Andrew Meadows,Neurology,Neurology,‚Ç¨150.94,EUR,150.94,164.5246,No,No,4,1,Middle Aged
+1011,183,James Jimenez,53,N/A,N/A,10/26/25,9/14/25,Ryan Marsh,Ryan Marsh,Neurology,Neurology,‚Ç¨339.19,EUR,339.19,369.7171,0,N/A,7,1,Middle Aged
+1002,184,Dr. Michele Copeland,35,N/A,N/A,9/25/25,5/24/24,Debra Castillo,Debra Castillo,Neurology,Neurology,‚Ç¨187.28,EUR,187.28,204.1352,Y,Yes,7,1,Young Adult
+1016,185,Travis Allen MD,44,male,Male,6/22/25,6/18/24,Karen White,Karen White,Orthopedics,Orthopedics,‚Ç¨157.66,EUR,157.66,171.8494,1,N/A,15,1,Middle Aged
+1077,186,Bradley Fuller,83,Male,Male,5/13/25,2/28/25,John Yang,John Yang,General,General,Rs69.97,INR,69.97,0.83964,Yes,Yes,10,1,Elderly
+1026,187,Miss Crystal Davis DDS,25,Female,Female,7/7/25,6/6/24,Christopher Hayes,Christopher Hayes,General,General,¬£490.55,GBP,490.55,622.9985,Y,Yes,10,1,Young Adult
+1052,188,Kara White,59,N/A,N/A,3/14/26,1/26/25,Kyle Dawson,Kyle Dawson,Orthopedics,Orthopedics,‚Ç¨315.64,EUR,315.64,344.0476,N,No,8,1,Middle Aged
+1040,189,Briana Guerrero,33,Female,Female,1/19/26,3/30/24,Molly Warner,Molly Warner,General,General,¬£231.08,GBP,231.08,293.4716,1,N/A,13,1,Young Adult
+1068,190,Judy Nguyen,29,male,Male,5/27/25,10/23/24,Michelle Ortega,Michelle Ortega,General,General,$429.14,USD,429.14,429.14,Yes,Yes,14,1,Young Adult
+1013,191,Sandra Murphy,25,M,Male,11/1/25,7/29/24,Shelby Brown,Shelby Brown,Orthopedics,Orthopedics,Rs93.12,INR,93.12,1.11744,No,No,10,1,Young Adult
+1024,192,Debra Ford,33,N/A,N/A,2/22/26,9/19/25,Allison Smith,Allison Smith,Orthopedics,Orthopedics,¬£461.81,GBP,461.81,586.4987,Y,Yes,12,1,Young Adult
+1033,193,Michelle Harris,56,N/A,N/A,11/7/25,12/6/24,Matthew Garrett,Matthew Garrett,Orthopedics,Orthopedics,‚Ç¨130.72,EUR,130.72,142.4848,Yes,Yes,11,1,Middle Aged
+1067,194,Ariel Davis,85,Male,Male,10/25/25,2/21/25,Jason Gallagher,Jason Gallagher,Orthopedics,Orthopedics,Rs85.63,INR,85.63,1.02756,Y,Yes,9,1,Elderly
+1045,195,Anna Garrett,24,Female,Female,5/30/25,3/20/25,Alice Lucas,Alice Lucas,Neurology,Neurology,‚Ç¨394.9,EUR,394.9,430.441,Yes,Yes,8,1,Young Adult
+1087,196,Kimberly Guzman,31,N/A,N/A,11/18/25,4/2/25,Kristin Reeves,Kristin Reeves,General,General,,N/A,,N/A,Y,Yes,8,1,Young Adult
+1056,197,Terry Miller,24,F,Female,4/22/25,3/24/25,John Lyons,John Lyons,General,General,,N/A,,N/A,Yes,Yes,13,1,Young Adult
+1053,198,Marissa Davidson,81,Female,Female,4/13/25,12/3/24,Philip Davis,Philip Davis,Cardiology,Cardiology,¬£499.67,GBP,499.67,634.5809,Y,Yes,14,1,Elderly
+1059,199,Emma Martin,79,male,Male,8/24/25,8/21/25,Charles Mcmillan,Charles Mcmillan,Orthopedics,Orthopedics,‚Ç¨66.64,EUR,66.64,72.6376,Yes,Yes,13,1,Elderly
+1050,200,William Lewis,32,M,Male,4/4/25,5/16/24,Wesley Johnson,Wesley Johnson,Orthopedics,Orthopedics,Rs361.31,INR,361.31,4.33572,Y,Yes,12,1,Young Adult
+1044,201,Robert Mclaughlin,21,Female,Female,6/22/25,6/9/24,Shannon Mejia,Shannon Mejia,Orthopedics,Orthopedics,¬£205.31,GBP,205.31,260.7437,N,No,12,1,Young Adult
+1089,202,William Sparks,48,N/A,N/A,3/26/25,12/3/24,Jeffrey Ashley Jr.,Jeffrey Ashley Jr.,Cardiology,Cardiology,Rs193.18,INR,193.18,2.31816,0,N/A,16,1,Middle Aged
+1074,203,David Kidd,23,Male,Male,11/23/25,9/10/25,Kathy Thompson,Kathy Thompson,Orthopedics,Orthopedics,¬£321.34,GBP,321.34,408.1018,N,No,17,1,Young Adult
+1026,204,Brandon Martin,87,N/A,N/A,2/6/26,8/11/24,John Miller,John Miller,Neurology,Neurology,$446.44,USD,446.44,446.44,Yes,Yes,10,1,Elderly
+1059,205,Amanda Martinez,27,N/A,N/A,8/23/25,11/12/24,Gary Bowman,Gary Bowman,General,General,$165.8,USD,165.8,165.8,Y,Yes,13,1,Young Adult
+1065,206,Nancy Barry,71,Female,Female,3/7/26,3/30/25,Katherine Espinoza,Katherine Espinoza,Cardiology,Cardiology,Rs493.59,INR,493.59,5.92308,1,N/A,9,1,Elderly
+1085,207,Clinton Estrada,75,male,Male,11/6/25,10/14/24,Jacob Bender,Jacob Bender,Orthopedics,Orthopedics,,N/A,,N/A,Y,Yes,12,1,Elderly
+1024,208,Maria Douglas,86,N/A,N/A,2/17/26,1/15/26,Daniel Evans,Daniel Evans,Orthopedics,Orthopedics,‚Ç¨489.64,EUR,489.64,533.7076,Yes,Yes,12,1,Elderly
+1048,209,Walter Webb,33,N/A,N/A,9/26/25,9/3/24,Dale Herrera,Dale Herrera,Neurology,Neurology,,N/A,,N/A,Y,Yes,8,1,Young Adult
+1069,210,Megan Avery,73,F,Female,1/8/26,8/13/24,Michael Arroyo Jr.,Michael Arroyo Jr.,General,General,$96.48,USD,96.48,96.48,Yes,Yes,10,1,Elderly
+1071,211,Brianna Morris,73,N/A,N/A,11/3/25,4/26/24,Gregory West DDS,Gregory West Dds,Orthopedics,Orthopedics,‚Ç¨422.79,EUR,422.79,460.8411,Y,Yes,10,1,Elderly
+1076,212,Judy Avila,21,Female,Female,10/19/25,8/2/25,Morgan Ramos,Morgan Ramos,Orthopedics,Orthopedics,Rs330.43,INR,330.43,3.96516,Yes,Yes,6,1,Young Adult
+1057,213,Erika Davis,28,N/A,N/A,6/8/25,6/6/25,Allison Parker,Allison Parker,Neurology,Neurology,¬£440.72,GBP,440.72,559.7144,N,No,7,1,Young Adult
+1029,214,Jeffrey Solis,49,Female,Female,5/15/25,4/9/25,William Nichols,William Nichols,Neurology,Neurology,‚Ç¨287.03,EUR,287.03,312.8627,Yes,Yes,8,1,Middle Aged
+1049,215,Scott Graves,65,male,Male,1/10/26,1/6/26,Marie Clark,Marie Clark,General,General,‚Ç¨489.0,EUR,489,533.01,Y,Yes,8,1,Elderly
+1049,216,Ellen Fitzpatrick,59,Male,Male,11/14/25,4/23/25,Grant Parker,Grant Parker,Neurology,Neurology,¬£201.19,GBP,201.19,255.5113,No,No,8,1,Middle Aged
+1076,217,Mark Harrison,24,F,Female,10/6/25,6/13/24,Jennifer Hernandez,Jennifer Hernandez,Orthopedics,Orthopedics,‚Ç¨155.45,EUR,155.45,169.4405,Yes,Yes,6,1,Young Adult
+1083,218,Daniel Barajas,56,Female,Female,4/7/25,1/8/25,Joshua Burnett,Joshua Burnett,Neurology,Neurology,¬£236.44,GBP,236.44,300.2788,1,N/A,7,1,Middle Aged
+1083,219,Christine Murphy,21,N/A,N/A,8/18/25,7/23/24,Amanda Mendoza,Amanda Mendoza,Cardiology,Cardiology,$96.21,USD,96.21,96.21,1,N/A,7,1,Young Adult
+1091,220,Richard Wagner,20,M,Male,12/6/25,11/25/25,Christopher Sherman,Christopher Sherman,General,General,‚Ç¨270.47,EUR,270.47,294.8123,Yes,Yes,9,1,Young Adult
+1099,221,Eric Coffey,23,N/A,N/A,8/28/25,9/4/24,Jeffrey Burns,Jeffrey Burns,Cardiology,Cardiology,Rs284.29,INR,284.29,3.41148,N,No,7,1,Young Adult
+1098,222,Tony Gibbs,39,N/A,N/A,11/1/25,10/13/24,Brandon Morris,Brandon Morris,General,General,‚Ç¨354.36,EUR,354.36,386.2524,N,No,12,1,Young Adult
+1060,223,Stephanie Bryant,32,N/A,N/A,1/2/26,2/18/25,Sara Booth,Sara Booth,Orthopedics,Orthopedics,¬£452.69,GBP,452.69,574.9163,Yes,Yes,6,1,Young Adult
+1091,224,Eric Allen,67,N/A,N/A,8/1/25,5/9/25,Amanda Mclaughlin,Amanda Mclaughlin,Neurology,Neurology,¬£329.83,GBP,329.83,418.8841,0,N/A,9,1,Elderly
+1031,225,Robert Jimenez,23,male,Male,3/6/26,7/20/24,Tony Randall,Tony Randall,Cardiology,Cardiology,‚Ç¨450.86,EUR,450.86,491.4374,Yes,Yes,13,1,Young Adult
+1018,226,Chris Wells,71,M,Male,5/17/25,12/25/24,Crystal Medina,Crystal Medina,Neurology,Neurology,Rs132.38,INR,132.38,1.58856,Yes,Yes,14,1,Elderly
+1054,227,Danny Gray,68,male,Male,4/14/25,2/13/25,Patricia Carpenter,Patricia Carpenter,General,General,‚Ç¨199.55,EUR,199.55,217.5095,0,N/A,12,1,Elderly
+1038,228,Alicia Davis,19,N/A,N/A,3/31/25,10/27/24,John Gonzalez,John Gonzalez,Cardiology,Cardiology,‚Ç¨296.7,EUR,296.7,323.403,N,No,10,1,Young Adult
+1067,229,Dr. John Hernandez,33,N/A,N/A,12/29/25,5/29/24,Michelle Austin,Michelle Austin,General,General,$409.96,USD,409.96,409.96,No,No,9,1,Young Adult
+1070,230,Andres Mills,54,M,Male,6/23/25,8/24/24,Paul Weaver,Paul Weaver,Neurology,Neurology,¬£386.53,GBP,386.53,490.8931,0,N/A,13,1,Middle Aged
+1097,231,Vanessa Allen,52,Male,Male,1/9/26,8/6/25,Amy Chavez,Amy Chavez,Neurology,Neurology,Rs243.94,INR,243.94,2.92728,Yes,Yes,10,1,Middle Aged
+1056,232,Virginia Flores,70,Female,Female,12/26/25,8/13/25,Leonard Macias,Leonard Macias,General,General,$364.83,USD,364.83,364.83,Y,Yes,13,1,Elderly
+1078,233,Mackenzie Walker,56,Female,Female,3/27/25,5/20/24,Jenny Wright,Jenny Wright,Orthopedics,Orthopedics,$335.95,USD,335.95,335.95,1,N/A,8,1,Middle Aged
+1031,234,Kayla Berger,29,Female,Female,8/5/25,9/27/24,Todd Oconnor,Todd Oconnor,Orthopedics,Orthopedics,,N/A,,N/A,Y,Yes,13,1,Young Adult
+1035,235,Brian White,80,male,Male,8/3/25,4/3/25,Rachel Howell,Rachel Howell,Neurology,Neurology,‚Ç¨387.58,EUR,387.58,422.4622,Yes,Yes,9,1,Elderly
+1079,236,Dale Fisher,24,M,Male,1/16/26,4/20/24,Dr. Heidi Johnson,Dr. Heidi Johnson,Cardiology,Cardiology,Rs360.39,INR,360.39,4.32468,N,No,4,1,Young Adult
+1062,237,Brian Griffith,20,M,Male,6/15/25,4/11/25,Robert Stanley,Robert Stanley,Cardiology,Cardiology,¬£288.24,GBP,288.24,366.0648,1,N/A,6,1,Young Adult
+1006,238,Theresa Sanchez,56,N/A,N/A,2/3/26,8/16/24,Amber Sullivan,Amber Sullivan,General,General,‚Ç¨286.43,EUR,286.43,312.2087,1,N/A,8,1,Middle Aged
+1034,239,Kimberly Watson,60,Female,Female,1/11/26,7/25/25,Joseph Meyers,Joseph Meyers,Neurology,Neurology,,N/A,,N/A,0,N/A,8,1,Middle Aged
+1021,240,Christopher Miller,51,male,Male,12/27/25,1/11/25,Christine Arnold,Christine Arnold,General,General,‚Ç¨476.26,EUR,476.26,519.1234,N,No,16,1,Middle Aged
+1089,241,Brian Davis,72,Female,Female,12/26/25,8/5/24,Michelle Smith,Michelle Smith,Neurology,Neurology,¬£480.75,GBP,480.75,610.5525,Yes,Yes,16,1,Elderly
+1054,242,Deborah Wagner,74,N/A,N/A,2/15/26,5/30/25,Cesar Sanchez,Cesar Sanchez,Neurology,Neurology,Rs277.6,INR,277.6,3.3312,0,N/A,12,1,Elderly
+1026,243,Christine Vega,80,Male,Male,4/27/25,3/23/25,Jordan Cole,Jordan Cole,General,General,Rs301.11,INR,301.11,3.61332,Y,Yes,10,1,Elderly
+1015,244,Zachary Jones,53,N/A,N/A,10/3/25,7/1/25,Alexander Lee,Alexander Lee,Orthopedics,Orthopedics,¬£304.51,GBP,304.51,386.7277,0,N/A,17,1,Middle Aged
+1015,245,Stephen Hicks,88,N/A,N/A,10/19/25,6/5/25,Christopher Underwood,Christopher Underwood,Orthopedics,Orthopedics,¬£266.53,GBP,266.53,338.4931,1,N/A,17,1,Elderly
+1060,246,Haley Taylor,51,Female,Female,7/6/25,4/18/25,Christopher Wolfe,Christopher Wolfe,General,General,Rs433.55,INR,433.55,5.2026,Y,Yes,6,1,Middle Aged
+1003,247,Melissa Miranda,77,Male,Male,6/3/25,5/18/24,Jennifer Jones,Jennifer Jones,Orthopedics,Orthopedics,¬£70.47,GBP,70.47,89.4969,1,N/A,12,1,Elderly
+1022,248,Linda Nicholson,24,Female,Female,8/19/25,5/10/25,Melissa Daniels,Melissa Daniels,Neurology,Neurology,$425.91,USD,425.91,425.91,Yes,Yes,9,1,Young Adult
+1093,249,Whitney Bradley,31,N/A,N/A,5/27/25,12/20/24,Ryan White,Ryan White,General,General,‚Ç¨111.71,EUR,111.71,121.7639,0,N/A,11,1,Young Adult
+1089,250,Carolyn Jacobson,47,Female,Female,2/11/26,2/14/25,Katrina Johnston,Katrina Johnston,Cardiology,Cardiology,¬£365.37,GBP,365.37,464.0199,No,No,16,1,Middle Aged
+1094,251,Jordan Hudson,74,N/A,N/A,6/17/25,4/25/24,Linda Martin,Linda Martin,Cardiology,Cardiology,‚Ç¨475.27,EUR,475.27,518.0443,1,N/A,8,1,Elderly
+1016,252,Joseph Banks,36,F,Female,12/5/25,6/15/24,Susan Kelley,Susan Kelley,Neurology,Neurology,$108.6,USD,108.6,108.6,N,No,15,1,Young Adult
+1045,253,Brad West,34,F,Female,5/14/25,5/19/24,Samuel Stone,Samuel Stone,Cardiology,Cardiology,¬£455.05,GBP,455.05,577.9135,N,No,8,1,Young Adult
+1036,254,Kelsey Johnson,29,N/A,N/A,1/28/26,12/3/24,Mallory Torres,Mallory Torres,Neurology,Neurology,¬£264.45,GBP,264.45,335.8515,No,No,14,1,Young Adult
+1031,255,Jared Parrish,42,F,Female,8/5/25,7/27/25,Wendy Herrera,Wendy Herrera,Orthopedics,Orthopedics,Rs132.57,INR,132.57,1.59084,No,No,13,1,Middle Aged
+1097,256,Megan Murphy,35,N/A,N/A,4/19/25,4/11/25,Kevin Coleman,Kevin Coleman,Cardiology,Cardiology,Rs359.5,INR,359.5,4.314,N,No,10,1,Young Adult
+1062,257,Laura Lopez,25,male,Male,10/6/25,6/13/24,Julie Phillips,Julie Phillips,Cardiology,Cardiology,Rs464.57,INR,464.57,5.57484,0,N/A,6,1,Young Adult
+1056,258,Joshua Sanford,57,Female,Female,6/20/25,2/13/25,Tara Montoya,Tara Montoya,Neurology,Neurology,$186.61,USD,186.61,186.61,1,N/A,13,1,Middle Aged
+1058,259,Mark Bowers,19,N/A,N/A,5/11/25,4/2/25,Antonio Bryant,Antonio Bryant,Neurology,Neurology,$116.69,USD,116.69,116.69,Yes,Yes,17,1,Young Adult
+1053,260,Nicole West,30,Female,Female,3/24/26,3/26/24,Marissa Jacobs,Marissa Jacobs,General,General,‚Ç¨218.44,EUR,218.44,238.0996,0,N/A,14,1,Young Adult
+1032,261,Amy Wood,43,F,Female,6/22/25,1/25/25,John Shannon,John Shannon,Neurology,Neurology,‚Ç¨255.67,EUR,255.67,278.6803,0,N/A,7,1,Middle Aged
+1049,262,Robert Montoya,79,N/A,N/A,12/6/25,9/9/24,Gregg Bennett,Gregg Bennett,Neurology,Neurology,,N/A,,N/A,No,No,8,1,Elderly
+1068,263,Robert Torres,61,Male,Male,10/20/25,8/7/25,Kyle Phillips,Kyle Phillips,Neurology,Neurology,$129.48,USD,129.48,129.48,N,No,14,1,Middle Aged
+1015,264,Mason Morgan,53,male,Male,4/21/25,8/25/24,James Cobb,James Cobb,General,General,Rs299.03,INR,299.03,3.58836,No,No,17,1,Middle Aged
+1090,265,Jeffrey Hart,70,Female,Female,12/9/25,11/16/24,Jacob Townsend,Jacob Townsend,Orthopedics,Orthopedics,Rs459.66,INR,459.66,5.51592,Y,Yes,8,1,Elderly
+1086,266,Jessica Pitts,72,N/A,N/A,3/10/26,10/22/25,Miguel Hayes,Miguel Hayes,Orthopedics,Orthopedics,¬£403.61,GBP,403.61,512.5847,0,N/A,9,1,Elderly
+1088,267,Amy King,49,Female,Female,9/15/25,1/30/25,Peter Wells,Peter Wells,General,General,¬£241.48,GBP,241.48,306.6796,Y,Yes,16,1,Middle Aged
+1034,268,Lisa Fisher,44,N/A,N/A,7/16/25,6/12/25,Karen Martin,Karen Martin,Neurology,Neurology,$417.38,USD,417.38,417.38,Yes,Yes,8,1,Middle Aged
+1070,269,Donna Jenkins,68,Female,Female,5/30/25,5/14/24,Rachel Allen,Rachel Allen,General,General,Rs390.97,INR,390.97,4.69164,Yes,Yes,13,1,Elderly
+1032,270,Matthew Cox,88,M,Male,1/22/26,4/7/24,Alexander Horton,Alexander Horton,General,General,Rs100.2,INR,100.2,1.2024,No,No,7,1,Elderly
+1036,271,Melissa Berry MD,75,N/A,N/A,2/23/26,10/16/24,Kathryn Hooper,Kathryn Hooper,Cardiology,Cardiology,¬£462.97,GBP,462.97,587.9719,N,No,14,1,Elderly
+1098,272,Zachary Frazier,88,Female,Female,2/14/26,12/27/24,Tamara Thompson,Tamara Thompson,Orthopedics,Orthopedics,$481.92,USD,481.92,481.92,0,N/A,12,1,Elderly
+1071,273,Jose Bryant,49,Male,Male,5/24/25,12/10/24,Ryan Lopez,Ryan Lopez,Orthopedics,Orthopedics,¬£350.41,GBP,350.41,445.0207,N,No,10,1,Middle Aged
+1054,274,Thomas Smith,82,N/A,N/A,11/23/25,12/7/24,Kenneth Turner,Kenneth Turner,Cardiology,Cardiology,Rs392.87,INR,392.87,4.71444,Yes,Yes,12,1,Elderly
+1054,275,Jason Harrington,62,Male,Male,1/16/26,7/14/25,Stacey Miller,Stacey Miller,Orthopedics,Orthopedics,,N/A,,N/A,No,No,12,1,Middle Aged
+1090,276,Autumn Griffin,55,N/A,N/A,9/21/25,6/18/24,Isabel Harris,Isabel Harris,Orthopedics,Orthopedics,$202.41,USD,202.41,202.41,0,N/A,8,1,Middle Aged
+1027,277,Adam Shelton,83,N/A,N/A,6/26/25,6/12/25,Mary Thompson,Mary Thompson,Neurology,Neurology,$225.1,USD,225.1,225.1,Yes,Yes,12,1,Elderly
+1017,278,Amber Trevino,86,F,Female,5/28/25,7/10/24,Sarah Holder,Sarah Holder,Cardiology,Cardiology,,N/A,,N/A,1,N/A,8,1,Elderly
+1027,279,Jamie Aguilar,77,Female,Female,9/19/25,8/20/24,Michael Duke,Michael Duke,Cardiology,Cardiology,‚Ç¨400.01,EUR,400.01,436.0109,Y,Yes,12,1,Elderly
+1026,280,Alyssa Lucas,47,F,Female,1/6/26,10/11/24,Daniel Ryan,Daniel Ryan,Neurology,Neurology,$400.52,USD,400.52,400.52,Yes,Yes,10,1,Middle Aged
+1080,281,Theresa Young,69,Male,Male,10/15/25,6/11/25,Brenda Booth,Brenda Booth,General,General,¬£152.7,GBP,152.7,193.929,0,N/A,11,1,Elderly
+1039,282,Donna Clark,40,N/A,N/A,9/3/25,4/8/24,Joanne Adams,Joanne Adams,Cardiology,Cardiology,‚Ç¨154.68,EUR,154.68,168.6012,Yes,Yes,8,1,Middle Aged
+1059,283,Michael White,32,male,Male,3/11/26,7/23/25,Seth Ramirez,Seth Ramirez,General,General,$300.71,USD,300.71,300.71,Yes,Yes,13,1,Young Adult
+1043,284,Jessica Johnson,66,N/A,N/A,11/22/25,9/7/25,Kevin Weaver,Kevin Weaver,Neurology,Neurology,¬£166.59,GBP,166.59,211.5693,Yes,Yes,12,1,Elderly
+1066,285,Victor Anderson MD,28,Male,Male,9/10/25,4/21/25,Dr. William Terry,Dr. William Terry,Cardiology,Cardiology,¬£357.83,GBP,357.83,454.4441,1,N/A,11,1,Young Adult
+1040,286,Jodi Floyd,35,M,Male,8/19/25,6/15/25,Brett Arnold,Brett Arnold,General,General,Rs458.11,INR,458.11,5.49732,N,No,13,1,Young Adult
+1090,287,Bradley Leach,25,Female,Female,11/13/25,12/13/24,Amanda Flores,Amanda Flores,General,General,‚Ç¨85.07,EUR,85.07,92.7263,1,N/A,8,1,Young Adult
+1003,288,Stephen Butler,81,Female,Female,5/22/25,4/15/24,Shannon Martinez,Shannon Martinez,Neurology,Neurology,¬£209.67,GBP,209.67,266.2809,Y,Yes,12,1,Elderly
+1054,289,Jennifer Martin,30,male,Male,2/22/26,7/4/25,Jeffery Smith,Jeffery Smith,General,General,¬£239.39,GBP,239.39,304.0253,N,No,12,1,Young Adult
+1003,290,Janet Gordon,41,N/A,N/A,5/14/25,4/5/24,Michelle Johnson,Michelle Johnson,General,General,Rs398.73,INR,398.73,4.78476,No,No,12,1,Middle Aged
+1011,291,Susan Bautista,54,N/A,N/A,2/13/26,11/6/24,Michael Schmidt,Michael Schmidt,Orthopedics,Orthopedics,‚Ç¨325.86,EUR,325.86,355.1874,N,No,7,1,Middle Aged
+1029,292,Steve Ramirez,30,F,Female,7/19/25,5/12/25,Michelle Jones,Michelle Jones,Orthopedics,Orthopedics,$451.11,USD,451.11,451.11,N,No,8,1,Young Adult
+1051,293,Kristine Logan,53,N/A,N/A,6/29/25,9/13/24,Regina Cox,Regina Cox,Neurology,Neurology,¬£416.39,GBP,416.39,528.8153,No,No,9,1,Middle Aged
+1041,294,Janet Lewis,65,N/A,N/A,10/28/25,8/18/25,Gregory Neal,Gregory Neal,Neurology,Neurology,‚Ç¨303.42,EUR,303.42,330.7278,N,No,8,1,Elderly
+1004,295,Phillip Blevins,64,N/A,N/A,3/12/26,6/4/24,Darryl Garcia,Darryl Garcia,General,General,$124.85,USD,124.85,124.85,1,N/A,9,1,Middle Aged
+1054,296,Robert Mason,78,Male,Male,12/25/25,12/13/24,Steven Mercer,Steven Mercer,Neurology,Neurology,$370.37,USD,370.37,370.37,No,No,12,1,Elderly
+1006,297,Rachel Nguyen,63,M,Male,12/13/25,3/5/25,John Wolf,John Wolf,Neurology,Neurology,Rs416.85,INR,416.85,5.0022,N,No,8,1,Middle Aged
+1076,298,John Nguyen,23,Male,Male,10/5/25,3/20/25,David Robertson,David Robertson,General,General,,N/A,,N/A,No,No,6,1,Young Adult
+1054,299,Jennifer Stevens,70,N/A,N/A,11/3/25,6/16/25,Joseph Park,Joseph Park,Cardiology,Cardiology,¬£231.18,GBP,231.18,293.5986,Yes,Yes,12,1,Elderly
+1021,300,Matthew Davis,54,male,Male,9/20/25,6/24/24,Megan Lopez,Megan Lopez,Cardiology,Cardiology,Rs119.4,INR,119.4,1.4328,0,N/A,16,1,Middle Aged
+1015,301,Ashley Daniels,50,N/A,N/A,8/25/25,6/18/24,Robert Davies,Robert Davies,Neurology,Neurology,$63.38,USD,63.38,63.38,Yes,Yes,17,1,Middle Aged
+1014,302,Dana Park,79,N/A,N/A,1/28/26,4/3/24,Christopher Garrett,Christopher Garrett,Neurology,Neurology,Rs341.27,INR,341.27,4.09524,Yes,Yes,10,1,Elderly
+1088,303,Michael Short,83,Male,Male,1/3/26,12/21/24,Charles Hess,Charles Hess,Orthopedics,Orthopedics,$483.19,USD,483.19,483.19,Yes,Yes,16,1,Elderly
+1034,304,Anthony Mitchell,37,N/A,N/A,10/9/25,4/5/25,Theresa Osborne,Theresa Osborne,Neurology,Neurology,‚Ç¨371.49,EUR,371.49,404.9241,N,No,8,1,Young Adult
+1020,305,Jamie Peck,40,Female,Female,1/14/26,11/13/25,Lisa Garcia,Lisa Garcia,Neurology,Neurology,‚Ç¨406.43,EUR,406.43,443.0087,N,No,10,1,Middle Aged
+1053,306,Kelsey Kelly,76,Male,Male,6/19/25,4/30/25,Denise Hall,Denise Hall,Cardiology,Cardiology,‚Ç¨334.38,EUR,334.38,364.4742,0,N/A,14,1,Elderly
+1011,307,Allison Mcgrath,60,Male,Male,6/22/25,4/26/24,Morgan Mccoy,Morgan Mccoy,Cardiology,Cardiology,Rs125.6,INR,125.6,1.5072,0,N/A,7,1,Middle Aged
+1074,308,Denise Anderson,51,M,Male,12/28/25,4/17/25,Timothy Beasley,Timothy Beasley,General,General,¬£377.85,GBP,377.85,479.8695,N,No,17,1,Middle Aged
+1051,309,Louis Thomas,52,N/A,N/A,9/7/25,4/23/24,Michelle Carter,Michelle Carter,Cardiology,Cardiology,¬£450.24,GBP,450.24,571.8048,1,N/A,9,1,Middle Aged
+1029,310,Sarah Taylor,43,Female,Female,9/25/25,10/30/24,Christopher Sexton,Christopher Sexton,Cardiology,Cardiology,‚Ç¨382.81,EUR,382.81,417.2629,1,N/A,8,1,Middle Aged
+1043,311,Dustin Perry,38,Male,Male,1/25/26,4/9/24,Adam Moore,Adam Moore,Neurology,Neurology,$424.21,USD,424.21,424.21,N,No,12,1,Young Adult
+1095,312,Shawn Tucker,84,F,Female,2/15/26,11/21/25,Melissa Schmidt,Melissa Schmidt,Orthopedics,Orthopedics,‚Ç¨258.38,EUR,258.38,281.6342,Y,Yes,12,1,Elderly
+1080,313,Rachel Russo,40,N/A,N/A,8/27/25,7/13/25,Christine Wilson,Christine Wilson,Orthopedics,Orthopedics,Rs366.15,INR,366.15,4.3938,Yes,Yes,11,1,Middle Aged
+1082,314,Dana Martinez,89,N/A,N/A,3/27/25,12/16/24,Barry Bennett,Barry Bennett,Cardiology,Cardiology,Rs466.92,INR,466.92,5.60304,N,No,14,1,Elderly
+1058,315,Shane Fowler,57,N/A,N/A,10/30/25,8/27/24,Kimberly Douglas,Kimberly Douglas,Neurology,Neurology,¬£114.67,GBP,114.67,145.6309,Y,Yes,17,1,Middle Aged
+1088,316,Kimberly Robinson,26,Female,Female,3/4/26,12/28/25,Michael Wright,Michael Wright,Cardiology,Cardiology,Rs71.67,INR,71.67,0.86004,0,N/A,16,1,Young Adult
+1039,317,Robert Rodriguez,61,N/A,N/A,11/7/25,9/21/25,Stephanie Douglas,Stephanie Douglas,General,General,Rs264.27,INR,264.27,3.17124,0,N/A,8,1,Middle Aged
+1016,318,Rita Joyce,78,F,Female,5/21/25,8/18/24,Diana Neal,Diana Neal,Neurology,Neurology,Rs92.45,INR,92.45,1.1094,Y,Yes,15,1,Elderly
+1098,319,Kimberly Meyer,35,N/A,N/A,12/17/25,4/27/24,Christopher Perez,Christopher Perez,Orthopedics,Orthopedics,Rs441.33,INR,441.33,5.29596,N,No,12,1,Young Adult
+1025,320,Kelly Morris,40,male,Male,8/11/25,8/2/24,Matthew Mccann,Matthew Mccann,Orthopedics,Orthopedics,Rs258.78,INR,258.78,3.10536,0,N/A,9,1,Middle Aged
+1012,321,Kevin Thompson,59,Female,Female,5/1/25,10/2/24,Lynn Cruz,Lynn Cruz,General,General,Rs156.71,INR,156.71,1.88052,1,N/A,9,1,Middle Aged
+1038,322,April Braun,57,Female,Female,4/29/25,4/16/24,Jacob Mendoza,Jacob Mendoza,Neurology,Neurology,Rs110.47,INR,110.47,1.32564,Y,Yes,10,1,Middle Aged
+1000,323,Alejandro Lopez,85,M,Male,6/15/25,7/3/24,Brian Bowman,Brian Bowman,Neurology,Neurology,‚Ç¨361.32,EUR,361.32,393.8388,0,N/A,3,1,Elderly
+1020,324,Scott Bishop,76,Female,Female,5/30/25,7/27/24,Dylan Gibson,Dylan Gibson,General,General,‚Ç¨405.85,EUR,405.85,442.3765,No,No,10,1,Elderly
+1010,325,Steven Baldwin,87,N/A,N/A,6/5/25,4/14/24,Lori Reid,Lori Reid,Neurology,Neurology,Rs496.78,INR,496.78,5.96136,1,N/A,10,1,Elderly
+1031,326,Randy Austin,40,N/A,N/A,2/12/26,4/12/24,Dr. Deborah Fitzgerald,Dr. Deborah Fitzgerald,Neurology,Neurology,$364.33,USD,364.33,364.33,N,No,13,1,Middle Aged
+1006,327,Anthony Martin,54,Female,Female,6/18/25,11/6/24,Alex Richards,Alex Richards,Neurology,Neurology,Rs119.63,INR,119.63,1.43556,No,No,8,1,Middle Aged
+1078,328,Patricia Ramsey,85,F,Female,7/20/25,11/27/24,Jennifer Tanner,Jennifer Tanner,General,General,¬£399.55,GBP,399.55,507.4285,0,N/A,8,1,Elderly
+1021,329,Lauren Gardner,43,F,Female,4/25/25,4/1/25,Alison Castro,Alison Castro,Neurology,Neurology,Rs186.4,INR,186.4,2.2368,0,N/A,16,1,Middle Aged
+1084,330,Daniel Willis,53,Female,Female,11/5/25,8/1/25,Megan Austin,Megan Austin,Neurology,Neurology,Rs234.99,INR,234.99,2.81988,Yes,Yes,15,1,Middle Aged
+1025,331,Shawn Moore,55,Female,Female,11/15/25,7/6/24,Rebecca Ward,Rebecca Ward,General,General,Rs316.26,INR,316.26,3.79512,No,No,9,1,Middle Aged
+1015,332,Sherry Wilson,21,F,Female,12/7/25,2/28/25,Pamela Wiley,Pamela Wiley,Orthopedics,Orthopedics,Rs129.91,INR,129.91,1.55892,1,N/A,17,1,Young Adult
+1084,333,Teresa Peters,78,male,Male,2/11/26,11/14/24,Tracey Johnson,Tracey Johnson,Neurology,Neurology,‚Ç¨468.01,EUR,468.01,510.1309,0,N/A,15,1,Elderly
+1015,334,Nicole Evans,86,F,Female,8/13/25,9/21/24,Ashley Cuevas,Ashley Cuevas,Cardiology,Cardiology,Rs459.41,INR,459.41,5.51292,Y,Yes,17,1,Elderly
+1091,335,Brandon Sanders,27,Male,Male,1/9/26,3/16/25,Amy Dunlap,Amy Dunlap,Orthopedics,Orthopedics,‚Ç¨370.25,EUR,370.25,403.5725,0,N/A,9,1,Young Adult
+1065,336,Samantha Wallace,76,male,Male,6/28/25,12/22/24,Charles Jackson,Charles Jackson,Orthopedics,Orthopedics,Rs145.83,INR,145.83,1.74996,Y,Yes,9,1,Elderly
+1045,337,Jared Butler,38,male,Male,8/19/25,6/9/25,Jason Morales,Jason Morales,General,General,‚Ç¨243.78,EUR,243.78,265.7202,Yes,Yes,8,1,Young Adult
+1050,338,Tracey Beck,81,male,Male,5/27/25,9/20/24,Logan Cooper,Logan Cooper,Cardiology,Cardiology,$184.28,USD,184.28,184.28,Y,Yes,12,1,Elderly
+1058,339,Brianna Mcpherson,90,Male,Male,5/13/25,6/17/24,Nathaniel Thompson,Nathaniel Thompson,General,General,¬£109.61,GBP,109.61,139.2047,Yes,Yes,17,1,Elderly
+1047,340,Ray Mcbride,87,Female,Female,10/6/25,12/2/24,Natalie Turner,Natalie Turner,General,General,$135.41,USD,135.41,135.41,N,No,17,1,Elderly
+1044,341,Tammy Thomas,74,F,Female,4/2/25,1/19/25,Kurt Cain,Kurt Cain,Orthopedics,Orthopedics,¬£109.02,GBP,109.02,138.4554,0,N/A,12,1,Elderly
+1049,342,Kelly Mason,65,Female,Female,2/17/26,5/31/24,Laura Edwards,Laura Edwards,Cardiology,Cardiology,$205.16,USD,205.16,205.16,1,N/A,8,1,Elderly
+1095,343,Nicholas Kelly,53,F,Female,3/23/26,4/2/25,Paula Freeman,Paula Freeman,Cardiology,Cardiology,,N/A,,N/A,Y,Yes,12,1,Middle Aged
+1098,344,Anne Jones DVM,48,F,Female,1/5/26,5/30/25,Linda French,Linda French,General,General,$296.43,USD,296.43,296.43,Yes,Yes,12,1,Middle Aged
+1066,345,Andrea Mendez,33,M,Male,7/2/25,8/14/24,Joshua Reed,Joshua Reed,General,General,$233.98,USD,233.98,233.98,No,No,11,1,Young Adult
+1014,346,Jennifer Schwartz,90,N/A,N/A,2/12/26,8/14/24,Mrs. Michelle Ramsey,Mrs. Michelle Ramsey,Orthopedics,Orthopedics,‚Ç¨474.34,EUR,474.34,517.0306,N,No,10,1,Elderly
+1003,347,Zachary Cross,61,N/A,N/A,7/31/25,4/23/25,Toni Rodriguez,Toni Rodriguez,Neurology,Neurology,¬£317.84,GBP,317.84,403.6568,0,N/A,12,1,Middle Aged
+1056,348,Andrea Murray,46,N/A,N/A,3/12/26,8/11/25,Alexa Martin,Alexa Martin,Neurology,Neurology,Rs435.55,INR,435.55,5.2266,0,N/A,13,1,Middle Aged
+1033,349,Michele Green,48,N/A,N/A,6/30/25,1/24/25,Nancy Hernandez,Nancy Hernandez,Orthopedics,Orthopedics,Rs88.58,INR,88.58,1.06296,No,No,11,1,Middle Aged
+1095,350,Summer Bishop,37,N/A,N/A,10/21/25,8/7/25,Cynthia Green,Cynthia Green,Cardiology,Cardiology,,N/A,,N/A,Yes,Yes,12,1,Young Adult
+1036,351,Daniel Braun,27,Male,Male,3/20/26,2/9/26,Tonya Kennedy,Tonya Kennedy,Cardiology,Cardiology,‚Ç¨252.38,EUR,252.38,275.0942,Y,Yes,14,1,Young Adult
+1082,352,Kyle Jones,29,M,Male,11/1/25,3/17/25,Cheryl Mullins,Cheryl Mullins,Neurology,Neurology,$366.49,USD,366.49,366.49,N,No,14,1,Young Adult
+1063,353,Erin Baker,36,Male,Male,10/2/25,9/12/25,Carla King,Carla King,General,General,Rs239.5,INR,239.5,2.874,Yes,Yes,11,1,Young Adult
+1003,354,Cheryl Calderon,29,Female,Female,2/23/26,4/4/24,Michael Adams,Michael Adams,Orthopedics,Orthopedics,Rs55.55,INR,55.55,0.6666,N,No,12,1,Young Adult
+1005,355,Andrea Mcbride,64,Female,Female,9/15/25,1/19/25,Laura Newman,Laura Newman,Neurology,Neurology,¬£112.28,GBP,112.28,142.5956,No,No,13,1,Middle Aged
+1058,356,Danielle Barrett,36,Female,Female,12/20/25,3/27/24,Gregory Griffin,Gregory Griffin,General,General,Rs386.16,INR,386.16,4.63392,1,N/A,17,1,Young Adult
+1061,357,Madison Wilson,23,male,Male,1/8/26,11/29/24,Ryan Steele,Ryan Steele,Cardiology,Cardiology,‚Ç¨230.73,EUR,230.73,251.4957,N,No,8,1,Young Adult
+1004,358,Thomas Crawford,63,Female,Female,5/13/25,4/22/24,Ashley Shaw,Ashley Shaw,General,General,‚Ç¨296.85,EUR,296.85,323.5665,0,N/A,9,1,Middle Aged
+1057,359,Sheila Thomas,58,N/A,N/A,9/8/25,2/24/25,Catherine Gamble,Catherine Gamble,Cardiology,Cardiology,¬£64.79,GBP,64.79,82.2833,0,N/A,7,1,Middle Aged
+1036,360,Daniel Long,38,Female,Female,11/17/25,10/9/24,Jean Lawson DDS,Jean Lawson Dds,Neurology,Neurology,‚Ç¨101.1,EUR,101.1,110.199,Yes,Yes,14,1,Young Adult
+1095,361,James Fox,60,Female,Female,12/22/25,5/17/24,Victoria Osborne,Victoria Osborne,General,General,Rs204.86,INR,204.86,2.45832,Yes,Yes,12,1,Middle Aged
+1036,362,Evan Price,87,N/A,N/A,7/31/25,11/2/24,Brooke Ramos,Brooke Ramos,Cardiology,Cardiology,$369.12,USD,369.12,369.12,1,N/A,14,1,Elderly
+1049,363,Vanessa Graves,58,Female,Female,8/7/25,1/2/25,Leslie Smith,Leslie Smith,Cardiology,Cardiology,Rs474.33,INR,474.33,5.69196,Y,Yes,8,1,Middle Aged
+1036,364,Barbara Drake,20,N/A,N/A,8/26/25,1/9/25,Julie Jacobs,Julie Jacobs,Cardiology,Cardiology,‚Ç¨285.97,EUR,285.97,311.7073,No,No,14,1,Young Adult
+1050,365,Logan Gonzalez,81,N/A,N/A,2/17/26,4/3/25,John Anderson,John Anderson,Neurology,Neurology,‚Ç¨209.27,EUR,209.27,228.1043,Y,Yes,12,1,Elderly
+1019,366,Brittney Gonzales,38,N/A,N/A,12/20/25,8/14/25,Kimberly Caldwell,Kimberly Caldwell,Orthopedics,Orthopedics,Rs347.87,INR,347.87,4.17444,1,N/A,6,1,Young Adult
+1082,367,Nichole Phillips,56,M,Male,9/17/25,8/19/25,Michael Jackson,Michael Jackson,Cardiology,Cardiology,,N/A,,N/A,Y,Yes,14,1,Middle Aged
+1074,368,James Wise,67,F,Female,9/5/25,5/19/24,Karen Schmidt,Karen Schmidt,Neurology,Neurology,‚Ç¨98.07,EUR,98.07,106.8963,Y,Yes,17,1,Elderly
+1084,369,Logan Sampson,64,Male,Male,12/31/25,4/19/25,Tiffany Melendez,Tiffany Melendez,Orthopedics,Orthopedics,Rs154.03,INR,154.03,1.84836,1,N/A,15,1,Middle Aged
+1084,370,Tamara Ramirez MD,79,F,Female,12/23/25,1/12/25,Emily Mcintosh,Emily Mcintosh,Neurology,Neurology,¬£126.87,GBP,126.87,161.1249,Yes,Yes,15,1,Elderly
+1004,371,Sheryl Lopez,27,M,Male,8/26/25,9/10/24,Barbara Alvarado,Barbara Alvarado,Neurology,Neurology,,N/A,,N/A,Yes,Yes,9,1,Young Adult
+1006,372,Shannon Ramos,42,Male,Male,11/4/25,11/5/24,James Huber,James Huber,Orthopedics,Orthopedics,,N/A,,N/A,Yes,Yes,8,1,Middle Aged
+1096,373,Daniel Vazquez,83,Female,Female,3/21/26,12/9/25,Lisa Fry,Lisa Fry,Neurology,Neurology,¬£194.82,GBP,194.82,247.4214,1,N/A,4,1,Elderly
+1022,374,Kimberly Heath,19,N/A,N/A,10/19/25,9/19/25,Amber Avila,Amber Avila,Orthopedics,Orthopedics,‚Ç¨145.75,EUR,145.75,158.8675,Yes,Yes,9,1,Young Adult
+1089,375,Tammy Yates,35,N/A,N/A,10/29/25,9/6/25,Nancy Luna,Nancy Luna,Cardiology,Cardiology,‚Ç¨58.55,EUR,58.55,63.8195,No,No,16,1,Young Adult
+1058,376,Alison Wolfe,29,Male,Male,5/30/25,3/26/24,Michelle Thomas,Michelle Thomas,General,General,$481.22,USD,481.22,481.22,Yes,Yes,17,1,Young Adult
+1024,377,Natalie Miller,55,F,Female,10/12/25,10/28/24,Derrick Glass,Derrick Glass,General,General,‚Ç¨56.37,EUR,56.37,61.4433,Y,Yes,12,1,Middle Aged
+1016,378,Kara Schneider,81,Female,Female,7/21/25,7/8/24,Ivan Russo,Ivan Russo,General,General,¬£456.26,GBP,456.26,579.4502,1,N/A,15,1,Elderly
+1022,379,Kevin Jackson,56,Male,Male,6/16/25,5/31/24,David Love,David Love,Cardiology,Cardiology,$157.36,USD,157.36,157.36,No,No,9,1,Middle Aged
+1088,380,Mary Werner,32,N/A,N/A,7/22/25,4/12/24,Bonnie Walker,Bonnie Walker,Orthopedics,Orthopedics,$69.13,USD,69.13,69.13,Yes,Yes,16,1,Young Adult
+1016,381,Jennifer Barber,74,M,Male,12/6/25,10/4/24,Christopher Smith,Christopher Smith,Neurology,Neurology,‚Ç¨56.63,EUR,56.63,61.7267,Y,Yes,15,1,Elderly
+1039,382,Emily Miller,55,male,Male,4/1/25,9/13/24,Nicole Bates,Nicole Bates,Orthopedics,Orthopedics,$432.84,USD,432.84,432.84,No,No,8,1,Middle Aged
+1075,383,Christine Lane,27,Female,Female,4/7/25,4/2/24,Kimberly Long,Kimberly Long,Orthopedics,Orthopedics,¬£208.8,GBP,208.8,265.176,N,No,11,1,Young Adult
+1013,384,Gabriela Pope,62,Female,Female,1/2/26,2/26/25,Melissa Brown,Melissa Brown,Neurology,Neurology,$413.25,USD,413.25,413.25,1,N/A,10,1,Middle Aged
+1089,385,Alexa Landry,24,Male,Male,9/16/25,1/16/25,Larry Delgado,Larry Delgado,Orthopedics,Orthopedics,$73.59,USD,73.59,73.59,Yes,Yes,16,1,Young Adult
+1084,386,Erica Thompson,34,F,Female,12/7/25,10/11/25,Jill Kelley,Jill Kelley,General,General,Rs466.72,INR,466.72,5.60064,0,N/A,15,1,Young Adult
+1018,387,James Noble,68,N/A,N/A,6/25/25,6/5/25,Dylan George,Dylan George,Cardiology,Cardiology,‚Ç¨213.67,EUR,213.67,232.9003,Y,Yes,14,1,Elderly
+1026,388,Sandra Russo,42,N/A,N/A,1/25/26,12/9/24,Michael Alexander,Michael Alexander,General,General,$156.9,USD,156.9,156.9,N,No,10,1,Middle Aged
+1001,389,Robert Hampton,90,M,Male,11/12/25,9/4/25,Kevin Wilkinson,Kevin Wilkinson,Neurology,Neurology,¬£323.18,GBP,323.18,410.4386,No,No,12,1,Elderly
+1004,390,Rachel Simmons,65,male,Male,8/12/25,12/27/24,Robert Sanchez,Robert Sanchez,Cardiology,Cardiology,$188.72,USD,188.72,188.72,Y,Yes,9,1,Elderly
+1013,391,Eduardo Martinez,89,Male,Male,10/14/25,9/16/24,Craig Kelly,Craig Kelly,Cardiology,Cardiology,¬£411.32,GBP,411.32,522.3764,1,N/A,10,1,Elderly
+1009,392,Edward Taylor,67,Female,Female,7/2/25,6/4/24,Yvette Johnson,Yvette Johnson,Orthopedics,Orthopedics,‚Ç¨388.8,EUR,388.8,423.792,0,N/A,9,1,Elderly
+1021,393,Ashley Martinez,68,N/A,N/A,5/7/25,10/18/24,Spencer Torres,Spencer Torres,Orthopedics,Orthopedics,$296.8,USD,296.8,296.8,N,No,16,1,Elderly
+1100,394,Megan Edwards,69,N/A,N/A,10/8/25,5/19/25,Eric Arellano,Eric Arellano,Neurology,Neurology,‚Ç¨439.46,EUR,439.46,479.0114,No,No,8,1,Elderly
+1005,395,Mr. Phillip Baxter,80,M,Male,7/24/25,1/16/25,Tricia Hunt,Tricia Hunt,General,General,$320.72,USD,320.72,320.72,N,No,13,1,Elderly
+1071,396,Diana Schroeder,73,N/A,N/A,8/24/25,7/4/25,Alexandra Lee,Alexandra Lee,Neurology,Neurology,$262.84,USD,262.84,262.84,No,No,10,1,Elderly
+1070,397,Katelyn Miller,78,M,Male,12/19/25,11/25/24,Justin Chen,Justin Chen,Cardiology,Cardiology,Rs274.94,INR,274.94,3.29928,0,N/A,13,1,Elderly
+1020,398,Brian Garrett,65,Female,Female,1/24/26,1/4/26,Tamara Williams,Tamara Williams,Cardiology,Cardiology,¬£182.77,GBP,182.77,232.1179,No,No,10,1,Elderly
+1074,399,Aaron Clay,87,M,Male,10/31/25,5/22/25,Timothy Barker,Timothy Barker,Cardiology,Cardiology,‚Ç¨312.88,EUR,312.88,341.0392,Yes,Yes,17,1,Elderly
+1001,400,Brian Bolton,78,male,Male,8/18/25,5/26/24,Natalie Patrick,Natalie Patrick,Neurology,Neurology,¬£163.58,GBP,163.58,207.7466,0,N/A,12,1,Elderly
+1067,401,Karla Bush,66,N/A,N/A,5/23/25,8/14/24,Victor Hernandez,Victor Hernandez,Cardiology,Cardiology,Rs135.85,INR,135.85,1.6302,Y,Yes,9,1,Elderly
+1074,402,Michelle Edwards,30,Female,Female,12/3/25,7/27/25,Charles Harvey,Charles Harvey,Orthopedics,Orthopedics,¬£242.2,GBP,242.2,307.594,Yes,Yes,17,1,Young Adult
+1053,403,Jack Sutton,76,Female,Female,11/28/25,4/20/25,Paul Giles,Paul Giles,General,General,$374.72,USD,374.72,374.72,Yes,Yes,14,1,Elderly
+1020,404,Joseph Hart,69,Female,Female,9/4/25,2/16/25,Ralph Fernandez,Ralph Fernandez,General,General,‚Ç¨326.58,EUR,326.58,355.9722,No,No,10,1,Elderly
+1013,405,Rachel Carlson,27,Female,Female,1/5/26,12/12/24,Paul Martinez,Paul Martinez,Neurology,Neurology,$379.39,USD,379.39,379.39,Y,Yes,10,1,Young Adult
+1027,406,Miss Stacey Weaver,75,Male,Male,4/14/25,6/20/24,Rachel Wilson,Rachel Wilson,Orthopedics,Orthopedics,Rs442.41,INR,442.41,5.30892,0,N/A,12,1,Elderly
+1070,407,Steven Giles,58,F,Female,12/1/25,12/29/24,Kevin Vaughan,Kevin Vaughan,General,General,‚Ç¨358.98,EUR,358.98,391.2882,0,N/A,13,1,Middle Aged
+1050,408,Trevor Taylor,61,Female,Female,6/19/25,9/1/24,William Schneider,William Schneider,Neurology,Neurology,¬£235.74,GBP,235.74,299.3898,0,N/A,12,1,Middle Aged
+1010,409,Erica Robbins,68,Female,Female,7/4/25,10/31/24,Matthew Carlson,Matthew Carlson,General,General,$400.6,USD,400.6,400.6,1,N/A,10,1,Elderly
+1017,410,Alexander Rios,43,N/A,N/A,5/18/25,7/22/24,Bryan Parker,Bryan Parker,Orthopedics,Orthopedics,‚Ç¨305.19,EUR,305.19,332.6571,No,No,8,1,Middle Aged
+1085,411,Jennifer Reese,62,N/A,N/A,11/7/25,8/11/24,James Aguilar,James Aguilar,Cardiology,Cardiology,¬£357.15,GBP,357.15,453.5805,N,No,12,1,Middle Aged
+1023,412,Daniel Valenzuela,45,male,Male,6/21/25,3/13/25,Karen Brewer,Karen Brewer,Cardiology,Cardiology,$245.21,USD,245.21,245.21,Yes,Yes,4,1,Middle Aged
+1066,413,Alexander Jones,85,Female,Female,12/9/25,1/30/25,Mary Ward,Mary Ward,General,General,Rs498.26,INR,498.26,5.97912,Y,Yes,11,1,Elderly
+1038,414,Robert Myers DDS,72,Female,Female,8/27/25,12/7/24,Luis Smith,Luis Smith,Neurology,Neurology,Rs499.72,INR,499.72,5.99664,Yes,Yes,10,1,Elderly
+1048,415,Jennifer Sims,63,Female,Female,10/15/25,2/2/25,Janet Coffey,Janet Coffey,Cardiology,Cardiology,‚Ç¨315.71,EUR,315.71,344.1239,Y,Yes,8,1,Middle Aged
+1082,416,Jenna Williams,67,N/A,N/A,7/19/25,12/4/24,Ryan Mitchell,Ryan Mitchell,General,General,$149.33,USD,149.33,149.33,Yes,Yes,14,1,Elderly
+1085,417,Jamie Nixon,69,N/A,N/A,3/16/26,6/19/24,Scott Allen,Scott Allen,General,General,$412.82,USD,412.82,412.82,N,No,12,1,Elderly
+1046,418,Maria Harris,24,F,Female,7/19/25,8/29/24,Henry Hall,Henry Hall,Orthopedics,Orthopedics,¬£372.5,GBP,372.5,473.075,0,N/A,8,1,Young Adult
+1093,419,Angela Davis,87,F,Female,1/22/26,11/3/24,Danielle Meyer,Danielle Meyer,Orthopedics,Orthopedics,¬£60.76,GBP,60.76,77.1652,0,N/A,11,1,Elderly
+1072,420,Alex Burns,68,N/A,N/A,1/10/26,9/11/25,Raymond Bond,Raymond Bond,Cardiology,Cardiology,‚Ç¨290.52,EUR,290.52,316.6668,N,No,9,1,Elderly
+1089,421,Thomas Banks,80,N/A,N/A,12/9/25,10/21/25,George Stevens,George Stevens,Cardiology,Cardiology,Rs451.66,INR,451.66,5.41992,0,N/A,16,1,Elderly
+1007,422,Courtney Everett,39,Female,Female,1/9/26,8/9/24,Ryan Chavez,Ryan Chavez,Cardiology,Cardiology,¬£260.91,GBP,260.91,331.3557,0,N/A,3,1,Young Adult
+1030,423,Lori Montgomery,18,M,Male,2/26/26,9/7/25,Christy Fisher,Christy Fisher,Orthopedics,Orthopedics,$117.12,USD,117.12,117.12,1,N/A,11,1,Young Adult
+1088,424,Sarah Fuller,80,M,Male,3/6/26,6/18/25,Cody Ortega,Cody Ortega,Cardiology,Cardiology,Rs460.11,INR,460.11,5.52132,Y,Yes,16,1,Elderly
+1077,425,Julia Mckenzie,30,male,Male,8/13/25,2/10/25,Sarah Scott,Sarah Scott,Cardiology,Cardiology,‚Ç¨91.94,EUR,91.94,100.2146,1,N/A,10,1,Young Adult
+1019,426,Eric Kim,33,Female,Female,6/13/25,6/9/24,Arthur Harris,Arthur Harris,General,General,,N/A,,N/A,No,No,6,1,Young Adult
+1065,427,Anne Jacobs,31,N/A,N/A,3/4/26,1/28/26,Lauren Clark,Lauren Clark,Orthopedics,Orthopedics,¬£347.38,GBP,347.38,441.1726,Y,Yes,9,1,Young Adult
+1081,428,Brandy Navarro,27,N/A,N/A,7/16/25,6/13/25,Matthew Nichols,Matthew Nichols,Orthopedics,Orthopedics,Rs288.43,INR,288.43,3.46116,Yes,Yes,9,1,Young Adult
+1058,429,Jennifer Lowery,21,N/A,N/A,9/16/25,3/23/25,Tracy Johnson,Tracy Johnson,Cardiology,Cardiology,‚Ç¨222.2,EUR,222.2,242.198,0,N/A,17,1,Young Adult
+1034,430,Thomas Nash,75,F,Female,6/5/25,1/20/25,Justin Flores,Justin Flores,Cardiology,Cardiology,Rs180.6,INR,180.6,2.1672,1,N/A,8,1,Elderly
+1068,431,Yolanda Thomas,61,Female,Female,12/15/25,7/10/24,Keith Lee,Keith Lee,Neurology,Neurology,,N/A,,N/A,1,N/A,14,1,Middle Aged
+1030,432,Victor Simmons,80,male,Male,2/10/26,1/17/25,Christopher Nelson,Christopher Nelson,Cardiology,Cardiology,‚Ç¨485.31,EUR,485.31,528.9879,N,No,11,1,Elderly
+1013,433,Edward Holland,86,male,Male,9/7/25,1/11/25,Joe Rodriguez,Joe Rodriguez,Neurology,Neurology,¬£255.9,GBP,255.9,324.993,0,N/A,10,1,Elderly
+1092,434,Mary Foster,42,M,Male,4/20/25,10/9/24,Terry Welch,Terry Welch,Cardiology,Cardiology,‚Ç¨443.13,EUR,443.13,483.0117,1,N/A,11,1,Middle Aged
+1027,435,Michael Sullivan,63,M,Male,7/9/25,7/31/24,Angela Thomas,Angela Thomas,Orthopedics,Orthopedics,Rs318.88,INR,318.88,3.82656,Y,Yes,12,1,Middle Aged
+1067,436,Thomas Smith,54,Female,Female,9/11/25,9/5/25,Brandon Garcia,Brandon Garcia,Cardiology,Cardiology,$108.91,USD,108.91,108.91,0,N/A,9,1,Middle Aged
+1059,437,Melissa Ramirez,34,Male,Male,9/10/25,10/30/24,Amber Clayton,Amber Clayton,Neurology,Neurology,¬£167.18,GBP,167.18,212.3186,Yes,Yes,13,1,Young Adult
+1040,438,Rachel Baker,22,Female,Female,12/15/25,5/18/24,Maria Gentry,Maria Gentry,Orthopedics,Orthopedics,¬£444.67,GBP,444.67,564.7309,N,No,13,1,Young Adult
+1058,439,Penny West,84,Female,Female,10/24/25,3/27/25,Heather Ortiz,Heather Ortiz,Neurology,Neurology,$396.57,USD,396.57,396.57,Yes,Yes,17,1,Elderly
+1080,440,Michelle Mcclain,45,Female,Female,11/11/25,6/10/25,Mrs. Amy Miller,Mrs. Amy Miller,Cardiology,Cardiology,Rs185.29,INR,185.29,2.22348,0,N/A,11,1,Middle Aged
+1026,441,Jennifer Davis,47,Female,Female,2/17/26,5/9/24,Michael Bryant,Michael Bryant,Cardiology,Cardiology,$215.89,USD,215.89,215.89,No,No,10,1,Middle Aged
+1058,442,Kimberly Lee,88,N/A,N/A,10/19/25,11/16/24,Vanessa Ramirez,Vanessa Ramirez,Neurology,Neurology,¬£438.81,GBP,438.81,557.2887,N,No,17,1,Elderly
+1065,443,Paul Perez,28,male,Male,8/24/25,7/29/25,Nancy Young,Nancy Young,Neurology,Neurology,‚Ç¨231.7,EUR,231.7,252.553,1,N/A,9,1,Young Adult
+1016,444,Tyler Smith,42,N/A,N/A,11/5/25,8/3/24,Melinda Smith,Melinda Smith,General,General,,N/A,,N/A,Y,Yes,15,1,Middle Aged
+1064,445,Anthony Boyd,27,Female,Female,2/20/26,7/6/25,Bradley Gibson,Bradley Gibson,General,General,¬£173.85,GBP,173.85,220.7895,Yes,Yes,5,1,Young Adult
+1036,446,Henry Snyder,59,N/A,N/A,10/16/25,4/29/24,Theresa Simon,Theresa Simon,Cardiology,Cardiology,$285.44,USD,285.44,285.44,Yes,Yes,14,1,Middle Aged
+1017,447,Sabrina Wade,34,Female,Female,7/20/25,5/14/25,Randy Vargas,Randy Vargas,General,General,Rs202.92,INR,202.92,2.43504,N,No,8,1,Young Adult
+1005,448,Cody Scott,69,Male,Male,10/6/25,11/29/24,Larry Cohen,Larry Cohen,Neurology,Neurology,‚Ç¨383.47,EUR,383.47,417.9823,Yes,Yes,13,1,Elderly
+1086,449,David Mcdonald,84,N/A,N/A,12/24/25,8/30/24,Donald Garcia,Donald Garcia,General,General,¬£302.66,GBP,302.66,384.3782,Y,Yes,9,1,Elderly
+1095,450,Sherri Guzman,37,N/A,N/A,9/14/25,5/20/24,Carlos Morton,Carlos Morton,Orthopedics,Orthopedics,¬£472.57,GBP,472.57,600.1639,Yes,Yes,12,1,Young Adult
+1030,451,Mr. Brian Anderson,25,F,Female,4/24/25,4/14/24,Adrienne Roberts,Adrienne Roberts,Orthopedics,Orthopedics,‚Ç¨417.21,EUR,417.21,454.7589,No,No,11,1,Young Adult
+1059,452,Kayla Mccormick,84,Female,Female,3/16/26,12/4/24,Robert Burton,Robert Burton,Neurology,Neurology,$244.68,USD,244.68,244.68,Yes,Yes,13,1,Elderly
+1012,453,Mark Reeves,30,N/A,N/A,1/8/26,8/19/25,Mark Hill,Mark Hill,Cardiology,Cardiology,$70.7,USD,70.7,70.7,Y,Yes,9,1,Young Adult
+1074,454,Debra Short,64,male,Male,6/24/25,10/6/24,Karla Baker,Karla Baker,General,General,‚Ç¨386.37,EUR,386.37,421.1433,No,No,17,1,Middle Aged
+1082,455,Melissa Richmond,33,Male,Male,6/11/25,2/19/25,Jasmin Holmes,Jasmin Holmes,Neurology,Neurology,$387.75,USD,387.75,387.75,Yes,Yes,14,1,Young Adult
+1009,456,Linda Murphy,63,Male,Male,2/17/26,1/11/26,Margaret Montoya,Margaret Montoya,Cardiology,Cardiology,Rs176.68,INR,176.68,2.12016,N,No,9,1,Middle Aged
+1091,457,Michael Gonzales,86,male,Male,12/23/25,11/24/24,Richard Torres,Richard Torres,General,General,Rs491.64,INR,491.64,5.89968,0,N/A,9,1,Elderly
+1038,458,Samantha Garner,54,N/A,N/A,6/16/25,4/24/25,Jacob Hobbs,Jacob Hobbs,General,General,$325.91,USD,325.91,325.91,0,N/A,10,1,Middle Aged
+1037,459,David Reeves,52,N/A,N/A,12/6/25,1/19/25,Marc Copeland,Marc Copeland,General,General,,N/A,,N/A,N,No,5,1,Middle Aged
+1053,460,Jennifer Schwartz,30,Female,Female,12/31/25,11/14/25,Tamara Smith,Tamara Smith,Cardiology,Cardiology,$280.21,USD,280.21,280.21,Y,Yes,14,1,Young Adult
+1043,461,William Conley,28,N/A,N/A,9/27/25,6/19/25,Thomas Wallace,Thomas Wallace,General,General,Rs88.29,INR,88.29,1.05948,0,N/A,12,1,Young Adult
+1021,462,Kelly Ayers,53,Male,Male,2/16/26,4/4/25,Justin Taylor,Justin Taylor,Neurology,Neurology,$443.75,USD,443.75,443.75,Y,Yes,16,1,Middle Aged
+1059,463,James Perry,57,M,Male,8/27/25,4/5/24,Leonard Campbell,Leonard Campbell,Cardiology,Cardiology,$385.61,USD,385.61,385.61,Yes,Yes,13,1,Middle Aged
+1038,464,Steven Phelps,19,Female,Female,5/13/25,7/18/24,Darren Williams,Darren Williams,Cardiology,Cardiology,Rs350.5,INR,350.5,4.206,Y,Yes,10,1,Young Adult
+1065,465,Mark Daniels,75,M,Male,12/14/25,5/30/24,Kimberly Pierce,Kimberly Pierce,Orthopedics,Orthopedics,$255.56,USD,255.56,255.56,1,N/A,9,1,Elderly
+1031,466,Zachary Williams,33,N/A,N/A,9/13/25,7/2/24,Selena Brown,Selena Brown,Orthopedics,Orthopedics,¬£458.83,GBP,458.83,582.7141,1,N/A,13,1,Young Adult
+1018,467,Carly Ford,20,Female,Female,7/23/25,6/22/25,Scott Tran,Scott Tran,Neurology,Neurology,‚Ç¨138.29,EUR,138.29,150.7361,N,No,14,1,Young Adult
+1081,468,Elaine Williams,42,Female,Female,3/15/26,5/23/24,Daniel Carlson,Daniel Carlson,Cardiology,Cardiology,Rs189.02,INR,189.02,2.26824,Yes,Yes,9,1,Middle Aged
+1098,469,Randy Wright,27,N/A,N/A,8/14/25,12/2/24,Jennifer Banks,Jennifer Banks,Orthopedics,Orthopedics,‚Ç¨272.47,EUR,272.47,296.9923,No,No,12,1,Young Adult
+1070,470,Charles Foley,56,Male,Male,9/19/25,9/28/24,Richard Arias,Richard Arias,Cardiology,Cardiology,‚Ç¨450.37,EUR,450.37,490.9033,Y,Yes,13,1,Middle Aged
+1093,471,Ryan Kennedy,81,N/A,N/A,2/7/26,6/27/24,Scott Shannon,Scott Shannon,General,General,$490.67,USD,490.67,490.67,Yes,Yes,11,1,Elderly
+1032,472,Stephen Cox,56,N/A,N/A,9/27/25,2/5/25,Joseph King,Joseph King,Cardiology,Cardiology,¬£99.17,GBP,99.17,125.9459,No,No,7,1,Middle Aged
+1071,473,Jennifer Jackson,80,N/A,N/A,7/29/25,4/14/24,Frank Harrell,Frank Harrell,Neurology,Neurology,$105.64,USD,105.64,105.64,No,No,10,1,Elderly
+1067,474,Jessica Wilson,72,N/A,N/A,3/20/26,7/13/24,Sharon Nash,Sharon Nash,Orthopedics,Orthopedics,‚Ç¨437.18,EUR,437.18,476.5262,N,No,9,1,Elderly
+1090,475,Brittany Wall,37,M,Male,2/28/26,4/18/24,Willie Dean,Willie Dean,General,General,Rs77.2,INR,77.2,0.9264,0,N/A,8,1,Young Adult
+1027,476,Diane Adams,81,Female,Female,12/30/25,1/9/25,Andrew Carroll,Andrew Carroll,General,General,‚Ç¨118.72,EUR,118.72,129.4048,0,N/A,12,1,Elderly
+1073,477,Shawn Moon,52,male,Male,3/17/26,10/20/25,Sheila Williams,Sheila Williams,Neurology,Neurology,‚Ç¨155.69,EUR,155.69,169.7021,Y,Yes,11,1,Middle Aged
+1092,478,Sharon Lopez,79,N/A,N/A,9/9/25,2/2/25,Yolanda Richardson,Yolanda Richardson,Neurology,Neurology,$487.57,USD,487.57,487.57,N,No,11,1,Elderly
+1083,479,Timothy Ramirez,56,F,Female,11/18/25,2/7/25,Tiffany Shepherd,Tiffany Shepherd,Cardiology,Cardiology,Rs412.44,INR,412.44,4.94928,0,N/A,7,1,Middle Aged
+1091,480,Daniel Marshall,74,Male,Male,12/11/25,4/23/25,Lisa Taylor,Lisa Taylor,Cardiology,Cardiology,¬£297.5,GBP,297.5,377.825,Y,Yes,9,1,Elderly
+1057,481,Andre Pitts,60,Female,Female,1/26/26,9/30/24,Donna Sandoval,Donna Sandoval,General,General,‚Ç¨481.4,EUR,481.4,524.726,Yes,Yes,7,1,Middle Aged
+1018,482,Mary Garcia,54,M,Male,10/21/25,4/11/25,Brianna Ortega,Brianna Ortega,General,General,$252.53,USD,252.53,252.53,Y,Yes,14,1,Middle Aged
+1002,483,Lawrence Ford,89,F,Female,7/9/25,1/3/25,Randall Watts,Randall Watts,Neurology,Neurology,‚Ç¨167.8,EUR,167.8,182.902,Yes,Yes,7,1,Elderly
+1084,484,Monica Mcclure,84,N/A,N/A,5/24/25,5/10/24,Martha Byrd,Martha Byrd,General,General,Rs347.94,INR,347.94,4.17528,1,N/A,15,1,Elderly
+1005,485,Troy Richards,80,N/A,N/A,5/16/25,11/13/24,Thomas Baker,Thomas Baker,Neurology,Neurology,¬£305.02,GBP,305.02,387.3754,Y,Yes,13,1,Elderly
+1094,486,Anna Rowe,59,Female,Female,2/26/26,8/25/24,Judith Preston,Judith Preston,Neurology,Neurology,‚Ç¨83.61,EUR,83.61,91.1349,No,No,8,1,Middle Aged
+1084,487,Michael Espinoza,55,Female,Female,4/29/25,12/6/24,Amber King,Amber King,Neurology,Neurology,¬£360.39,GBP,360.39,457.6953,N,No,15,1,Middle Aged
+1044,488,Kenneth Dixon,68,male,Male,8/19/25,1/31/25,Sandra Sloan,Sandra Sloan,Orthopedics,Orthopedics,‚Ç¨402.4,EUR,402.4,438.616,Yes,Yes,12,1,Elderly
+1067,489,Justin Ortiz,60,Male,Male,11/8/25,3/30/25,Russell Myers,Russell Myers,Cardiology,Cardiology,¬£234.26,GBP,234.26,297.5102,N,No,9,1,Middle Aged
+1083,490,Melissa Wagner,59,Male,Male,9/18/25,6/15/24,Megan Garcia,Megan Garcia,Neurology,Neurology,Rs219.5,INR,219.5,2.634,Y,Yes,7,1,Middle Aged
+1017,491,Jamie Miller,84,F,Female,2/5/26,5/28/24,Gloria Perez,Gloria Perez,Orthopedics,Orthopedics,‚Ç¨191.19,EUR,191.19,208.3971,N,No,8,1,Elderly
+1080,492,Cynthia Jones,38,N/A,N/A,5/31/25,5/26/24,Eugene Little,Eugene Little,Orthopedics,Orthopedics,Rs318.15,INR,318.15,3.8178,1,N/A,11,1,Young Adult
+1089,493,Henry Quinn,23,F,Female,8/10/25,4/22/25,Audrey Hansen,Audrey Hansen,General,General,$350.0,USD,350,350,0,N/A,16,1,Young Adult
+1070,494,Jake Robinson,62,Female,Female,9/9/25,11/25/24,Nathan Quinn,Nathan Quinn,Cardiology,Cardiology,Rs178.28,INR,178.28,2.13936,Yes,Yes,13,1,Middle Aged
+1093,495,Kimberly Morrison,34,N/A,N/A,3/4/26,9/11/24,Brian Young,Brian Young,Orthopedics,Orthopedics,$248.31,USD,248.31,248.31,Y,Yes,11,1,Young Adult
+1088,496,Ricardo White,35,M,Male,10/27/25,7/11/25,Tanya Barker,Tanya Barker,Cardiology,Cardiology,Rs352.72,INR,352.72,4.23264,1,N/A,16,1,Young Adult
+1086,497,Cynthia Richard,36,Male,Male,3/17/26,8/25/24,Scott King,Scott King,Orthopedics,Orthopedics,‚Ç¨208.03,EUR,208.03,226.7527,0,N/A,9,1,Young Adult
+1033,498,David Thompson,47,N/A,N/A,12/3/25,8/24/25,Derek Velazquez,Derek Velazquez,Cardiology,Cardiology,¬£116.75,GBP,116.75,148.2725,N,No,11,1,Middle Aged
+1023,499,Mary Moon,36,N/A,N/A,10/13/25,1/8/25,Ernest Rodriguez,Ernest Rodriguez,Cardiology,Cardiology,‚Ç¨91.29,EUR,91.29,99.5061,N,No,4,1,Young Adult
+1053,500,John Gallagher,57,N/A,N/A,6/28/25,11/2/24,Kara Austin,Kara Austin,Cardiology,Cardiology,‚Ç¨198.61,EUR,198.61,216.4849,Yes,Yes,14,1,Middle Aged
+1040,501,Benjamin Allen,20,Female,Female,11/22/25,4/6/25,Richard Johnson,Richard Johnson,Cardiology,Cardiology,‚Ç¨257.17,EUR,257.17,280.3153,No,No,13,1,Young Adult
+1073,502,Abigail Holt,50,N/A,N/A,9/11/25,3/14/25,Jacob Mays,Jacob Mays,Neurology,Neurology,$343.79,USD,343.79,343.79,Yes,Yes,11,1,Middle Aged
+1031,503,Katherine Rogers,50,F,Female,11/19/25,1/15/25,Morgan Edwards,Morgan Edwards,Orthopedics,Orthopedics,$431.21,USD,431.21,431.21,1,N/A,13,1,Middle Aged
+1093,504,Jason Larson,66,F,Female,2/2/26,2/14/25,Helen Davis,Helen Davis,Neurology,Neurology,¬£241.91,GBP,241.91,307.2257,1,N/A,11,1,Elderly
+1029,505,Jesse Robertson,24,Male,Male,7/27/25,7/19/25,Rebecca Gross,Rebecca Gross,Orthopedics,Orthopedics,‚Ç¨95.25,EUR,95.25,103.8225,Yes,Yes,8,1,Young Adult
+1082,506,Tyler Trujillo,72,male,Male,12/11/25,1/24/25,Andrea Walsh,Andrea Walsh,Cardiology,Cardiology,¬£167.07,GBP,167.07,212.1789,No,No,14,1,Elderly
+1099,507,Travis Rodriguez,85,M,Male,10/20/25,8/10/25,Richard Wagner,Richard Wagner,Neurology,Neurology,‚Ç¨426.64,EUR,426.64,465.0376,Yes,Yes,7,1,Elderly
+1065,508,Darren Alvarado,38,M,Male,5/29/25,5/13/25,Spencer Booth,Spencer Booth,Cardiology,Cardiology,‚Ç¨106.8,EUR,106.8,116.412,0,N/A,9,1,Young Adult
+1041,509,Troy Marshall,67,Female,Female,4/17/25,9/15/24,Benjamin Robinson,Benjamin Robinson,Orthopedics,Orthopedics,$478.18,USD,478.18,478.18,0,N/A,8,1,Elderly
+1003,510,Corey Turner,27,N/A,N/A,6/5/25,3/13/25,Heidi Baker,Heidi Baker,Orthopedics,Orthopedics,Rs435.1,INR,435.1,5.2212,Yes,Yes,12,1,Young Adult
+1038,511,Ashley Wright,45,Female,Female,2/26/26,6/3/25,Kristen Lopez,Kristen Lopez,General,General,‚Ç¨403.22,EUR,403.22,439.5098,Yes,Yes,10,1,Middle Aged
+1061,512,Jose Bauer,37,N/A,N/A,10/17/25,4/7/25,Reginald Barrett,Reginald Barrett,Orthopedics,Orthopedics,‚Ç¨390.81,EUR,390.81,425.9829,No,No,8,1,Young Adult
+1024,513,Jared Lester,26,M,Male,10/20/25,9/9/24,David Espinoza,David Espinoza,Orthopedics,Orthopedics,¬£310.42,GBP,310.42,394.2334,N,No,12,1,Young Adult
+1017,514,Jeffrey Martinez,86,N/A,N/A,2/9/26,1/21/26,Michael Ross,Michael Ross,Neurology,Neurology,$469.3,USD,469.3,469.3,0,N/A,8,1,Elderly
+1010,515,Christopher Massey,82,male,Male,7/15/25,5/19/25,William Moore,William Moore,Orthopedics,Orthopedics,‚Ç¨495.94,EUR,495.94,540.5746,Y,Yes,10,1,Elderly
+1096,516,Erin Small,82,Male,Male,5/15/25,5/13/25,Jeff Lane,Jeff Lane,General,General,‚Ç¨403.87,EUR,403.87,440.2183,No,No,4,1,Elderly
+1024,517,Pamela Dalton,18,M,Male,10/6/25,11/28/24,Christopher Jones,Christopher Jones,Orthopedics,Orthopedics,Rs466.56,INR,466.56,5.59872,0,N/A,12,1,Young Adult
+1058,518,Rebecca Parrish,59,Female,Female,3/15/26,1/6/25,Jordan Shelton,Jordan Shelton,Orthopedics,Orthopedics,$163.52,USD,163.52,163.52,N,No,17,1,Middle Aged
+1068,519,Dominic Bell,37,male,Male,11/18/25,11/18/24,April Castillo,April Castillo,Cardiology,Cardiology,Rs356.13,INR,356.13,4.27356,Yes,Yes,14,1,Young Adult
+1013,520,Gregory Arellano,71,N/A,N/A,8/5/25,7/7/25,Natalie Smith,Natalie Smith,Orthopedics,Orthopedics,$400.62,USD,400.62,400.62,0,N/A,10,1,Elderly
+1009,521,Laura Chan,49,N/A,N/A,2/17/26,1/16/26,Reginald Miller,Reginald Miller,Cardiology,Cardiology,$177.93,USD,177.93,177.93,N,No,9,1,Middle Aged
+1031,522,Michael Watkins,35,M,Male,7/6/25,3/5/25,Brian Deleon,Brian Deleon,General,General,¬£313.04,GBP,313.04,397.5608,Y,Yes,13,1,Young Adult
+1043,523,Daniel Garrett,38,M,Male,1/28/26,6/1/25,Francisco Steele,Francisco Steele,Neurology,Neurology,¬£424.5,GBP,424.5,539.115,0,N/A,12,1,Young Adult
+1072,524,Ronald Gonzalez,30,Female,Female,1/25/26,10/1/25,Crystal Mueller,Crystal Mueller,General,General,Rs222.37,INR,222.37,2.66844,1,N/A,9,1,Young Adult
+1055,525,Charles Green,80,Female,Female,4/28/25,3/30/24,Lisa Hoffman,Lisa Hoffman,Neurology,Neurology,‚Ç¨349.49,EUR,349.49,380.9441,N,No,5,1,Elderly
+1098,526,Allison Ramos,75,Female,Female,12/28/25,12/16/24,Chase Ford,Chase Ford,Neurology,Neurology,$482.2,USD,482.2,482.2,1,N/A,12,1,Elderly
+1072,527,Christopher Brown,49,F,Female,3/26/25,1/2/25,Henry Moore,Henry Moore,Cardiology,Cardiology,Rs92.08,INR,92.08,1.10496,N,No,9,1,Middle Aged
+1070,528,Barbara Holland,24,M,Male,1/30/26,12/16/24,Chelsea Aguirre,Chelsea Aguirre,General,General,‚Ç¨439.56,EUR,439.56,479.1204,N,No,13,1,Young Adult
+1061,529,Matthew Herrera,74,Female,Female,9/1/25,5/26/25,Cody Murray,Cody Murray,General,General,Rs473.48,INR,473.48,5.68176,Yes,Yes,8,1,Elderly
+1059,530,Valerie Vaughn,35,N/A,N/A,11/11/25,7/18/24,Felicia Warner,Felicia Warner,Orthopedics,Orthopedics,,N/A,,N/A,0,N/A,13,1,Young Adult
+1091,531,Tiffany Miller,85,N/A,N/A,3/29/25,3/7/25,Melissa Bradley,Melissa Bradley,Cardiology,Cardiology,‚Ç¨151.02,EUR,151.02,164.6118,No,No,9,1,Elderly
+1003,532,Cassandra Cain,64,Female,Female,1/24/26,2/8/25,Jessica Williams,Jessica Williams,Cardiology,Cardiology,Rs79.59,INR,79.59,0.95508,0,N/A,12,1,Middle Aged
+1087,533,Glen Arroyo,70,Female,Female,9/12/25,6/3/24,Christopher Schneider,Christopher Schneider,Neurology,Neurology,¬£167.31,GBP,167.31,212.4837,Y,Yes,8,1,Elderly
+1049,534,Kimberly Hill,37,N/A,N/A,5/10/25,8/26/24,Kenneth Long,Kenneth Long,Neurology,Neurology,Rs194.81,INR,194.81,2.33772,0,N/A,8,1,Young Adult
+1056,535,Erik Martinez,24,male,Male,10/28/25,1/15/25,Jennifer Carroll,Jennifer Carroll,Cardiology,Cardiology,$97.67,USD,97.67,97.67,Yes,Yes,13,1,Young Adult
+1057,536,Michael Bradley,86,N/A,N/A,6/11/25,9/28/24,Carl Gomez,Carl Gomez,Orthopedics,Orthopedics,¬£254.91,GBP,254.91,323.7357,No,No,7,1,Elderly
+1054,537,Rebecca Carey DDS,57,M,Male,10/9/25,3/17/25,David Carter,David Carter,Neurology,Neurology,$169.09,USD,169.09,169.09,No,No,12,1,Middle Aged
+1040,538,Tammy Nelson,20,N/A,N/A,8/21/25,4/15/24,Angel Aguilar,Angel Aguilar,Cardiology,Cardiology,,N/A,,N/A,0,N/A,13,1,Young Adult
+1059,539,Heidi Alvarez,88,Male,Male,7/30/25,6/30/25,Jeremy Wilson,Jeremy Wilson,General,General,Rs94.19,INR,94.19,1.13028,Y,Yes,13,1,Elderly
+1035,540,Robert Edwards,84,N/A,N/A,10/9/25,5/10/25,Ashley Gonzalez,Ashley Gonzalez,Orthopedics,Orthopedics,¬£84.87,GBP,84.87,107.7849,No,No,9,1,Elderly
+1086,541,Bryan Fritz,86,Female,Female,8/3/25,2/19/25,Kelsey Hernandez,Kelsey Hernandez,Orthopedics,Orthopedics,$338.43,USD,338.43,338.43,Y,Yes,9,1,Elderly
+1050,542,Donald Reed,60,F,Female,5/6/25,10/11/24,Danny Webster,Danny Webster,General,General,$453.66,USD,453.66,453.66,Y,Yes,12,1,Middle Aged
+1024,543,Alejandra Perkins,72,N/A,N/A,8/3/25,4/11/25,Daniel Dickerson,Daniel Dickerson,Orthopedics,Orthopedics,,N/A,,N/A,Y,Yes,12,1,Elderly
+1046,544,Jonathan Drake,76,M,Male,1/6/26,3/16/25,Andrew Johnson,Andrew Johnson,Cardiology,Cardiology,¬£328.88,GBP,328.88,417.6776,1,N/A,8,1,Elderly
+1051,545,Sandra Wood,81,male,Male,2/3/26,9/29/25,Brian Armstrong,Brian Armstrong,Neurology,Neurology,¬£51.93,GBP,51.93,65.9511,0,N/A,9,1,Elderly
+1014,546,Alexis Moody,81,F,Female,5/29/25,6/11/24,Jennifer Reyes,Jennifer Reyes,Orthopedics,Orthopedics,Rs201.8,INR,201.8,2.4216,Y,Yes,10,1,Elderly
+1059,547,Carol Williams,75,Female,Female,4/15/25,6/1/24,Joshua Gomez,Joshua Gomez,Cardiology,Cardiology,$129.1,USD,129.1,129.1,Y,Yes,13,1,Elderly
+1040,548,Kimberly Adkins,77,male,Male,12/15/25,8/19/24,Tamara Rivera,Tamara Rivera,Cardiology,Cardiology,,N/A,,N/A,0,N/A,13,1,Elderly
+1092,549,Tracie Jefferson,74,Female,Female,7/24/25,4/24/25,Margaret Robinson,Margaret Robinson,General,General,$153.53,USD,153.53,153.53,Y,Yes,11,1,Elderly
+1010,550,Aaron Young,60,M,Male,1/26/26,5/9/24,Wendy Cochran,Wendy Cochran,Cardiology,Cardiology,Rs222.33,INR,222.33,2.66796,1,N/A,10,1,Middle Aged
+1032,551,Terry Dennis,28,M,Male,7/14/25,8/16/24,Kelsey Scott,Kelsey Scott,Neurology,Neurology,Rs403.78,INR,403.78,4.84536,Yes,Yes,7,1,Young Adult
+1020,552,Michael Newman MD,45,F,Female,11/29/25,8/31/25,Ronald Santos,Ronald Santos,General,General,$343.21,USD,343.21,343.21,0,N/A,10,1,Middle Aged
+1020,553,Kristin Terry,50,M,Male,8/18/25,5/17/25,Michael Brown,Michael Brown,Neurology,Neurology,¬£67.97,GBP,67.97,86.3219,1,N/A,10,1,Middle Aged
+1017,554,Nicole Green,55,Male,Male,7/18/25,7/6/24,Charles Owens,Charles Owens,General,General,Rs365.21,INR,365.21,4.38252,No,No,8,1,Middle Aged
+1007,555,Tina Cook,25,Female,Female,12/5/25,9/28/24,Paul Allen,Paul Allen,Neurology,Neurology,¬£269.53,GBP,269.53,342.3031,1,N/A,3,1,Young Adult
+1084,556,Robin Donovan,69,M,Male,3/27/25,8/4/24,Brian Brown,Brian Brown,General,General,$163.58,USD,163.58,163.58,N,No,15,1,Elderly
+1005,557,Bryan Meyers,84,Female,Female,1/5/26,7/11/25,Michael Trevino,Michael Trevino,Cardiology,Cardiology,Rs499.36,INR,499.36,5.99232,N,No,13,1,Elderly
+1011,558,Deanna Manning,50,Female,Female,11/14/25,9/14/25,Austin Stout,Austin Stout,Cardiology,Cardiology,Rs101.37,INR,101.37,1.21644,0,N/A,7,1,Middle Aged
+1085,559,Linda Miller,28,Female,Female,3/8/26,12/8/24,Patricia White,Patricia White,Orthopedics,Orthopedics,,N/A,,N/A,0,N/A,12,1,Young Adult
+1005,560,Kathryn Bell,24,Female,Female,6/13/25,6/6/24,Andre Carter,Andre Carter,Cardiology,Cardiology,¬£442.72,GBP,442.72,562.2544,N,No,13,1,Young Adult
+1079,561,Patrick Ewing,52,M,Male,11/16/25,3/24/25,Alexander Jackson,Alexander Jackson,Cardiology,Cardiology,¬£224.89,GBP,224.89,285.6103,0,N/A,4,1,Middle Aged
+1090,562,Steven Henderson,53,N/A,N/A,2/15/26,4/27/25,Nicole Martinez,Nicole Martinez,Orthopedics,Orthopedics,Rs163.4,INR,163.4,1.9608,Y,Yes,8,1,Middle Aged
+1068,563,Michael Marquez,59,N/A,N/A,7/28/25,7/19/24,Mr. Curtis Ortiz,Mr. Curtis Ortiz,Cardiology,Cardiology,‚Ç¨202.98,EUR,202.98,221.2482,N,No,14,1,Middle Aged
+1047,564,Brittany Thompson,31,Female,Female,4/5/25,5/8/24,Wendy Davis,Wendy Davis,Cardiology,Cardiology,Rs257.1,INR,257.1,3.0852,N,No,17,1,Young Adult
+1009,565,Tracy Perez,74,Male,Male,3/19/26,11/26/25,Lauren Rosario,Lauren Rosario,Cardiology,Cardiology,‚Ç¨466.87,EUR,466.87,508.8883,No,No,9,1,Elderly
+1084,566,Morgan Torres,83,M,Male,2/2/26,7/29/25,April Lyons,April Lyons,General,General,,N/A,,N/A,0,N/A,15,1,Elderly
+1016,567,Jessica Price,31,N/A,N/A,10/27/25,3/12/25,Justin Rice,Justin Rice,Orthopedics,Orthopedics,‚Ç¨490.78,EUR,490.78,534.9502,Y,Yes,15,1,Young Adult
+1068,568,Kayla Williams,63,male,Male,10/2/25,6/6/24,Aaron Cooper,Aaron Cooper,General,General,Rs217.86,INR,217.86,2.61432,N,No,14,1,Middle Aged
+1048,569,Victoria Young,47,F,Female,8/6/25,7/21/25,Lauren Whitaker,Lauren Whitaker,Neurology,Neurology,$174.04,USD,174.04,174.04,Yes,Yes,8,1,Middle Aged
+1080,570,Roger Hatfield,52,M,Male,8/12/25,1/22/25,Victoria Lopez,Victoria Lopez,Orthopedics,Orthopedics,‚Ç¨196.21,EUR,196.21,213.8689,No,No,11,1,Middle Aged
+1030,571,Robert Lewis,66,Female,Female,10/23/25,5/25/24,Samantha Cameron,Samantha Cameron,Cardiology,Cardiology,Rs490.08,INR,490.08,5.88096,Y,Yes,11,1,Elderly
+1003,572,Jeremiah Perez,48,male,Male,7/25/25,1/14/25,Michael Black,Michael Black,Orthopedics,Orthopedics,$91.94,USD,91.94,91.94,N,No,12,1,Middle Aged
+1047,573,Haley Mcintosh,74,N/A,N/A,10/19/25,8/7/24,Amanda Boyd,Amanda Boyd,Orthopedics,Orthopedics,‚Ç¨484.82,EUR,484.82,528.4538,1,N/A,17,1,Elderly
+1075,574,Kathy Rhodes,72,N/A,N/A,6/16/25,8/23/24,Rachel Bright,Rachel Bright,Neurology,Neurology,$175.26,USD,175.26,175.26,1,N/A,11,1,Elderly
+1072,575,Louis Craig,49,N/A,N/A,4/13/25,10/5/24,Rachel Wood,Rachel Wood,Orthopedics,Orthopedics,Rs484.93,INR,484.93,5.81916,N,No,9,1,Middle Aged
+1001,576,Jenny Black,33,F,Female,11/14/25,9/6/25,Jamie Nunez,Jamie Nunez,Neurology,Neurology,$381.93,USD,381.93,381.93,No,No,12,1,Young Adult
+1009,577,Sarah Davis,61,N/A,N/A,1/1/26,8/14/25,Rebecca Thompson,Rebecca Thompson,General,General,Rs402.6,INR,402.6,4.8312,N,No,9,1,Middle Aged
+1016,578,Heidi Sosa,29,male,Male,11/10/25,5/17/25,Nancy Wilson,Nancy Wilson,Cardiology,Cardiology,Rs241.81,INR,241.81,2.90172,Y,Yes,15,1,Young Adult
+1092,579,Dalton Rodriguez,54,N/A,N/A,8/1/25,5/7/24,Erica Sanchez,Erica Sanchez,General,General,Rs467.2,INR,467.2,5.6064,1,N/A,11,1,Middle Aged
+1001,580,Jacqueline West,70,Male,Male,1/19/26,1/17/25,Steven Walker,Steven Walker,General,General,¬£148.74,GBP,148.74,188.8998,Y,Yes,12,1,Elderly
+1063,581,Sherri Barry,48,Male,Male,8/29/25,4/15/24,Janet Schultz,Janet Schultz,Neurology,Neurology,¬£109.72,GBP,109.72,139.3444,No,No,11,1,Middle Aged
+1061,582,Lydia Russell,67,M,Male,11/16/25,12/31/24,Matthew Clark,Matthew Clark,General,General,¬£477.53,GBP,477.53,606.4631,1,N/A,8,1,Elderly
+1036,583,Alexander Hammond,41,male,Male,6/29/25,9/21/24,Tara Moore,Tara Moore,Cardiology,Cardiology,‚Ç¨286.71,EUR,286.71,312.5139,N,No,14,1,Middle Aged
+1015,584,Nichole Anderson,87,N/A,N/A,5/10/25,2/6/25,Richard Vega,Richard Vega,Cardiology,Cardiology,¬£316.89,GBP,316.89,402.4503,Yes,Yes,17,1,Elderly
+1069,585,Jacqueline Peters,40,N/A,N/A,12/9/25,10/11/25,Adam Jensen,Adam Jensen,General,General,‚Ç¨266.74,EUR,266.74,290.7466,Yes,Yes,10,1,Middle Aged
+1029,586,Kelly Hodge,55,Male,Male,10/15/25,5/28/25,Terry Jones,Terry Jones,Orthopedics,Orthopedics,¬£175.09,GBP,175.09,222.3643,No,No,8,1,Middle Aged
+1037,587,Brandi Boyd,90,N/A,N/A,12/8/25,8/6/24,Mary Jacobson,Mary Jacobson,Cardiology,Cardiology,Rs96.2,INR,96.2,1.1544,N,No,5,1,Elderly
+1071,588,David Jones,25,Female,Female,2/24/26,11/21/25,Dakota Fleming,Dakota Fleming,General,General,Rs443.12,INR,443.12,5.31744,0,N/A,10,1,Young Adult
+1023,589,Zachary Lewis,46,Female,Female,2/7/26,12/19/24,Gary Washington,Gary Washington,Neurology,Neurology,$351.94,USD,351.94,351.94,1,N/A,4,1,Middle Aged
+1074,590,Andrea Anderson,75,N/A,N/A,8/15/25,6/16/24,Mary Burgess,Mary Burgess,Neurology,Neurology,$59.55,USD,59.55,59.55,Y,Yes,17,1,Elderly
+1039,591,Shawn Castillo,68,male,Male,5/2/25,2/15/25,Jennifer Carroll,Jennifer Carroll,Orthopedics,Orthopedics,¬£339.57,GBP,339.57,431.2539,No,No,8,1,Elderly
+1071,592,Jerry Holmes,88,M,Male,12/5/25,8/2/24,Kim Daniels,Kim Daniels,Neurology,Neurology,Rs344.57,INR,344.57,4.13484,Y,Yes,10,1,Elderly
+1039,593,Kimberly Diaz,47,F,Female,6/19/25,5/7/24,David Guzman,David Guzman,Orthopedics,Orthopedics,$197.72,USD,197.72,197.72,Y,Yes,8,1,Middle Aged
+1082,594,Katherine Olson,57,N/A,N/A,11/4/25,3/21/25,Larry Roberts,Larry Roberts,Cardiology,Cardiology,¬£202.68,GBP,202.68,257.4036,0,N/A,14,1,Middle Aged
+1084,595,Nathaniel White,71,M,Male,4/20/25,7/31/24,Andrew Clark,Andrew Clark,Cardiology,Cardiology,$95.4,USD,95.4,95.4,N,No,15,1,Elderly
+1089,596,Robert Garcia,68,Female,Female,4/3/25,8/6/24,Eric Lewis,Eric Lewis,Orthopedics,Orthopedics,‚Ç¨245.84,EUR,245.84,267.9656,0,N/A,16,1,Elderly
+1031,597,John Gonzalez,44,M,Male,1/19/26,6/14/24,Richard Medina,Richard Medina,Orthopedics,Orthopedics,‚Ç¨284.66,EUR,284.66,310.2794,N,No,13,1,Middle Aged
+1053,598,Peter Pierce,70,male,Male,12/21/25,8/7/25,Deborah Snyder,Deborah Snyder,Neurology,Neurology,Rs389.49,INR,389.49,4.67388,No,No,14,1,Elderly
+1048,599,Elizabeth Russo,67,male,Male,7/3/25,7/30/24,Connie Martinez,Connie Martinez,Neurology,Neurology,,N/A,,N/A,Yes,Yes,8,1,Elderly
+1075,600,Jacqueline Collins,67,Female,Female,6/12/25,5/18/25,Paul Parker,Paul Parker,Neurology,Neurology,$161.5,USD,161.5,161.5,No,No,11,1,Elderly
+1033,601,Mckenzie Mccarty,38,N/A,N/A,5/19/25,7/20/24,Larry Smith,Larry Smith,Orthopedics,Orthopedics,¬£68.36,GBP,68.36,86.8172,0,N/A,11,1,Young Adult
+1054,602,Samuel Thomas,82,Male,Male,6/16/25,4/1/24,Donna Johnson,Donna Johnson,General,General,¬£332.15,GBP,332.15,421.8305,Yes,Yes,12,1,Elderly
+1020,603,Robert Williams,53,Male,Male,7/24/25,2/3/25,Jessica Chandler,Jessica Chandler,Neurology,Neurology,¬£294.14,GBP,294.14,373.5578,Y,Yes,10,1,Middle Aged
+1006,604,Brent Thompson,33,N/A,N/A,5/3/25,11/23/24,Pamela Cunningham,Pamela Cunningham,Orthopedics,Orthopedics,‚Ç¨202.54,EUR,202.54,220.7686,0,N/A,8,1,Young Adult
+1100,605,Ms. Kristen Johnson,60,Male,Male,2/15/26,4/14/24,Susan Griffin,Susan Griffin,Neurology,Neurology,Rs455.57,INR,455.57,5.46684,Y,Yes,8,1,Middle Aged
+1061,606,Darlene Clark,65,Male,Male,11/9/25,11/16/24,Thomas Williams,Thomas Williams,Neurology,Neurology,¬£378.58,GBP,378.58,480.7966,N,No,8,1,Elderly
+1040,607,Jessica Williams,49,F,Female,6/21/25,10/8/24,Corey King,Corey King,General,General,¬£110.44,GBP,110.44,140.2588,N,No,13,1,Middle Aged
+1010,608,Lauren Burns,23,Female,Female,4/12/25,9/13/24,Amy Baxter,Amy Baxter,Cardiology,Cardiology,¬£274.12,GBP,274.12,348.1324,0,N/A,10,1,Young Adult
+1030,609,Jesse Wood,69,Male,Male,1/2/26,9/23/24,Deborah Vasquez,Deborah Vasquez,Neurology,Neurology,Rs224.83,INR,224.83,2.69796,Y,Yes,11,1,Elderly
+1093,610,James Price,72,Male,Male,6/20/25,9/18/24,Jessica Garcia,Jessica Garcia,General,General,$194.55,USD,194.55,194.55,Y,Yes,11,1,Elderly
+1008,611,Darryl Murphy,82,male,Male,3/3/26,11/3/24,Christian Chapman,Christian Chapman,Cardiology,Cardiology,‚Ç¨207.23,EUR,207.23,225.8807,0,N/A,11,1,Elderly
+1087,612,Maria Boyd,69,Female,Female,10/2/25,2/23/25,Mike Miller,Mike Miller,Cardiology,Cardiology,‚Ç¨464.96,EUR,464.96,506.8064,Y,Yes,8,1,Elderly
+1008,613,Jacqueline Howell,30,M,Male,2/21/26,5/23/25,Felicia Smith,Felicia Smith,Cardiology,Cardiology,¬£316.64,GBP,316.64,402.1328,Y,Yes,11,1,Young Adult
+1090,614,Tracy Smith,30,Female,Female,5/24/25,7/5/24,Amber Baxter,Amber Baxter,Neurology,Neurology,Rs139.49,INR,139.49,1.67388,1,N/A,8,1,Young Adult
+1047,615,Victoria Perry,39,N/A,N/A,3/26/26,8/24/25,Heather Garcia,Heather Garcia,Neurology,Neurology,‚Ç¨447.23,EUR,447.23,487.4807,No,No,17,1,Young Adult
+1077,616,Pamela Davis,78,N/A,N/A,12/19/25,9/15/25,Antonio Galloway,Antonio Galloway,Orthopedics,Orthopedics,‚Ç¨320.38,EUR,320.38,349.2142,1,N/A,10,1,Elderly
+1055,617,Stephanie Carr,70,Female,Female,8/26/25,12/19/24,David Colon,David Colon,Orthopedics,Orthopedics,$212.66,USD,212.66,212.66,0,N/A,5,1,Elderly
+1073,618,Carrie Davis,50,N/A,N/A,1/19/26,4/1/24,Michael Jones,Michael Jones,Neurology,Neurology,Rs390.86,INR,390.86,4.69032,0,N/A,11,1,Middle Aged
+1016,619,Pamela Young,40,N/A,N/A,5/30/25,5/23/25,Yvonne Richardson,Yvonne Richardson,Orthopedics,Orthopedics,$136.23,USD,136.23,136.23,1,N/A,15,1,Middle Aged
+1018,620,Leonard Clark,56,Female,Female,2/28/26,2/8/25,Robert Foster,Robert Foster,Cardiology,Cardiology,Rs68.8,INR,68.8,0.8256,1,N/A,14,1,Middle Aged
+1035,621,Michele Perry,90,N/A,N/A,8/7/25,12/23/24,Leslie Gomez,Leslie Gomez,Neurology,Neurology,‚Ç¨79.41,EUR,79.41,86.5569,0,N/A,9,1,Elderly
+1032,622,Ryan Tucker,89,Male,Male,2/18/26,11/3/24,Barbara Owens,Barbara Owens,Orthopedics,Orthopedics,Rs224.61,INR,224.61,2.69532,N,No,7,1,Elderly
+1024,623,Kelsey Rice,20,M,Male,11/16/25,11/19/24,Darren Jensen,Darren Jensen,General,General,$190.44,USD,190.44,190.44,N,No,12,1,Young Adult
+1044,624,Monique Daniels,25,F,Female,3/8/26,11/11/25,Alexander Brown,Alexander Brown,General,General,$316.64,USD,316.64,316.64,Y,Yes,12,1,Young Adult
+1085,625,Joseph Mcmillan,67,Female,Female,5/20/25,3/20/25,Frederick Nielsen,Frederick Nielsen,Orthopedics,Orthopedics,Rs308.59,INR,308.59,3.70308,N,No,12,1,Elderly
+1089,626,Miss Christine Lopez,75,Female,Female,11/30/25,6/5/25,Cynthia Turner,Cynthia Turner,Cardiology,Cardiology,$414.58,USD,414.58,414.58,Yes,Yes,16,1,Elderly
+1064,627,Christy Nunez,54,N/A,N/A,7/11/25,6/25/24,Theresa Parker,Theresa Parker,Cardiology,Cardiology,‚Ç¨338.24,EUR,338.24,368.6816,Y,Yes,5,1,Middle Aged
+1077,628,Jeff Lynch,57,F,Female,12/4/25,10/12/24,Joseph Gibbs,Joseph Gibbs,Neurology,Neurology,‚Ç¨53.35,EUR,53.35,58.1515,N,No,10,1,Middle Aged
+1092,629,James Mendez,89,F,Female,7/2/25,4/8/25,Jackie Brooks,Jackie Brooks,General,General,$186.43,USD,186.43,186.43,No,No,11,1,Elderly
+1084,630,Kelly Hess,42,Female,Female,5/19/25,11/7/24,Seth Benson,Seth Benson,General,General,Rs268.93,INR,268.93,3.22716,0,N/A,15,1,Middle Aged
+1044,631,Sandra Wilson,79,N/A,N/A,12/23/25,2/19/25,Cheryl Adams,Cheryl Adams,General,General,‚Ç¨322.0,EUR,322,350.98,1,N/A,12,1,Elderly
+1080,632,Jennifer Williams,80,M,Male,1/4/26,10/18/25,Emily Barnes,Emily Barnes,General,General,$498.84,USD,498.84,498.84,N,No,11,1,Elderly
+1097,633,Kathryn Green,86,N/A,N/A,5/1/25,8/19/24,Robert Moreno,Robert Moreno,Cardiology,Cardiology,Rs415.78,INR,415.78,4.98936,Yes,Yes,10,1,Elderly
+1035,634,Holly Potter,75,male,Male,11/21/25,1/2/25,Christina Mitchell,Christina Mitchell,General,General,Rs274.5,INR,274.5,3.294,Yes,Yes,9,1,Elderly
+1069,635,Catherine Stein,23,N/A,N/A,10/14/25,2/8/25,Donald Jacobson,Donald Jacobson,Neurology,Neurology,¬£368.24,GBP,368.24,467.6648,1,N/A,10,1,Young Adult
+1016,636,Wendy Andrews,46,M,Male,6/18/25,10/19/24,Kimberly Wilcox,Kimberly Wilcox,Orthopedics,Orthopedics,Rs353.07,INR,353.07,4.23684,1,N/A,15,1,Middle Aged
+1098,637,Richard Alexander,29,F,Female,11/9/25,7/16/25,Monica Torres,Monica Torres,Cardiology,Cardiology,¬£358.68,GBP,358.68,455.5236,0,N/A,12,1,Young Adult
+1012,638,Javier Hawkins,38,M,Male,2/1/26,4/16/24,Debra Fields,Debra Fields,Orthopedics,Orthopedics,$427.54,USD,427.54,427.54,N,No,9,1,Young Adult
+1100,639,Sonya Wheeler,60,Female,Female,9/7/25,4/13/24,Adam Carlson,Adam Carlson,Orthopedics,Orthopedics,Rs433.05,INR,433.05,5.1966,Yes,Yes,8,1,Middle Aged
+1021,640,Jessica Castillo,37,N/A,N/A,9/18/25,11/17/24,Bryan Newton,Bryan Newton,Cardiology,Cardiology,‚Ç¨436.91,EUR,436.91,476.2319,No,No,16,1,Young Adult
+1078,641,Courtney Powell,82,N/A,N/A,1/24/26,10/3/24,Kelly Hardin,Kelly Hardin,Orthopedics,Orthopedics,‚Ç¨252.53,EUR,252.53,275.2577,0,N/A,8,1,Elderly
+1094,642,Crystal Oneal,60,N/A,N/A,8/19/25,1/23/25,Harold Gray,Harold Gray,Neurology,Neurology,$421.74,USD,421.74,421.74,Y,Yes,8,1,Middle Aged
+1022,643,Alison Robinson,83,Male,Male,9/15/25,12/23/24,Jose Thomas,Jose Thomas,Orthopedics,Orthopedics,¬£175.6,GBP,175.6,223.012,No,No,9,1,Elderly
+1056,644,Justin White,82,M,Male,1/4/26,4/16/25,Jose Jackson,Jose Jackson,Neurology,Neurology,Rs203.05,INR,203.05,2.4366,0,N/A,13,1,Elderly
+1066,645,Linda Ryan,76,male,Male,10/31/25,6/27/24,Sandra Johns,Sandra Johns,General,General,¬£123.13,GBP,123.13,156.3751,1,N/A,11,1,Elderly
+1088,646,Meghan Evans,79,N/A,N/A,11/21/25,9/11/25,Courtney Yang,Courtney Yang,Orthopedics,Orthopedics,$337.15,USD,337.15,337.15,No,No,16,1,Elderly
+1001,647,Tiffany Stone,27,Female,Female,8/18/25,5/23/25,Henry Kelley,Henry Kelley,Neurology,Neurology,‚Ç¨180.76,EUR,180.76,197.0284,0,N/A,12,1,Young Adult
+1076,648,Melanie Hernandez,19,N/A,N/A,2/22/26,6/12/25,Adam Anderson,Adam Anderson,Orthopedics,Orthopedics,$445.97,USD,445.97,445.97,Y,Yes,6,1,Young Adult
+1019,649,Gabriel Yang,41,male,Male,10/31/25,7/10/24,Justin Thomas,Justin Thomas,Neurology,Neurology,¬£236.58,GBP,236.58,300.4566,0,N/A,6,1,Middle Aged
+1005,650,Nicole Garcia,55,F,Female,8/7/25,4/6/24,Guy Vaughn,Guy Vaughn,Cardiology,Cardiology,$125.33,USD,125.33,125.33,0,N/A,13,1,Middle Aged
+1030,651,Jenny Martin,59,Male,Male,11/30/25,8/1/25,Andrew Terry,Andrew Terry,Orthopedics,Orthopedics,‚Ç¨394.58,EUR,394.58,430.0922,1,N/A,11,1,Middle Aged
+1088,652,Audrey Irwin,55,F,Female,11/22/25,9/9/24,Michael Murphy,Michael Murphy,Orthopedics,Orthopedics,‚Ç¨96.12,EUR,96.12,104.7708,0,N/A,16,1,Middle Aged
+1018,653,Bryan Armstrong,68,Male,Male,4/22/25,4/3/25,Robert Escobar,Robert Escobar,Neurology,Neurology,Rs305.01,INR,305.01,3.66012,0,N/A,14,1,Elderly
+1092,654,Lisa Hill,68,Female,Female,6/23/25,10/24/24,Mia Boyd,Mia Boyd,Cardiology,Cardiology,$169.01,USD,169.01,169.01,N,No,11,1,Elderly
+1030,655,Susan Delgado,39,male,Male,11/18/25,11/4/25,Paula Mann,Paula Mann,Neurology,Neurology,‚Ç¨304.86,EUR,304.86,332.2974,0,N/A,11,1,Young Adult
+1089,656,Bradley Myers,63,M,Male,11/9/25,12/8/24,Mark Barrett,Mark Barrett,Neurology,Neurology,Rs426.51,INR,426.51,5.11812,1,N/A,16,1,Middle Aged
+1043,657,Derek Smith,82,N/A,N/A,5/23/25,10/18/24,Jeremy Burton,Jeremy Burton,Cardiology,Cardiology,$215.76,USD,215.76,215.76,N,No,12,1,Elderly
+1021,658,Taylor Farley,25,Female,Female,10/1/25,9/1/24,Christy Lewis,Christy Lewis,Cardiology,Cardiology,$184.11,USD,184.11,184.11,Y,Yes,16,1,Young Adult
+1086,659,Richard Richardson,80,N/A,N/A,11/24/25,12/29/24,Robin Hebert,Robin Hebert,Cardiology,Cardiology,Rs226.12,INR,226.12,2.71344,1,N/A,9,1,Elderly
+1016,660,Ryan Rodriguez,53,Female,Female,5/29/25,2/22/25,Eric Kennedy,Eric Kennedy,Orthopedics,Orthopedics,Rs277.5,INR,277.5,3.33,Yes,Yes,15,1,Middle Aged
+1050,661,Jeremy Coleman,83,M,Male,9/11/25,9/3/24,David Riley,David Riley,Neurology,Neurology,Rs63.99,INR,63.99,0.76788,N,No,12,1,Elderly
+1079,662,Alexander Williams,85,Female,Female,3/20/26,10/8/25,Erin Chandler,Erin Chandler,Orthopedics,Orthopedics,Rs85.56,INR,85.56,1.02672,N,No,4,1,Elderly
+1027,663,Steven Richards,26,N/A,N/A,3/23/26,1/11/25,Zachary Hamilton,Zachary Hamilton,Orthopedics,Orthopedics,‚Ç¨237.1,EUR,237.1,258.439,N,No,12,1,Young Adult
+1070,664,Toni Morris DDS,30,F,Female,12/1/25,7/16/24,Robin Medina,Robin Medina,Orthopedics,Orthopedics,‚Ç¨250.69,EUR,250.69,273.2521,No,No,13,1,Young Adult
+1013,665,Zachary Allen,21,Female,Female,2/24/26,6/4/25,Justin Smith,Justin Smith,Neurology,Neurology,,N/A,,N/A,Yes,Yes,10,1,Young Adult
+1027,666,Mary Wilson,27,Female,Female,7/4/25,3/17/25,Misty Higgins,Misty Higgins,Orthopedics,Orthopedics,$421.57,USD,421.57,421.57,1,N/A,12,1,Young Adult
+1087,667,Nicole Shepard,28,N/A,N/A,3/23/26,4/1/24,Mr. Ricky Le,Mr. Ricky Le,Cardiology,Cardiology,‚Ç¨77.79,EUR,77.79,84.7911,1,N/A,8,1,Young Adult
+1081,668,Trevor Anderson,32,F,Female,7/6/25,4/10/25,Kenneth Johnson,Kenneth Johnson,Neurology,Neurology,‚Ç¨156.32,EUR,156.32,170.3888,Y,Yes,9,1,Young Adult
+1053,669,Robert Wade,87,male,Male,2/7/26,7/11/24,Phillip Shelton,Phillip Shelton,Orthopedics,Orthopedics,$249.74,USD,249.74,249.74,Y,Yes,14,1,Elderly
+1051,670,Oscar Luna,72,Female,Female,3/5/26,3/26/25,John Stewart,John Stewart,General,General,$126.56,USD,126.56,126.56,Yes,Yes,9,1,Elderly
+1098,671,Lance Hobbs,59,N/A,N/A,10/10/25,8/18/24,Mr. James Brown,Mr. James Brown,General,General,$143.32,USD,143.32,143.32,N,No,12,1,Middle Aged
+1009,672,Misty Wells,64,M,Male,7/31/25,8/23/24,Debra Booker,Debra Booker,Neurology,Neurology,¬£353.8,GBP,353.8,449.326,Y,Yes,9,1,Middle Aged
+1021,673,Adam Mcdonald,28,Female,Female,8/15/25,11/17/24,David Schmidt,David Schmidt,Cardiology,Cardiology,¬£174.54,GBP,174.54,221.6658,Yes,Yes,16,1,Young Adult
+1046,674,David Mann,68,male,Male,3/16/26,5/6/24,Donald Ferguson,Donald Ferguson,Orthopedics,Orthopedics,¬£217.77,GBP,217.77,276.5679,Y,Yes,8,1,Elderly
+1044,675,Daniel White,67,male,Male,4/12/25,7/13/24,Chad Johnson,Chad Johnson,Neurology,Neurology,Rs277.51,INR,277.51,3.33012,N,No,12,1,Elderly
+1058,676,Steven Gonzalez,37,N/A,N/A,2/4/26,11/10/25,Jonathan Daniels,Jonathan Daniels,Orthopedics,Orthopedics,¬£259.19,GBP,259.19,329.1713,Y,Yes,17,1,Young Adult
+1004,677,Samuel Harrison,53,N/A,N/A,8/9/25,7/6/24,Hunter Powell,Hunter Powell,Neurology,Neurology,Rs492.92,INR,492.92,5.91504,Yes,Yes,9,1,Middle Aged
+1088,678,Bethany Williams,21,M,Male,11/12/25,4/22/25,Kayla Woods,Kayla Woods,Neurology,Neurology,‚Ç¨51.38,EUR,51.38,56.0042,0,N/A,16,1,Young Adult
+1035,679,Eddie Tate,53,M,Male,1/26/26,9/27/24,Paul Johnson,Paul Johnson,Neurology,Neurology,Rs374.03,INR,374.03,4.48836,1,N/A,9,1,Middle Aged
+1025,680,Christopher Trujillo,69,Male,Male,4/6/25,7/28/24,Keith Smith,Keith Smith,Orthopedics,Orthopedics,¬£175.33,GBP,175.33,222.6691,0,N/A,9,1,Elderly
+1068,681,Sarah Thompson,25,F,Female,2/11/26,6/20/25,Ruth Shaw,Ruth Shaw,Neurology,Neurology,¬£129.25,GBP,129.25,164.1475,0,N/A,14,1,Young Adult
+1014,682,Bradley Jones,61,N/A,N/A,7/14/25,12/22/24,Douglas Patton,Douglas Patton,Cardiology,Cardiology,Rs257.41,INR,257.41,3.08892,1,N/A,10,1,Middle Aged
+1059,683,Emma Ferrell,23,Male,Male,9/10/25,4/23/24,David Bradford,David Bradford,General,General,‚Ç¨337.48,EUR,337.48,367.8532,Y,Yes,13,1,Young Adult
+1021,684,Michael Garcia,61,F,Female,3/4/26,8/10/25,Barbara Mack,Barbara Mack,Neurology,Neurology,‚Ç¨310.15,EUR,310.15,338.0635,Yes,Yes,16,1,Middle Aged
+1029,685,Darlene Hodge,69,male,Male,5/27/25,4/20/25,Amanda Cruz,Amanda Cruz,Orthopedics,Orthopedics,‚Ç¨63.14,EUR,63.14,68.8226,N,No,8,1,Elderly
+1005,686,Katherine Rios,23,N/A,N/A,12/24/25,1/5/25,Elizabeth Foster,Elizabeth Foster,Orthopedics,Orthopedics,$265.67,USD,265.67,265.67,N,No,13,1,Young Adult
+1094,687,Jennifer Shaffer,59,N/A,N/A,6/8/25,12/26/24,Brittany Watson,Brittany Watson,Orthopedics,Orthopedics,$382.64,USD,382.64,382.64,Y,Yes,8,1,Middle Aged
+1065,688,Leslie Newman,80,F,Female,5/11/25,10/22/24,Lindsey Mendoza,Lindsey Mendoza,Cardiology,Cardiology,Rs125.35,INR,125.35,1.5042,0,N/A,9,1,Elderly
+1058,689,Alejandro Romero,27,Male,Male,7/25/25,8/28/24,Karen Hancock,Karen Hancock,Orthopedics,Orthopedics,¬£206.69,GBP,206.69,262.4963,No,No,17,1,Young Adult
+1076,690,Ashley Peterson,39,Female,Female,5/30/25,5/6/25,Kyle Mcintyre,Kyle Mcintyre,General,General,¬£358.45,GBP,358.45,455.2315,Yes,Yes,6,1,Young Adult
+1073,691,Steven Wallace,52,Male,Male,9/25/25,1/11/25,Katherine Martin,Katherine Martin,Cardiology,Cardiology,‚Ç¨496.62,EUR,496.62,541.3158,0,N/A,11,1,Middle Aged
+1054,692,Lindsey Sullivan MD,66,Male,Male,4/8/25,1/2/25,David Barnett,David Barnett,Orthopedics,Orthopedics,Rs290.47,INR,290.47,3.48564,1,N/A,12,1,Elderly
+1020,693,William Wilson,52,male,Male,2/16/26,3/14/25,Jacob Bernard,Jacob Bernard,General,General,‚Ç¨346.4,EUR,346.4,377.576,0,N/A,10,1,Middle Aged
+1087,694,Kenneth Cox,78,Male,Male,1/22/26,6/7/25,Brian Walker,Brian Walker,General,General,$123.28,USD,123.28,123.28,No,No,8,1,Elderly
+1012,695,Susan Winters,45,N/A,N/A,7/25/25,8/31/24,Christopher Simpson,Christopher Simpson,Orthopedics,Orthopedics,$353.09,USD,353.09,353.09,No,No,9,1,Middle Aged
+1085,696,Marissa Randall,30,Male,Male,12/23/25,6/12/24,Kent Cannon,Kent Cannon,Neurology,Neurology,Rs299.12,INR,299.12,3.58944,1,N/A,12,1,Young Adult
+1012,697,Lydia Davis,30,F,Female,12/3/25,5/18/24,Brian Rodriguez,Brian Rodriguez,Neurology,Neurology,‚Ç¨286.79,EUR,286.79,312.6011,1,N/A,9,1,Young Adult
+1063,698,Jason Kennedy,46,M,Male,10/18/25,10/3/24,Robert Fowler,Robert Fowler,Orthopedics,Orthopedics,‚Ç¨330.76,EUR,330.76,360.5284,N,No,11,1,Middle Aged
+1046,699,Melissa Brown,28,N/A,N/A,4/20/25,8/1/24,Bill Brown,Bill Brown,Orthopedics,Orthopedics,‚Ç¨69.76,EUR,69.76,76.0384,Y,Yes,8,1,Young Adult
+1031,700,Shannon Vargas,57,N/A,N/A,5/31/25,2/14/25,Brian Caldwell,Brian Caldwell,Orthopedics,Orthopedics,$341.11,USD,341.11,341.11,No,No,13,1,Middle Aged
+1098,701,Jennifer Dorsey,27,N/A,N/A,2/10/26,6/29/25,Michael Stanley,Michael Stanley,General,General,$147.08,USD,147.08,147.08,N,No,12,1,Young Adult
+1021,702,Gary Simpson,63,male,Male,7/5/25,6/21/25,Veronica Chen,Veronica Chen,Neurology,Neurology,$462.6,USD,462.6,462.6,1,N/A,16,1,Middle Aged
+1085,703,Nicole Adams,25,F,Female,10/13/25,3/13/25,Krystal Krueger,Krystal Krueger,General,General,‚Ç¨357.53,EUR,357.53,389.7077,Yes,Yes,12,1,Young Adult
+1015,704,Gary Ramos,84,N/A,N/A,3/25/26,8/31/25,Gregory Riley,Gregory Riley,Cardiology,Cardiology,Rs353.35,INR,353.35,4.2402,1,N/A,17,1,Elderly
+1015,705,Veronica Shaw,86,N/A,N/A,9/22/25,7/15/24,Michael Franco,Michael Franco,Orthopedics,Orthopedics,¬£174.42,GBP,174.42,221.5134,Yes,Yes,17,1,Elderly
+1008,706,Lisa Smith,40,N/A,N/A,10/30/25,7/31/24,Daniel Beck,Daniel Beck,Orthopedics,Orthopedics,Rs449.41,INR,449.41,5.39292,N,No,11,1,Middle Aged
+1080,707,Eric Lawson,78,male,Male,2/2/26,11/14/25,Andrew Webb,Andrew Webb,Cardiology,Cardiology,$179.07,USD,179.07,179.07,No,No,11,1,Elderly
+1067,708,Vanessa Wright,28,Male,Male,1/7/26,8/23/25,Virginia Sharp,Virginia Sharp,Cardiology,Cardiology,Rs344.67,INR,344.67,4.13604,Y,Yes,9,1,Young Adult
+1043,709,Edward Thomas,80,F,Female,9/28/25,8/30/24,Teresa Medina,Teresa Medina,Neurology,Neurology,$84.72,USD,84.72,84.72,1,N/A,12,1,Elderly
+1058,710,Cassandra Peterson,34,Male,Male,4/23/25,12/8/24,Mary Sanchez,Mary Sanchez,Orthopedics,Orthopedics,,N/A,,N/A,1,N/A,17,1,Young Adult
+1001,711,Ellen Stevens,35,male,Male,7/14/25,7/2/24,Charles Wells,Charles Wells,Orthopedics,Orthopedics,¬£479.79,GBP,479.79,609.3333,0,N/A,12,1,Young Adult
+1012,712,Shawn Mendoza,36,N/A,N/A,3/25/26,5/3/24,Erin Walton,Erin Walton,Cardiology,Cardiology,‚Ç¨77.99,EUR,77.99,85.0091,N,No,9,1,Young Adult
+1066,713,Sandra Hill,65,Male,Male,8/10/25,1/6/25,Julie May,Julie May,Orthopedics,Orthopedics,Rs113.2,INR,113.2,1.3584,Yes,Yes,11,1,Elderly
+1015,714,Oscar Hunt,29,male,Male,6/11/25,7/2/24,Michael Mason,Michael Mason,Cardiology,Cardiology,¬£363.04,GBP,363.04,461.0608,Y,Yes,17,1,Young Adult
+1024,715,Tristan Booth,22,N/A,N/A,7/10/25,7/16/24,Alicia Hall,Alicia Hall,Neurology,Neurology,$477.72,USD,477.72,477.72,0,N/A,12,1,Young Adult
+1013,716,Ashlee Warren,69,Male,Male,1/21/26,6/1/24,Cynthia Cruz,Cynthia Cruz,General,General,Rs289.74,INR,289.74,3.47688,1,N/A,10,1,Elderly
+1024,717,Alexander Vega,35,M,Male,8/17/25,8/6/25,Karen Gomez,Karen Gomez,Neurology,Neurology,$270.15,USD,270.15,270.15,1,N/A,12,1,Young Adult
+1061,718,Breanna Lewis,59,F,Female,10/12/25,6/15/25,Jerry Tucker,Jerry Tucker,Orthopedics,Orthopedics,¬£155.98,GBP,155.98,198.0946,Y,Yes,8,1,Middle Aged
+1095,719,Jackie Lane,56,N/A,N/A,6/4/25,5/29/24,Jackie Harper,Jackie Harper,Cardiology,Cardiology,Rs335.27,INR,335.27,4.02324,Y,Yes,12,1,Middle Aged
+1048,720,Shawn Cordova,67,male,Male,11/27/25,7/30/24,Wendy Mcguire,Wendy Mcguire,Neurology,Neurology,Rs285.22,INR,285.22,3.42264,No,No,8,1,Elderly
+1033,721,Christina Macdonald,64,F,Female,9/16/25,1/23/25,Samuel Ramirez,Samuel Ramirez,General,General,Rs91.36,INR,91.36,1.09632,1,N/A,11,1,Middle Aged
+1085,722,Dylan Jones,22,Female,Female,10/2/25,7/4/25,Katherine Small,Katherine Small,General,General,Rs498.58,INR,498.58,5.98296,0,N/A,12,1,Young Adult
+1003,723,Christine Herring,89,Female,Female,12/22/25,3/8/25,Kristin Hartman,Kristin Hartman,General,General,‚Ç¨453.73,EUR,453.73,494.5657,Yes,Yes,12,1,Elderly
+1030,724,Brandon Carter,72,F,Female,5/10/25,2/27/25,James Aguilar,James Aguilar,Neurology,Neurology,¬£218.54,GBP,218.54,277.5458,No,No,11,1,Elderly
+1083,725,Lori Dean,40,Female,Female,11/5/25,8/15/24,Theresa Williams,Theresa Williams,Orthopedics,Orthopedics,Rs312.26,INR,312.26,3.74712,0,N/A,7,1,Middle Aged
+1004,726,Deborah Robinson,36,N/A,N/A,1/25/26,10/30/24,Joseph Bell,Joseph Bell,Cardiology,Cardiology,‚Ç¨159.21,EUR,159.21,173.5389,Yes,Yes,9,1,Young Adult
+1051,727,Jason Tate,71,Female,Female,1/27/26,3/7/25,Kimberly Young,Kimberly Young,Cardiology,Cardiology,‚Ç¨484.79,EUR,484.79,528.4211,1,N/A,9,1,Elderly
+1059,728,Jill Mcconnell,81,Female,Female,3/28/25,2/16/25,Jessica Miller,Jessica Miller,Cardiology,Cardiology,Rs475.35,INR,475.35,5.7042,No,No,13,1,Elderly
+1044,729,Kyle Barnes Jr.,21,N/A,N/A,4/18/25,9/24/24,Donna Peters,Donna Peters,General,General,$156.1,USD,156.1,156.1,Y,Yes,12,1,Young Adult
+1068,730,Regina Smith,87,N/A,N/A,8/30/25,12/15/24,Donna Orr,Donna Orr,General,General,$246.13,USD,246.13,246.13,N,No,14,1,Elderly
+1024,731,Jeffrey Warren,60,Female,Female,7/20/25,11/21/24,Mrs. Michelle Reed,Mrs. Michelle Reed,Cardiology,Cardiology,Rs340.54,INR,340.54,4.08648,No,No,12,1,Middle Aged
+1010,732,Andre Crosby,72,F,Female,2/16/26,7/7/24,Douglas Smith,Douglas Smith,General,General,$235.81,USD,235.81,235.81,No,No,10,1,Elderly
+1099,733,Jessica Maldonado DDS,25,N/A,N/A,4/21/25,9/20/24,Kelly Thomas,Kelly Thomas,Cardiology,Cardiology,¬£166.21,GBP,166.21,211.0867,No,No,7,1,Young Adult
+1060,734,Ian Bush,39,Male,Male,1/9/26,6/20/25,Steven Welch,Steven Welch,Cardiology,Cardiology,‚Ç¨418.29,EUR,418.29,455.9361,0,N/A,6,1,Young Adult
+1044,735,Nicole Warren,63,Female,Female,9/19/25,2/7/25,Kimberly Beck,Kimberly Beck,General,General,¬£415.35,GBP,415.35,527.4945,N,No,12,1,Middle Aged
+1047,736,Dennis Jacobs,33,N/A,N/A,2/18/26,6/2/24,Katherine Long,Katherine Long,General,General,$307.29,USD,307.29,307.29,1,N/A,17,1,Young Adult
+1063,737,Edward Black,88,Female,Female,12/4/25,10/11/25,Nathan Summers,Nathan Summers,Orthopedics,Orthopedics,Rs268.75,INR,268.75,3.225,No,No,11,1,Elderly
+1036,738,Suzanne Jenkins,44,N/A,N/A,10/13/25,6/16/24,Maureen Jacobson,Maureen Jacobson,Orthopedics,Orthopedics,‚Ç¨248.97,EUR,248.97,271.3773,1,N/A,14,1,Middle Aged
+1002,739,Lindsey Green,28,N/A,N/A,6/2/25,6/21/24,James Fleming,James Fleming,Neurology,Neurology,$270.71,USD,270.71,270.71,0,N/A,7,1,Young Adult
+1075,740,Sarah Hernandez,25,Female,Female,9/3/25,10/27/24,Jeremy Mclaughlin,Jeremy Mclaughlin,Orthopedics,Orthopedics,$253.36,USD,253.36,253.36,Y,Yes,11,1,Young Adult
+1090,741,Christina Eaton,85,male,Male,1/20/26,3/10/25,Stephanie Kelley DVM,Stephanie Kelley Dvm,Neurology,Neurology,$192.87,USD,192.87,192.87,No,No,8,1,Elderly
+1000,742,Angela Rogers,18,male,Male,8/14/25,4/10/25,Dr. Brian Smith,Dr. Brian Smith,Orthopedics,Orthopedics,Rs362.08,INR,362.08,4.34496,0,N/A,3,1,Young Adult
+1073,743,Molly Hayden,75,N/A,N/A,1/6/26,2/22/25,Brian Chambers,Brian Chambers,General,General,¬£306.62,GBP,306.62,389.4074,N,No,11,1,Elderly
+1075,744,Brian Clarke,73,N/A,N/A,4/5/25,12/20/24,Amanda Hoffman,Amanda Hoffman,Neurology,Neurology,$348.18,USD,348.18,348.18,0,N/A,11,1,Elderly
+1033,745,Steven Morgan,58,Male,Male,5/24/25,9/9/24,Donna Adkins,Donna Adkins,Orthopedics,Orthopedics,¬£298.42,GBP,298.42,378.9934,1,N/A,11,1,Middle Aged
+1051,746,Kyle Jones,52,Male,Male,10/31/25,9/1/24,Sara Morse,Sara Morse,Neurology,Neurology,,N/A,,N/A,0,N/A,9,1,Middle Aged
+1021,747,Mrs. Jennifer Ingram,41,M,Male,9/11/25,11/30/24,Katrina Williams MD,Katrina Williams Md,General,General,$473.2,USD,473.2,473.2,No,No,16,1,Middle Aged
+1052,748,Troy Torres,80,N/A,N/A,5/4/25,9/20/24,Matthew Carney,Matthew Carney,Cardiology,Cardiology,$124.09,USD,124.09,124.09,N,No,8,1,Elderly
+1028,749,Stephanie Moss,24,Female,Female,3/4/26,4/2/25,Jason Bray,Jason Bray,General,General,‚Ç¨52.32,EUR,52.32,57.0288,Y,Yes,8,1,Young Adult
+1062,750,Jade Blanchard MD,23,Female,Female,1/29/26,7/1/24,Amber Waters,Amber Waters,Orthopedics,Orthopedics,$151.03,USD,151.03,151.03,No,No,6,1,Young Adult
+1088,751,Pamela Johnson,80,F,Female,7/1/25,11/12/24,Crystal Garza,Crystal Garza,General,General,Rs417.42,INR,417.42,5.00904,Y,Yes,16,1,Elderly
+1028,752,Glenn Wall,26,N/A,N/A,9/15/25,5/13/25,Sarah Peterson,Sarah Peterson,Cardiology,Cardiology,$112.9,USD,112.9,112.9,Y,Yes,8,1,Young Adult
+1050,753,Christopher Beard,65,male,Male,3/4/26,6/1/24,Jerry Torres,Jerry Torres,General,General,Rs126.44,INR,126.44,1.51728,Y,Yes,12,1,Elderly
+1004,754,Darin Caldwell,54,M,Male,9/3/25,2/20/25,Danielle Pacheco,Danielle Pacheco,Cardiology,Cardiology,‚Ç¨185.15,EUR,185.15,201.8135,No,No,9,1,Middle Aged
+1044,755,Henry Henderson,58,male,Male,6/10/25,8/2/24,James Love,James Love,Orthopedics,Orthopedics,,N/A,,N/A,No,No,12,1,Middle Aged
+1030,756,Regina Giles,42,Male,Male,10/24/25,11/27/24,Kimberly Foster,Kimberly Foster,Neurology,Neurology,‚Ç¨258.9,EUR,258.9,282.201,Y,Yes,11,1,Middle Aged
+1073,757,Curtis Cooke,84,male,Male,9/29/25,6/24/24,John Hancock,John Hancock,Neurology,Neurology,‚Ç¨477.08,EUR,477.08,520.0172,No,No,11,1,Elderly
+1018,758,Joel Marshall,55,N/A,N/A,12/23/25,2/23/25,Victoria Garcia,Victoria Garcia,Neurology,Neurology,‚Ç¨306.8,EUR,306.8,334.412,0,N/A,14,1,Middle Aged
+1062,759,Peter Schaefer,84,Female,Female,8/27/25,6/2/24,Carlos Spence,Carlos Spence,Cardiology,Cardiology,Rs190.01,INR,190.01,2.28012,No,No,6,1,Elderly
+1014,760,Andrew Cross,67,Female,Female,3/26/26,3/7/26,Victor Warner,Victor Warner,General,General,Rs281.44,INR,281.44,3.37728,N,No,10,1,Elderly
+1030,761,Jonathan Fernandez,40,Male,Male,12/3/25,9/8/25,Luis Nolan,Luis Nolan,Orthopedics,Orthopedics,Rs252.73,INR,252.73,3.03276,Y,Yes,11,1,Middle Aged
+1081,762,Rebecca Gould,72,Female,Female,4/4/25,12/17/24,Xavier Richardson,Xavier Richardson,General,General,¬£397.0,GBP,397,504.19,No,No,9,1,Elderly
+1065,763,Anthony Nash,32,Male,Male,5/13/25,8/21/24,Brianna Shea,Brianna Shea,Cardiology,Cardiology,Rs392.0,INR,392,4.704,1,N/A,9,1,Young Adult
+1081,764,Kimberly Fitzpatrick,65,F,Female,10/7/25,12/9/24,Mark Moore,Mark Moore,Orthopedics,Orthopedics,,N/A,,N/A,No,No,9,1,Elderly
+1017,765,Elizabeth Duke,82,Female,Female,1/15/26,7/24/25,Michael Rogers,Michael Rogers,General,General,‚Ç¨156.61,EUR,156.61,170.7049,0,N/A,8,1,Elderly
+1001,766,Richard Griffin,61,Male,Male,10/24/25,8/21/25,Tina Gonzalez,Tina Gonzalez,Orthopedics,Orthopedics,Rs81.87,INR,81.87,0.98244,Yes,Yes,12,1,Middle Aged
+1042,767,Erica Jimenez,75,male,Male,12/17/25,9/22/24,Bethany Mcpherson,Bethany Mcpherson,Neurology,Neurology,¬£438.16,GBP,438.16,556.4632,0,N/A,4,1,Elderly
+1015,768,Melissa Allen,35,Female,Female,10/29/25,6/13/25,Rodney Lopez,Rodney Lopez,General,General,¬£447.77,GBP,447.77,568.6679,0,N/A,17,1,Young Adult
+1098,769,Manuel Becker,66,F,Female,5/17/25,8/29/24,Jacob Patel,Jacob Patel,Neurology,Neurology,$139.99,USD,139.99,139.99,N,No,12,1,Elderly
+1099,770,Erika Davis,42,Male,Male,7/30/25,3/9/25,Jamie Andrews,Jamie Andrews,Cardiology,Cardiology,¬£393.1,GBP,393.1,499.237,1,N/A,7,1,Middle Aged
+1032,771,Shannon Flores,19,N/A,N/A,9/7/25,5/30/24,Scott Washington,Scott Washington,Cardiology,Cardiology,¬£248.78,GBP,248.78,315.9506,1,N/A,7,1,Young Adult
+1034,772,Tara Garrison,41,M,Male,2/3/26,10/4/25,Stacy Hartman,Stacy Hartman,Cardiology,Cardiology,¬£453.09,GBP,453.09,575.4243,Yes,Yes,8,1,Middle Aged
+1005,773,Pamela Davis,27,Female,Female,11/23/25,4/12/24,Kevin Fields,Kevin Fields,General,General,‚Ç¨57.05,EUR,57.05,62.1845,1,N/A,13,1,Young Adult
+1050,774,Sandra Terry,21,N/A,N/A,7/15/25,7/23/24,Debra Buchanan,Debra Buchanan,Neurology,Neurology,¬£386.04,GBP,386.04,490.2708,0,N/A,12,1,Young Adult
+1069,775,Steven Miller,20,N/A,N/A,5/1/25,4/28/25,Bob Shaw,Bob Shaw,Orthopedics,Orthopedics,¬£204.82,GBP,204.82,260.1214,N,No,10,1,Young Adult
+1001,776,Haley King,84,male,Male,2/12/26,6/21/24,Erin Carr,Erin Carr,Cardiology,Cardiology,‚Ç¨239.93,EUR,239.93,261.5237,No,No,12,1,Elderly
+1066,777,Jonathan Wood,74,Female,Female,5/23/25,12/26/24,Jon Duarte,Jon Duarte,Orthopedics,Orthopedics,Rs486.07,INR,486.07,5.83284,Y,Yes,11,1,Elderly
+1018,778,Jessica Ali,70,Female,Female,5/1/25,9/17/24,Willie Rose,Willie Rose,Cardiology,Cardiology,‚Ç¨73.35,EUR,73.35,79.9515,1,N/A,14,1,Elderly
+1033,779,Bridget Cooley,75,Female,Female,2/22/26,2/25/25,Ashley Edwards,Ashley Edwards,General,General,¬£144.78,GBP,144.78,183.8706,Yes,Yes,11,1,Elderly
+1094,780,Brad Hill,87,Male,Male,10/22/25,2/28/25,Emily Joseph,Emily Joseph,Cardiology,Cardiology,‚Ç¨92.16,EUR,92.16,100.4544,1,N/A,8,1,Elderly
+1078,781,Nathan Murphy,52,Female,Female,11/24/25,5/10/24,Kerry Rowe,Kerry Rowe,Cardiology,Cardiology,Rs164.9,INR,164.9,1.9788,N,No,8,1,Middle Aged
+1072,782,Stephanie Caldwell MD,86,Female,Female,7/4/25,1/19/25,Darrell Mendez,Darrell Mendez,Orthopedics,Orthopedics,$74.84,USD,74.84,74.84,Y,Yes,9,1,Elderly
+1011,783,Henry Carlson,65,Female,Female,9/23/25,4/1/24,Benjamin Brown,Benjamin Brown,Orthopedics,Orthopedics,Rs230.11,INR,230.11,2.76132,Y,Yes,7,1,Elderly
+1045,784,Michael Evans,65,N/A,N/A,3/28/25,1/4/25,Manuel Vargas,Manuel Vargas,Orthopedics,Orthopedics,‚Ç¨304.67,EUR,304.67,332.0903,No,No,8,1,Elderly
+1095,785,Regina Wilson,73,male,Male,12/31/25,12/14/24,Heidi Hamilton,Heidi Hamilton,Neurology,Neurology,¬£275.12,GBP,275.12,349.4024,Yes,Yes,12,1,Elderly
+1074,786,Jeremiah Cruz,64,M,Male,3/14/26,2/10/26,Matthew Pratt,Matthew Pratt,Neurology,Neurology,‚Ç¨177.85,EUR,177.85,193.8565,Y,Yes,17,1,Middle Aged
+1080,787,Nicholas Vasquez,49,male,Male,10/30/25,6/12/25,Jennifer Anderson,Jennifer Anderson,Neurology,Neurology,Rs410.8,INR,410.8,4.9296,N,No,11,1,Middle Aged
+1069,788,Cheryl Smith,48,F,Female,10/1/25,11/3/24,Sarah Harper DDS,Sarah Harper Dds,Cardiology,Cardiology,$97.46,USD,97.46,97.46,No,No,10,1,Middle Aged
+1051,789,Matthew Moore,63,N/A,N/A,3/2/26,3/4/25,Erica Riley,Erica Riley,General,General,Rs116.32,INR,116.32,1.39584,Yes,Yes,9,1,Middle Aged
+1092,790,Katherine Wilson,44,N/A,N/A,12/1/25,7/31/24,Mitchell Sims,Mitchell Sims,Orthopedics,Orthopedics,$203.3,USD,203.3,203.3,Y,Yes,11,1,Middle Aged
+1093,791,James Miller,23,Male,Male,9/9/25,11/25/24,Dawn Collins,Dawn Collins,General,General,$139.43,USD,139.43,139.43,0,N/A,11,1,Young Adult
+1075,792,John Rich,48,N/A,N/A,6/20/25,9/5/24,Jennifer Johnston,Jennifer Johnston,General,General,,N/A,,N/A,1,N/A,11,1,Middle Aged
+1055,793,Kathleen Oneal,71,Male,Male,5/17/25,7/28/24,Jacob Andrade,Jacob Andrade,Orthopedics,Orthopedics,$74.36,USD,74.36,74.36,Y,Yes,5,1,Elderly
+1033,794,Courtney Hunt,74,N/A,N/A,8/17/25,10/21/24,Mrs. Kayla Peterson,Mrs. Kayla Peterson,General,General,‚Ç¨303.91,EUR,303.91,331.2619,0,N/A,11,1,Elderly
+1074,795,Steven Wilson,48,N/A,N/A,4/8/25,2/3/25,Hannah Herrera,Hannah Herrera,Cardiology,Cardiology,$77.48,USD,77.48,77.48,0,N/A,17,1,Middle Aged
+1039,796,Meghan Sanchez,58,Male,Male,4/6/25,8/5/24,Judith Watson,Judith Watson,Neurology,Neurology,‚Ç¨282.36,EUR,282.36,307.7724,1,N/A,8,1,Middle Aged
+1050,797,Amanda Johnston,46,Female,Female,4/16/25,10/24/24,Angela Burton,Angela Burton,Cardiology,Cardiology,,N/A,,N/A,0,N/A,12,1,Middle Aged
+1056,798,Richard Jones,71,Female,Female,11/23/25,8/16/25,Stephen Cooper,Stephen Cooper,General,General,¬£243.46,GBP,243.46,309.1942,0,N/A,13,1,Elderly
+1025,799,Lindsay Harris,28,N/A,N/A,10/26/25,2/22/25,Ryan Hughes,Ryan Hughes,Orthopedics,Orthopedics,‚Ç¨444.38,EUR,444.38,484.3742,Yes,Yes,9,1,Young Adult
+1037,800,Kathy Banks,39,M,Male,11/25/25,7/26/25,Anna Yoder,Anna Yoder,General,General,Rs319.04,INR,319.04,3.82848,Y,Yes,5,1,Young Adult
+1010,801,Beth Murphy,71,Female,Female,6/30/25,8/13/24,Adam Davis,Adam Davis,Orthopedics,Orthopedics,¬£330.71,GBP,330.71,420.0017,Y,Yes,10,1,Elderly
+1039,802,Barbara Johnston,46,F,Female,7/29/25,1/12/25,April Hood,April Hood,Cardiology,Cardiology,Rs160.18,INR,160.18,1.92216,1,N/A,8,1,Middle Aged
+1040,803,Patrick Perez,62,male,Male,1/21/26,12/13/24,Jesse Edwards,Jesse Edwards,Neurology,Neurology,$290.14,USD,290.14,290.14,Yes,Yes,13,1,Middle Aged
+1100,804,Sonia Moss,52,Female,Female,11/6/25,9/21/24,Joy Armstrong,Joy Armstrong,Neurology,Neurology,‚Ç¨244.09,EUR,244.09,266.0581,1,N/A,8,1,Middle Aged
+1071,805,Dana Mcclure,41,Female,Female,3/2/26,9/27/25,Mark Norton,Mark Norton,General,General,¬£150.5,GBP,150.5,191.135,N,No,10,1,Middle Aged
+1097,806,Ryan Williams,88,F,Female,12/27/25,12/25/24,Veronica Fry,Veronica Fry,General,General,$398.47,USD,398.47,398.47,Y,Yes,10,1,Elderly
+1047,807,Amy Baird,51,N/A,N/A,11/1/25,9/28/25,Diana Jones,Diana Jones,Neurology,Neurology,¬£262.16,GBP,262.16,332.9432,1,N/A,17,1,Middle Aged
+1041,808,Frank Castaneda,70,N/A,N/A,7/26/25,9/2/24,Christopher Chen,Christopher Chen,Neurology,Neurology,,N/A,,N/A,0,N/A,8,1,Elderly
+1067,809,Benjamin Ramirez,57,Female,Female,12/22/25,1/6/25,Wesley Johnson,Wesley Johnson,Neurology,Neurology,$142.33,USD,142.33,142.33,N,No,9,1,Middle Aged
+1064,810,Matthew Buckley,57,male,Male,9/7/25,10/4/24,Ryan Collins,Ryan Collins,General,General,Rs476.81,INR,476.81,5.72172,0,N/A,5,1,Middle Aged
+1008,811,Kimberly Goodman,22,Female,Female,9/12/25,9/20/24,Luis Kim,Luis Kim,General,General,‚Ç¨351.04,EUR,351.04,382.6336,1,N/A,11,1,Young Adult
+1097,812,Brandi Osborn,42,Female,Female,2/1/26,12/31/25,Daisy Rodriguez,Daisy Rodriguez,Neurology,Neurology,¬£73.97,GBP,73.97,93.9419,No,No,10,1,Middle Aged
+1053,813,Christopher Lopez,39,N/A,N/A,1/15/26,11/11/25,Caleb Kennedy,Caleb Kennedy,General,General,$295.71,USD,295.71,295.71,N,No,14,1,Young Adult
+1035,814,Ronnie Roach,46,F,Female,8/13/25,5/25/25,Jason Houston,Jason Houston,Cardiology,Cardiology,Rs167.5,INR,167.5,2.01,1,N/A,9,1,Middle Aged
+1074,815,Gary Taylor,87,N/A,N/A,5/19/25,6/12/24,Lauren Medina,Lauren Medina,General,General,¬£321.5,GBP,321.5,408.305,Y,Yes,17,1,Elderly
+1015,816,Rodney Gonzalez,21,Female,Female,7/4/25,2/7/25,Allison Ramos,Allison Ramos,Cardiology,Cardiology,$168.33,USD,168.33,168.33,N,No,17,1,Young Adult
+1071,817,Patrick Roach,88,F,Female,10/31/25,6/23/25,Karen Duke,Karen Duke,Cardiology,Cardiology,‚Ç¨411.75,EUR,411.75,448.8075,Yes,Yes,10,1,Elderly
+1044,818,Sandra Rojas,83,N/A,N/A,6/16/25,3/7/25,Stephanie Bryant,Stephanie Bryant,Cardiology,Cardiology,,N/A,,N/A,No,No,12,1,Elderly
+1038,819,Donna Stone,29,F,Female,2/20/26,8/22/24,Daniel Bender,Daniel Bender,Neurology,Neurology,¬£462.15,GBP,462.15,586.9305,0,N/A,10,1,Young Adult
+1001,820,Erik Davis,30,Male,Male,5/30/25,12/5/24,Amanda White,Amanda White,Neurology,Neurology,,N/A,,N/A,Yes,Yes,12,1,Young Adult
+1056,821,Brian Patel,33,N/A,N/A,10/16/25,9/13/24,Tracy Harris,Tracy Harris,Orthopedics,Orthopedics,‚Ç¨124.69,EUR,124.69,135.9121,No,No,13,1,Young Adult
+1008,822,George Houston,71,N/A,N/A,9/6/25,5/21/24,Brian Vincent,Brian Vincent,Neurology,Neurology,‚Ç¨129.38,EUR,129.38,141.0242,0,N/A,11,1,Elderly
+1099,823,Mrs. Katherine Huber PhD,74,Male,Male,5/9/25,11/12/24,Kathryn Young,Kathryn Young,Cardiology,Cardiology,$488.54,USD,488.54,488.54,N,No,7,1,Elderly
+1060,824,Edward Russell,26,Male,Male,10/17/25,12/12/24,Connor Brown,Connor Brown,Orthopedics,Orthopedics,¬£93.45,GBP,93.45,118.6815,No,No,6,1,Young Adult
+1080,825,Thomas Fleming,18,Male,Male,6/4/25,12/14/24,Kimberly Mcdonald,Kimberly Mcdonald,Neurology,Neurology,‚Ç¨73.45,EUR,73.45,80.0605,No,No,11,1,Young Adult
+1056,826,Savannah Butler,26,N/A,N/A,11/26/25,4/17/25,James Nguyen,James Nguyen,Neurology,Neurology,$340.47,USD,340.47,340.47,No,No,13,1,Young Adult
+1077,827,David Wilson,78,male,Male,1/9/26,5/7/25,Matthew Wilson,Matthew Wilson,Cardiology,Cardiology,¬£414.94,GBP,414.94,526.9738,0,N/A,10,1,Elderly
+1036,828,Jacob Price,25,Male,Male,6/14/25,4/27/24,Kimberly Rangel,Kimberly Rangel,Neurology,Neurology,‚Ç¨238.05,EUR,238.05,259.4745,Yes,Yes,14,1,Young Adult
+1050,829,Brian Davis,41,Female,Female,2/7/26,5/27/25,Brian Mitchell,Brian Mitchell,Orthopedics,Orthopedics,Rs63.62,INR,63.62,0.76344,Yes,Yes,12,1,Middle Aged
+1003,830,Kendra Jones,85,Female,Female,7/30/25,10/14/24,Karen Grimes,Karen Grimes,Cardiology,Cardiology,$101.59,USD,101.59,101.59,1,N/A,12,1,Elderly
+1042,831,Anthony Medina,60,Female,Female,3/28/25,11/14/24,Richard Walker,Richard Walker,Orthopedics,Orthopedics,$498.48,USD,498.48,498.48,Yes,Yes,4,1,Middle Aged
+1019,832,Desiree Wilkins,34,Female,Female,2/28/26,7/31/25,Jamie Ford,Jamie Ford,General,General,$305.84,USD,305.84,305.84,Yes,Yes,6,1,Young Adult
+1073,833,Ashley Cunningham,32,F,Female,1/22/26,11/29/24,Sarah Montgomery,Sarah Montgomery,Cardiology,Cardiology,Rs160.05,INR,160.05,1.9206,Y,Yes,11,1,Young Adult
+1027,834,Abigail Townsend,54,F,Female,12/10/25,3/8/25,Allison Salazar,Allison Salazar,Orthopedics,Orthopedics,$406.61,USD,406.61,406.61,Y,Yes,12,1,Middle Aged
+1004,835,Diana Collins,47,Female,Female,11/25/25,10/6/24,Glenn Bond,Glenn Bond,Cardiology,Cardiology,¬£359.32,GBP,359.32,456.3364,0,N/A,9,1,Middle Aged
+1077,836,William Roberts Jr.,21,F,Female,8/17/25,7/2/24,Savannah Beltran,Savannah Beltran,Orthopedics,Orthopedics,$315.17,USD,315.17,315.17,No,No,10,1,Young Adult
+1085,837,Sean Bailey,85,Female,Female,9/6/25,2/27/25,Erika Turner,Erika Turner,Neurology,Neurology,¬£319.92,GBP,319.92,406.2984,Y,Yes,12,1,Elderly
+1025,838,Adrian Vincent,42,N/A,N/A,9/21/25,12/5/24,William Coleman MD,William Coleman Md,Orthopedics,Orthopedics,¬£352.01,GBP,352.01,447.0527,No,No,9,1,Middle Aged
+1029,839,John Walsh,63,N/A,N/A,8/13/25,9/3/24,Wanda Cox,Wanda Cox,Orthopedics,Orthopedics,¬£88.56,GBP,88.56,112.4712,No,No,8,1,Middle Aged
+1052,840,Christopher Johnson,26,N/A,N/A,10/31/25,3/22/25,Susan Stanton,Susan Stanton,Neurology,Neurology,$461.18,USD,461.18,461.18,Y,Yes,8,1,Young Adult
+1062,841,Roger Holmes,85,Female,Female,2/4/26,12/22/24,Paula Stone,Paula Stone,Cardiology,Cardiology,Rs206.57,INR,206.57,2.47884,1,N/A,6,1,Elderly
+1014,842,Michael Hamilton,29,Female,Female,9/3/25,7/27/24,Angie Smith,Angie Smith,General,General,¬£107.34,GBP,107.34,136.3218,N,No,10,1,Young Adult
+1056,843,Courtney Gonzales,84,Female,Female,5/26/25,10/31/24,Kayla Norris,Kayla Norris,Cardiology,Cardiology,$385.01,USD,385.01,385.01,No,No,13,1,Elderly
+1073,844,Leslie Medina,18,Female,Female,8/17/25,6/25/25,Matthew Morse,Matthew Morse,Orthopedics,Orthopedics,¬£490.93,GBP,490.93,623.4811,Y,Yes,11,1,Young Adult
+1009,845,Frank Fields,30,Female,Female,6/27/25,5/21/25,Heather Diaz,Heather Diaz,General,General,$168.86,USD,168.86,168.86,Yes,Yes,9,1,Young Adult
+1029,846,Darren Douglas,23,F,Female,2/1/26,9/4/25,Andrew Gordon,Andrew Gordon,Orthopedics,Orthopedics,$463.06,USD,463.06,463.06,Yes,Yes,8,1,Young Adult
+1047,847,Jerry Jones,66,Male,Male,8/21/25,6/5/24,Ashley Gomez,Ashley Gomez,General,General,$261.87,USD,261.87,261.87,0,N/A,17,1,Elderly
+1091,848,Sheila Barrett,25,M,Male,11/19/25,11/15/25,John Wallace,John Wallace,Cardiology,Cardiology,Rs170.53,INR,170.53,2.04636,N,No,9,1,Young Adult
+1026,849,Kim Morris,56,F,Female,12/20/25,6/24/25,Michael Morris,Michael Morris,General,General,$197.66,USD,197.66,197.66,N,No,10,1,Middle Aged
+1075,850,Sarah Rivas,85,N/A,N/A,3/9/26,3/18/25,Scott Vega,Scott Vega,Neurology,Neurology,¬£454.23,GBP,454.23,576.8721,No,No,11,1,Elderly
+1089,851,Adam Lane,76,Female,Female,3/21/26,9/20/24,Lynn Dorsey,Lynn Dorsey,Neurology,Neurology,‚Ç¨104.3,EUR,104.3,113.687,Y,Yes,16,1,Elderly
+1031,852,Ronald Taylor,43,M,Male,8/27/25,5/11/24,Vanessa Jackson,Vanessa Jackson,Neurology,Neurology,$263.1,USD,263.1,263.1,1,N/A,13,1,Middle Aged
+1082,853,Angela Smith,51,Male,Male,9/2/25,8/15/25,Nicholas Jones,Nicholas Jones,Orthopedics,Orthopedics,¬£229.44,GBP,229.44,291.3888,N,No,14,1,Middle Aged
+1022,854,Chad Tyler,89,N/A,N/A,2/2/26,1/8/25,Tiffany Sullivan,Tiffany Sullivan,Neurology,Neurology,¬£424.53,GBP,424.53,539.1531,1,N/A,9,1,Elderly
+1063,855,Mary Manning,48,F,Female,1/23/26,10/13/25,William Harris,William Harris,Orthopedics,Orthopedics,$248.84,USD,248.84,248.84,No,No,11,1,Middle Aged
+1009,856,Samantha Hoffman,37,M,Male,7/23/25,3/14/25,Julie Smith,Julie Smith,Cardiology,Cardiology,$89.38,USD,89.38,89.38,No,No,9,1,Young Adult
+1079,857,Shawn Juarez,64,N/A,N/A,8/2/25,5/31/25,Patrick Morrison,Patrick Morrison,Neurology,Neurology,‚Ç¨110.8,EUR,110.8,120.772,Yes,Yes,4,1,Middle Aged
+1001,858,Dave Summers,25,F,Female,2/9/26,1/19/25,Traci Hopkins,Traci Hopkins,Orthopedics,Orthopedics,$217.51,USD,217.51,217.51,1,N/A,12,1,Young Adult
+1022,859,Luke Brady,78,male,Male,10/9/25,6/24/25,Adam Hall,Adam Hall,General,General,‚Ç¨427.98,EUR,427.98,466.4982,Y,Yes,9,1,Elderly
+1008,860,Christian Guerrero,77,Female,Female,1/7/26,6/29/24,Jennifer Perez,Jennifer Perez,Cardiology,Cardiology,$298.89,USD,298.89,298.89,Y,Yes,11,1,Elderly
+1100,861,Terrence Long,46,male,Male,2/1/26,6/27/25,Natalie Rodriguez,Natalie Rodriguez,Cardiology,Cardiology,¬£182.71,GBP,182.71,232.0417,Y,Yes,8,1,Middle Aged
+1074,862,Victor Everett,90,F,Female,11/5/25,6/6/24,Jacob Diaz,Jacob Diaz,General,General,‚Ç¨350.12,EUR,350.12,381.6308,0,N/A,17,1,Elderly
+1037,863,Amanda Stevenson,26,N/A,N/A,1/17/26,6/28/24,Tyler Cunningham,Tyler Cunningham,General,General,‚Ç¨158.91,EUR,158.91,173.2119,0,N/A,5,1,Young Adult
+1094,864,Vanessa Perkins,22,F,Female,3/16/26,11/26/24,Megan Smith,Megan Smith,Orthopedics,Orthopedics,¬£457.94,GBP,457.94,581.5838,1,N/A,8,1,Young Adult
+1066,865,Michael Davis,36,N/A,N/A,1/11/26,9/30/25,Karen Griffin,Karen Griffin,Cardiology,Cardiology,‚Ç¨130.9,EUR,130.9,142.681,N,No,11,1,Young Adult
+1084,866,Amy Pierce,83,Female,Female,7/27/25,3/28/25,Ian Castillo,Ian Castillo,Orthopedics,Orthopedics,$318.44,USD,318.44,318.44,No,No,15,1,Elderly
+1008,867,Dakota Kelly,44,F,Female,10/7/25,11/17/24,Andre Jones,Andre Jones,Neurology,Neurology,Rs291.99,INR,291.99,3.50388,0,N/A,11,1,Middle Aged
+1039,868,Erin Williams,69,Female,Female,2/4/26,10/17/24,Sean Hernandez,Sean Hernandez,Cardiology,Cardiology,$161.56,USD,161.56,161.56,Y,Yes,8,1,Elderly
+1092,869,Tiffany Cooper,58,M,Male,7/5/25,5/16/25,Katrina Jones,Katrina Jones,General,General,‚Ç¨79.8,EUR,79.8,86.982,Y,Yes,11,1,Middle Aged
+1023,870,Jerry White,76,N/A,N/A,8/19/25,8/15/25,Steven Scott,Steven Scott,General,General,Rs151.58,INR,151.58,1.81896,1,N/A,4,1,Elderly
+1004,871,Joseph Pace,67,N/A,N/A,11/20/25,8/2/25,Lydia Baker,Lydia Baker,Neurology,Neurology,Rs338.13,INR,338.13,4.05756,Yes,Yes,9,1,Elderly
+1056,872,Jean Kramer,30,N/A,N/A,5/29/25,5/31/24,Donald Clark,Donald Clark,Orthopedics,Orthopedics,‚Ç¨441.92,EUR,441.92,481.6928,Yes,Yes,13,1,Young Adult
+1077,873,David Rose,78,M,Male,11/9/25,7/14/25,Dana Ewing,Dana Ewing,Orthopedics,Orthopedics,Rs114.73,INR,114.73,1.37676,Yes,Yes,10,1,Elderly
+1081,874,Christopher Lopez,45,M,Male,3/21/26,5/4/24,Kevin Pearson,Kevin Pearson,General,General,¬£405.59,GBP,405.59,515.0993,Y,Yes,9,1,Middle Aged
+1078,875,James Gibbs,25,Female,Female,11/16/25,9/22/24,Lisa Norris,Lisa Norris,Cardiology,Cardiology,$368.56,USD,368.56,368.56,No,No,8,1,Young Adult
+1054,876,Lori Henderson,50,Female,Female,6/5/25,12/19/24,Terri Stewart,Terri Stewart,General,General,Rs496.31,INR,496.31,5.95572,No,No,12,1,Middle Aged
+1085,877,Benjamin Lewis,85,Male,Male,1/9/26,5/3/25,Taylor Hicks,Taylor Hicks,Cardiology,Cardiology,‚Ç¨213.17,EUR,213.17,232.3553,No,No,12,1,Elderly
+1028,878,Matthew Johnson,22,N/A,N/A,12/17/25,8/6/25,John Moran,John Moran,Orthopedics,Orthopedics,‚Ç¨150.15,EUR,150.15,163.6635,No,No,8,1,Young Adult
+1048,879,Karen Myers,89,N/A,N/A,7/20/25,6/12/24,David Wright,David Wright,Neurology,Neurology,‚Ç¨371.69,EUR,371.69,405.1421,No,No,8,1,Elderly
+1008,880,Shelly Chavez,34,Female,Female,10/10/25,5/2/25,Megan Morales,Megan Morales,Neurology,Neurology,$431.45,USD,431.45,431.45,0,N/A,11,1,Young Adult
+1002,881,Maria Williams,22,M,Male,8/17/25,1/5/25,Brandi Thomas,Brandi Thomas,Orthopedics,Orthopedics,¬£189.17,GBP,189.17,240.2459,0,N/A,7,1,Young Adult
+1013,882,Robert Humphrey,24,N/A,N/A,4/10/25,3/22/25,Vanessa Brown,Vanessa Brown,Orthopedics,Orthopedics,$281.71,USD,281.71,281.71,No,No,10,1,Young Adult
+1032,883,Matthew Gutierrez,21,Male,Male,2/8/26,5/14/25,Lisa Smith,Lisa Smith,General,General,‚Ç¨309.31,EUR,309.31,337.1479,N,No,7,1,Young Adult
+1074,884,Rebecca Banks,23,male,Male,5/26/25,1/17/25,April Randall DDS,April Randall Dds,Neurology,Neurology,Rs57.03,INR,57.03,0.68436,Yes,Yes,17,1,Young Adult
+1025,885,Ashley Rodriguez,52,N/A,N/A,6/5/25,11/6/24,Russell Zimmerman,Russell Zimmerman,Orthopedics,Orthopedics,Rs219.97,INR,219.97,2.63964,N,No,9,1,Middle Aged
+1040,886,Laura Ford,36,N/A,N/A,5/27/25,12/2/24,Kyle Evans,Kyle Evans,Orthopedics,Orthopedics,¬£186.51,GBP,186.51,236.8677,No,No,13,1,Young Adult
+1089,887,James Stout,20,N/A,N/A,10/3/25,7/30/25,Andrea Myers,Andrea Myers,Neurology,Neurology,‚Ç¨77.05,EUR,77.05,83.9845,0,N/A,16,1,Young Adult
+1069,888,Ashley Foster,32,N/A,N/A,2/23/26,1/14/25,Melinda Cannon,Melinda Cannon,General,General,¬£208.72,GBP,208.72,265.0744,1,N/A,10,1,Young Adult
+1070,889,Christian Thomas,38,N/A,N/A,7/6/25,4/23/25,Gregory Tapia,Gregory Tapia,Neurology,Neurology,¬£390.16,GBP,390.16,495.5032,Y,Yes,13,1,Young Adult
+1070,890,Stacy Gardner,53,N/A,N/A,1/18/26,3/11/25,Michael Campbell,Michael Campbell,Neurology,Neurology,¬£74.78,GBP,74.78,94.9706,Yes,Yes,13,1,Middle Aged
+1077,891,Taylor Patterson,58,F,Female,3/25/26,10/24/25,Ellen Miller,Ellen Miller,Neurology,Neurology,$199.03,USD,199.03,199.03,No,No,10,1,Middle Aged
+1082,892,Justin Zimmerman,61,M,Male,11/5/25,9/20/25,Tammy Thomas,Tammy Thomas,Cardiology,Cardiology,¬£245.09,GBP,245.09,311.2643,0,N/A,14,1,Middle Aged
+1053,893,Jaclyn Knight,66,N/A,N/A,8/24/25,5/19/24,John Oliver,John Oliver,Orthopedics,Orthopedics,¬£282.03,GBP,282.03,358.1781,0,N/A,14,1,Elderly
+1083,894,Jessica Rodriguez,18,Male,Male,4/21/25,9/4/24,Jeffrey Martin,Jeffrey Martin,Neurology,Neurology,Rs411.85,INR,411.85,4.9422,Yes,Yes,7,1,Young Adult
+1096,895,Patricia Johnson DDS,70,N/A,N/A,6/12/25,11/27/24,Ana Hunt,Ana Hunt,Neurology,Neurology,¬£144.89,GBP,144.89,184.0103,Yes,Yes,4,1,Elderly
+1043,896,Alexandra Sandoval,31,male,Male,11/21/25,8/16/25,Rachel Moore,Rachel Moore,Neurology,Neurology,Rs198.95,INR,198.95,2.3874,N,No,12,1,Young Adult
+1058,897,Mandy Smith,64,Male,Male,4/14/25,2/4/25,Brian Olson,Brian Olson,Neurology,Neurology,Rs246.05,INR,246.05,2.9526,1,N/A,17,1,Middle Aged
+1080,898,Danny Cooper,21,male,Male,4/27/25,3/13/25,Mark Morrison,Mark Morrison,Neurology,Neurology,‚Ç¨164.43,EUR,164.43,179.2287,Yes,Yes,11,1,Young Adult
+1097,899,Dr. Christina Dunn,51,Female,Female,9/11/25,6/13/24,Madeline Sharp,Madeline Sharp,General,General,Rs381.59,INR,381.59,4.57908,No,No,10,1,Middle Aged
+1054,900,Rachel Porter,29,M,Male,5/17/25,10/6/24,Patrick Russell,Patrick Russell,Neurology,Neurology,‚Ç¨341.42,EUR,341.42,372.1478,N,No,12,1,Young Adult
+1075,901,Megan Williams,51,Male,Male,12/11/25,10/19/25,Melissa Khan,Melissa Khan,Neurology,Neurology,Rs456.12,INR,456.12,5.47344,No,No,11,1,Middle Aged
+1036,902,Michelle Hill,82,male,Male,12/8/25,4/7/24,Rachel Sanchez,Rachel Sanchez,General,General,Rs371.84,INR,371.84,4.46208,Y,Yes,14,1,Elderly
+1064,903,Donna Green,78,Female,Female,1/14/26,5/7/25,Clifford Ramirez,Clifford Ramirez,Orthopedics,Orthopedics,‚Ç¨263.23,EUR,263.23,286.9207,No,No,5,1,Elderly
+1015,904,Leon Anderson,63,N/A,N/A,11/28/25,9/24/24,Mary Chandler,Mary Chandler,Neurology,Neurology,$427.62,USD,427.62,427.62,Yes,Yes,17,1,Middle Aged
+1045,905,Cheryl Ruiz,66,N/A,N/A,5/23/25,4/29/24,Maria Thomas,Maria Thomas,Orthopedics,Orthopedics,¬£100.78,GBP,100.78,127.9906,Yes,Yes,8,1,Elderly
+1016,906,Keith Douglas,49,male,Male,9/16/25,5/2/25,Dawn Browning,Dawn Browning,Orthopedics,Orthopedics,,N/A,,N/A,0,N/A,15,1,Middle Aged
+1006,907,Christina Spencer,61,M,Male,11/14/25,5/10/24,Mark Kelley,Mark Kelley,Orthopedics,Orthopedics,¬£308.28,GBP,308.28,391.5156,N,No,8,1,Middle Aged
+1058,908,April Rios,30,F,Female,2/26/26,2/7/26,Megan Mccann,Megan Mccann,General,General,‚Ç¨471.3,EUR,471.3,513.717,0,N/A,17,1,Young Adult
+1050,909,Mallory Martin,23,N/A,N/A,10/27/25,6/22/25,David Whitney,David Whitney,Cardiology,Cardiology,Rs437.95,INR,437.95,5.2554,1,N/A,12,1,Young Adult
+1016,910,Elizabeth Johnson,87,Female,Female,1/24/26,12/9/24,Dr. Mary Day,Dr. Mary Day,General,General,Rs461.32,INR,461.32,5.53584,Y,Yes,15,1,Elderly
+1014,911,Ellen Rogers,31,N/A,N/A,8/30/25,1/17/25,Tammie Melendez,Tammie Melendez,General,General,‚Ç¨424.17,EUR,424.17,462.3453,Y,Yes,10,1,Young Adult
+1070,912,Kenneth Jenkins,49,N/A,N/A,5/20/25,9/12/24,Tanya Eaton,Tanya Eaton,General,General,‚Ç¨428.7,EUR,428.7,467.283,Yes,Yes,13,1,Middle Aged
+1068,913,Duane Mitchell,52,Female,Female,1/12/26,9/8/24,Helen Jackson,Helen Jackson,Neurology,Neurology,‚Ç¨159.11,EUR,159.11,173.4299,0,N/A,14,1,Middle Aged
+1088,914,Mr. Paul Chavez,65,M,Male,7/23/25,2/4/25,Evan Marquez,Evan Marquez,Neurology,Neurology,$159.06,USD,159.06,159.06,Y,Yes,16,1,Elderly
+1012,915,Ian Weaver,18,F,Female,1/19/26,6/1/25,Audrey Torres,Audrey Torres,Neurology,Neurology,Rs317.16,INR,317.16,3.80592,Yes,Yes,9,1,Young Adult
+1066,916,Daniel White,37,Female,Female,5/25/25,10/12/24,Justin Hall,Justin Hall,General,General,‚Ç¨470.63,EUR,470.63,512.9867,Y,Yes,11,1,Young Adult
+1071,917,Brian Riley,74,M,Male,8/23/25,9/24/24,Charles Kemp,Charles Kemp,Cardiology,Cardiology,$153.44,USD,153.44,153.44,N,No,10,1,Elderly
+1094,918,Joshua Wallace,60,N/A,N/A,12/26/25,5/22/24,Melissa Price,Melissa Price,General,General,‚Ç¨416.08,EUR,416.08,453.5272,0,N/A,8,1,Middle Aged
+1075,919,Amy Cruz,43,N/A,N/A,12/14/25,2/28/25,Tony Burke,Tony Burke,Neurology,Neurology,‚Ç¨458.79,EUR,458.79,500.0811,Yes,Yes,11,1,Middle Aged
+1077,920,Carly Dixon,30,male,Male,5/29/25,1/26/25,Gary Murray,Gary Murray,Orthopedics,Orthopedics,$125.8,USD,125.8,125.8,0,N/A,10,1,Young Adult
+1044,921,Pamela Bradshaw,43,male,Male,4/2/25,7/8/24,Donald Mitchell,Donald Mitchell,General,General,Rs352.94,INR,352.94,4.23528,0,N/A,12,1,Middle Aged
+1084,922,Rebecca Hall,68,Male,Male,7/22/25,6/28/25,Kevin Mendoza DVM,Kevin Mendoza Dvm,General,General,‚Ç¨111.4,EUR,111.4,121.426,0,N/A,15,1,Elderly
+1060,923,James Lopez,85,Female,Female,9/19/25,9/16/25,Carla Cole,Carla Cole,Cardiology,Cardiology,‚Ç¨161.54,EUR,161.54,176.0786,Y,Yes,6,1,Elderly
+1055,924,Christopher Powell,69,Male,Male,3/31/25,11/5/24,Gary Wood,Gary Wood,Orthopedics,Orthopedics,Rs479.37,INR,479.37,5.75244,Yes,Yes,5,1,Elderly
+1046,925,Barbara Dalton,29,N/A,N/A,4/7/25,6/2/24,Rachel Holloway,Rachel Holloway,Cardiology,Cardiology,$306.94,USD,306.94,306.94,1,N/A,8,1,Young Adult
+1087,926,Alejandra Turner,31,N/A,N/A,5/31/25,5/24/25,Bradley Jones,Bradley Jones,Cardiology,Cardiology,‚Ç¨194.95,EUR,194.95,212.4955,Yes,Yes,8,1,Young Adult
+1020,927,Kelsey Shaffer,56,M,Male,4/20/25,12/7/24,Christina Simmons,Christina Simmons,Neurology,Neurology,‚Ç¨91.05,EUR,91.05,99.2445,Y,Yes,10,1,Middle Aged
+1047,928,Kara Stewart,63,F,Female,4/21/25,3/6/25,Becky Sanchez,Becky Sanchez,Neurology,Neurology,‚Ç¨290.36,EUR,290.36,316.4924,No,No,17,1,Middle Aged
+1053,929,Kenneth Fox,86,N/A,N/A,10/13/25,8/12/24,Kimberly Sullivan,Kimberly Sullivan,General,General,$85.53,USD,85.53,85.53,1,N/A,14,1,Elderly
+1031,930,Michelle Bradford,31,N/A,N/A,3/17/26,8/2/25,Robert Williams,Robert Williams,Cardiology,Cardiology,‚Ç¨419.74,EUR,419.74,457.5166,Yes,Yes,13,1,Young Adult
+1041,931,Amy Wilson,81,Male,Male,9/26/25,2/1/25,Nathan Mathews,Nathan Mathews,Orthopedics,Orthopedics,,N/A,,N/A,0,N/A,8,1,Elderly
+1047,932,Danielle Ortega,76,Male,Male,8/18/25,6/14/25,Tiffany Lowery,Tiffany Lowery,Orthopedics,Orthopedics,$83.67,USD,83.67,83.67,N,No,17,1,Elderly
+1012,933,Gregory Hines,76,M,Male,2/7/26,1/15/26,Rebecca Goodwin,Rebecca Goodwin,Orthopedics,Orthopedics,Rs255.43,INR,255.43,3.06516,No,No,9,1,Elderly
+1034,934,Amanda Douglas,90,N/A,N/A,3/7/26,6/25/24,Gregory Gonzalez,Gregory Gonzalez,General,General,,N/A,,N/A,0,N/A,8,1,Elderly
+1091,935,Scott Walker,62,Male,Male,3/22/26,11/28/25,Brianna Hernandez,Brianna Hernandez,Neurology,Neurology,$433.63,USD,433.63,433.63,Y,Yes,9,1,Middle Aged
+1034,936,Teresa Kim,71,Male,Male,12/26/25,4/27/24,Gregory Brown,Gregory Brown,Neurology,Neurology,Rs461.04,INR,461.04,5.53248,0,N/A,8,1,Elderly
+1072,937,Kimberly Miller,59,Female,Female,4/25/25,4/30/24,Anna Jennings,Anna Jennings,Cardiology,Cardiology,¬£261.01,GBP,261.01,331.4827,Y,Yes,9,1,Middle Aged
+1048,938,Ashley Black,84,F,Female,5/29/25,1/29/25,Dennis Murphy,Dennis Murphy,Neurology,Neurology,,N/A,,N/A,N,No,8,1,Elderly
+1068,939,Wendy Parks,40,male,Male,2/14/26,9/9/25,Melissa Williams,Melissa Williams,Neurology,Neurology,,N/A,,N/A,1,N/A,14,1,Middle Aged
+1063,940,Stacy Clements,75,Female,Female,6/3/25,11/9/24,Cynthia Dunn,Cynthia Dunn,Cardiology,Cardiology,Rs96.19,INR,96.19,1.15428,Yes,Yes,11,1,Elderly
+1063,941,Kyle Gibbs,58,Female,Female,2/25/26,10/29/24,Christopher Guzman,Christopher Guzman,Neurology,Neurology,¬£248.76,GBP,248.76,315.9252,0,N/A,11,1,Middle Aged
+1045,942,Beth Stephens,24,Female,Female,12/2/25,4/13/25,Scott Nguyen,Scott Nguyen,General,General,Rs246.63,INR,246.63,2.95956,0,N/A,8,1,Young Adult
+1028,943,Michael Heath,88,N/A,N/A,10/29/25,3/22/25,Benjamin Brown,Benjamin Brown,Cardiology,Cardiology,Rs256.59,INR,256.59,3.07908,Yes,Yes,8,1,Elderly
+1025,944,James Malone,84,Female,Female,9/26/25,6/16/25,Rhonda Oconnor,Rhonda Oconnor,Neurology,Neurology,$326.84,USD,326.84,326.84,Y,Yes,9,1,Elderly
+1046,945,Christina Moore,64,N/A,N/A,5/31/25,8/21/24,Joshua Martin,Joshua Martin,Orthopedics,Orthopedics,¬£476.97,GBP,476.97,605.7519,N,No,8,1,Middle Aged
+1036,946,Katie Mcdaniel,76,N/A,N/A,1/10/26,7/31/25,Aaron Perkins,Aaron Perkins,General,General,$136.77,USD,136.77,136.77,Y,Yes,14,1,Elderly
+1026,947,Scott Thompson,49,Male,Male,2/14/26,3/11/25,Erika Richards,Erika Richards,Neurology,Neurology,‚Ç¨466.59,EUR,466.59,508.5831,No,No,10,1,Middle Aged
+1097,948,Jon Berry,27,male,Male,11/2/25,4/25/24,Heather Foster,Heather Foster,General,General,‚Ç¨342.3,EUR,342.3,373.107,Yes,Yes,10,1,Young Adult
+1014,949,Connie Wheeler,29,N/A,N/A,12/30/25,8/8/25,Sherri Buckley,Sherri Buckley,Neurology,Neurology,‚Ç¨444.2,EUR,444.2,484.178,N,No,10,1,Young Adult
+1085,950,Jonathan Howell,63,Male,Male,8/12/25,11/3/24,Darryl Case,Darryl Case,Orthopedics,Orthopedics,Rs421.18,INR,421.18,5.05416,Y,Yes,12,1,Middle Aged
+1005,951,Michelle King,54,Male,Male,5/7/25,6/22/24,Anthony Hughes,Anthony Hughes,General,General,‚Ç¨386.3,EUR,386.3,421.067,No,No,13,1,Middle Aged
+1075,952,Christine Barron,59,M,Male,3/20/26,12/24/25,Thomas Clark MD,Thomas Clark Md,Cardiology,Cardiology,Rs107.04,INR,107.04,1.28448,1,N/A,11,1,Middle Aged
+1082,953,Dr. Karen Miller DDS,37,Male,Male,4/19/25,4/29/24,Martin Herring,Martin Herring,Orthopedics,Orthopedics,¬£381.15,GBP,381.15,484.0605,0,N/A,14,1,Young Adult
+1089,954,Kimberly Barnett,69,male,Male,10/4/25,7/31/25,William Bryan,William Bryan,General,General,‚Ç¨477.98,EUR,477.98,520.9982,Y,Yes,16,1,Elderly
+1092,955,Abigail Warner,53,Female,Female,10/25/25,5/23/24,Heather Stokes,Heather Stokes,Orthopedics,Orthopedics,‚Ç¨418.27,EUR,418.27,455.9143,Y,Yes,11,1,Middle Aged
+1066,956,Melissa Vaughn,46,N/A,N/A,3/26/26,6/21/25,Vickie Johnson,Vickie Johnson,Cardiology,Cardiology,‚Ç¨300.52,EUR,300.52,327.5668,0,N/A,11,1,Middle Aged
+1016,957,Jocelyn Strickland,22,M,Male,4/30/25,7/10/24,Vincent Kemp,Vincent Kemp,Cardiology,Cardiology,,N/A,,N/A,N,No,15,1,Young Adult
+1041,958,Lindsay Shaw,43,N/A,N/A,9/17/25,5/9/24,Julia Mcmillan,Julia Mcmillan,Orthopedics,Orthopedics,¬£485.93,GBP,485.93,617.1311,0,N/A,8,1,Middle Aged
+1052,959,Melvin Bowers,88,N/A,N/A,12/15/25,11/14/25,Robin Diaz,Robin Diaz,Orthopedics,Orthopedics,¬£164.2,GBP,164.2,208.534,1,N/A,8,1,Elderly
+1051,960,Victoria Gilbert,64,F,Female,4/8/25,7/23/24,April Spears,April Spears,Cardiology,Cardiology,$390.1,USD,390.1,390.1,No,No,9,1,Middle Aged
+1035,961,John Marsh,33,male,Male,5/4/25,6/4/24,Michael Wright,Michael Wright,General,General,¬£407.7,GBP,407.7,517.779,1,N/A,9,1,Young Adult
+1074,962,Eugene Underwood,80,M,Male,11/11/25,5/20/25,Benjamin Williams,Benjamin Williams,Neurology,Neurology,Rs467.55,INR,467.55,5.6106,No,No,17,1,Elderly
+1098,963,Michelle Payne,87,M,Male,7/2/25,11/25/24,Cassandra Bishop,Cassandra Bishop,Orthopedics,Orthopedics,‚Ç¨119.41,EUR,119.41,130.1569,0,N/A,12,1,Elderly
+1100,964,Melanie Lee,31,M,Male,10/1/25,10/25/24,Andrea Kennedy,Andrea Kennedy,Cardiology,Cardiology,¬£441.89,GBP,441.89,561.2003,No,No,8,1,Young Adult
+1049,965,Jessica Murray,20,N/A,N/A,12/29/25,6/23/25,James Harris,James Harris,General,General,Rs184.38,INR,184.38,2.21256,N,No,8,1,Young Adult
+1021,966,William Villarreal,80,N/A,N/A,6/15/25,8/17/24,Ronald Davis,Ronald Davis,Orthopedics,Orthopedics,$269.35,USD,269.35,269.35,1,N/A,16,1,Elderly
+1069,967,Monica Jones,18,N/A,N/A,10/17/25,5/7/24,Cheryl Bailey,Cheryl Bailey,Cardiology,Cardiology,Rs363.94,INR,363.94,4.36728,No,No,10,1,Young Adult
+1056,968,Craig Parsons,71,N/A,N/A,1/9/26,12/15/25,Jose Price,Jose Price,General,General,¬£323.0,GBP,323,410.21,0,N/A,13,1,Elderly
+1036,969,Cameron Lopez,44,Female,Female,4/27/25,12/13/24,Christopher Williams,Christopher Williams,Orthopedics,Orthopedics,$163.0,USD,163,163,Yes,Yes,14,1,Middle Aged
+1063,970,Daniel Green,32,Male,Male,7/5/25,1/4/25,James Fox,James Fox,Orthopedics,Orthopedics,Rs254.14,INR,254.14,3.04968,1,N/A,11,1,Young Adult
+1081,971,William Hatfield,32,M,Male,2/26/26,4/14/25,Kristen Lopez,Kristen Lopez,Neurology,Neurology,$112.79,USD,112.79,112.79,0,N/A,9,1,Young Adult
+1042,972,Dawn Bryant,48,N/A,N/A,6/14/25,3/21/25,Charles Nguyen,Charles Nguyen,Cardiology,Cardiology,Rs164.15,INR,164.15,1.9698,Y,Yes,4,1,Middle Aged
+1082,973,Joseph Rodriguez,69,Female,Female,5/25/25,6/15/24,Douglas Foster,Douglas Foster,Cardiology,Cardiology,‚Ç¨94.37,EUR,94.37,102.8633,1,N/A,14,1,Elderly
+1002,974,Bailey Williamson,88,F,Female,10/17/25,5/24/25,George Singleton,George Singleton,Cardiology,Cardiology,$368.53,USD,368.53,368.53,No,No,7,1,Elderly
+1047,975,Jeffrey Johnston,36,N/A,N/A,1/21/26,1/6/25,Cynthia Baker,Cynthia Baker,Orthopedics,Orthopedics,Rs240.37,INR,240.37,2.88444,0,N/A,17,1,Young Adult
+1043,976,Brandy Estes MD,64,male,Male,10/26/25,5/15/24,Andrea Lam,Andrea Lam,Neurology,Neurology,¬£238.59,GBP,238.59,303.0093,Y,Yes,12,1,Middle Aged
+1072,977,Kristin Combs,38,F,Female,10/28/25,12/12/24,Frank Anderson,Frank Anderson,General,General,Rs279.32,INR,279.32,3.35184,0,N/A,9,1,Young Adult
+1085,978,Alex Rowe,34,male,Male,11/28/25,6/15/25,Derek Doyle,Derek Doyle,Cardiology,Cardiology,Rs114.8,INR,114.8,1.3776,0,N/A,12,1,Young Adult
+1088,979,Kevin Peters,19,Female,Female,7/23/25,4/28/25,Nancy Wilson,Nancy Wilson,General,General,‚Ç¨96.78,EUR,96.78,105.4902,N,No,16,1,Young Adult
+1059,980,Hunter Miller,65,F,Female,7/24/25,5/31/25,Kathy Lawson,Kathy Lawson,Neurology,Neurology,¬£384.42,GBP,384.42,488.2134,0,N/A,13,1,Elderly
+1028,981,Rebecca Franklin,43,N/A,N/A,7/3/25,5/16/24,Daniel Love,Daniel Love,Neurology,Neurology,Rs187.7,INR,187.7,2.2524,1,N/A,8,1,Middle Aged
+1019,982,David Chapman,66,F,Female,7/27/25,7/17/25,Rachel Wells,Rachel Wells,Orthopedics,Orthopedics,¬£382.67,GBP,382.67,485.9909,No,No,6,1,Elderly
+1012,983,Timothy Fowler,78,Female,Female,7/15/25,7/4/25,Donna Stephens,Donna Stephens,General,General,‚Ç¨236.27,EUR,236.27,257.5343,0,N/A,9,1,Elderly
+1049,984,Megan Russell,84,Male,Male,12/26/25,8/7/25,Autumn Hill,Autumn Hill,Cardiology,Cardiology,$359.17,USD,359.17,359.17,Y,Yes,8,1,Elderly
+1081,985,Courtney Wright,43,N/A,N/A,7/26/25,5/24/24,Daniel Morris,Daniel Morris,Orthopedics,Orthopedics,Rs362.65,INR,362.65,4.3518,1,N/A,9,1,Middle Aged
+1045,986,Natalie Marquez,29,Female,Female,7/18/25,3/24/25,Jennifer Paul,Jennifer Paul,Neurology,Neurology,¬£401.58,GBP,401.58,510.0066,No,No,8,1,Young Adult
+1076,987,Sarah Wilson,79,M,Male,2/21/26,8/8/24,Courtney Foley,Courtney Foley,Orthopedics,Orthopedics,$120.7,USD,120.7,120.7,Y,Yes,6,1,Elderly
+1047,988,Ashley Estes,54,N/A,N/A,6/2/25,7/31/24,Stephanie Mercer,Stephanie Mercer,Cardiology,Cardiology,¬£405.15,GBP,405.15,514.5405,Yes,Yes,17,1,Middle Aged
+1068,989,William Bentley,42,Male,Male,10/21/25,3/31/25,Jacob Mckay,Jacob Mckay,Neurology,Neurology,$263.3,USD,263.3,263.3,Yes,Yes,14,1,Middle Aged
+1021,990,James Carey,41,N/A,N/A,4/3/25,8/22/24,James Berger,James Berger,Orthopedics,Orthopedics,¬£470.08,GBP,470.08,597.0016,1,N/A,16,1,Middle Aged
+1052,991,Nicholas Mcdaniel,48,F,Female,8/9/25,4/26/25,Daniel Smith,Daniel Smith,Orthopedics,Orthopedics,‚Ç¨79.73,EUR,79.73,86.9057,0,N/A,8,1,Middle Aged
+1075,992,Cheryl Rogers,43,M,Male,1/12/26,10/30/25,Victoria Hansen,Victoria Hansen,General,General,¬£376.76,GBP,376.76,478.4852,Y,Yes,11,1,Middle Aged
+1047,993,Patricia Jackson,76,N/A,N/A,2/28/26,11/19/24,Jennifer Martin,Jennifer Martin,Cardiology,Cardiology,Rs378.92,INR,378.92,4.54704,0,N/A,17,1,Elderly
+1017,994,Erin Bates,50,M,Male,6/13/25,1/15/25,Chelsea Harris,Chelsea Harris,Cardiology,Cardiology,$370.13,USD,370.13,370.13,Y,Yes,8,1,Middle Aged
+1068,995,Aaron Holder,19,Male,Male,1/26/26,11/28/24,Lauren Ayers,Lauren Ayers,General,General,Rs377.38,INR,377.38,4.52856,Y,Yes,14,1,Young Adult
+1082,996,Thomas Roman,64,Female,Female,9/14/25,7/15/24,Robert Bass,Robert Bass,General,General,Rs200.43,INR,200.43,2.40516,Yes,Yes,14,1,Middle Aged
+1008,997,Jack Cooper,67,F,Female,4/9/25,6/20/24,Christopher Smith,Christopher Smith,General,General,Rs244.49,INR,244.49,2.93388,No,No,11,1,Elderly
+1022,998,Christopher Brown,28,N/A,N/A,2/13/26,6/13/24,Kimberly Johnson,Kimberly Johnson,Neurology,Neurology,¬£154.48,GBP,154.48,196.1896,N,No,9,1,Young Adult
+1088,999,Michael Sullivan,65,F,Female,7/4/25,4/15/24,Anthony Mccoy,Anthony Mccoy,Neurology,Neurology,$434.95,USD,434.95,434.95,0,N/A,16,1,Elderly
+1003,1000,Perry Crawford,79,Male,Male,11/5/25,7/22/24,Marvin Hicks,Marvin Hicks,Cardiology,Cardiology,‚Ç¨102.23,EUR,102.23,111.4307,Y,Yes,12,1,Elderly
