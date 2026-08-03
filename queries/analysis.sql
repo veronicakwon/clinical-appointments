@@ -20,3 +20,8 @@ GROUP BY follow_up_required_fix;
 SELECT lead_time_category AS Category, SUM(follow_up_required_fix='Yes') AS Yes, SUM(follow_up_required_fix='No') AS No, CAST(SUM(follow_up_required_fix='Yes') AS REAL)/COUNT(follow_up_required_fix) AS 'Yes Rate'
 FROM messy_clinic_appointments_original
 GROUP BY Category;
+
+-- follow_up_required rate by department
+SELECT department, SUM(follow_up_required_fix='Yes') AS yes, SUM(follow_up_required_fix='No') AS no, CAST(SUM(follow_up_required_fix='Yes') AS REAL)/COUNT(follow_up_required_fix) AS 'Yes Rate'
+FROM messy_clinic_appointments_original
+GROUP BY department;
