@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="messy_clinical_appointments.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3939"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="messy_clinic_appointments_original" custom_title="0" dock_id="1" table="4,34:mainmessy_clinic_appointments_original"/><dock_state state="000000ff00000000fd0000000100000002000002d6000002e9fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000002d60000012000ffffff000002d60000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="messy_clinic_appointments_original" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="10" mode="0"/></sort><column_widths><column index="1" value="75"/><column index="2" value="139"/><column index="3" value="32"/><column index="4" value="54"/><column index="5" value="127"/><column index="6" value="97"/><column index="7" value="126"/><column index="8" value="85"/><column index="9" value="105"/><column index="10" value="133"/><column index="11" value="115"/><column index="12" value="94"/><column index="31" value="116"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN follow_up_required_fix TEXT;
+
+UPDATE messy_clinic_appointments_original
+SET follow_up_required_fix=CASE
+	WHEN UPPER(follow_up_required)='YES' THEN 'Yes'
+	WHEN UPPER(follow_up_required)='NO' THEN 'No'
+	WHEN UPPER(follow_up_required)='Y' THEN 'Yes'
+	WHEN UPPER(follow_up_required)='N' THEN 'No'
+ELSE NULL END;
+
+SELECT follow_up_required_fix, COUNT(*)
+FROM messy_clinic_appointments_original
+GROUP BY follow_up_required_fix;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN identify_currency TEXT;
+
+UPDATE messy_clinic_appointments_original
+SET identify_currency=CASE
+	WHEN billing_amount LIKE '$%' THEN 'USD'
+	WHEN billing_amount LIKE '¬£%' THEN 'GBP'
+	WHEN billing_amount LIKE  '‚Ç¨%' THEN 'EUR'
+	WHEN billing_amount LIKE  'Rs%' THEN 'INR'
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN extract_number NUMERIC;
+
+UPDATE messy_clinic_appointments_original
+SET extract_number=CASE
+	WHEN billing_amount LIKE '$%' THEN REPLACE(billing_amount, '$', '')
+	WHEN billing_amount LIKE '¬£%' THEN REPLACE(billing_amount, '¬£', '')
+	WHEN billing_amount LIKE '‚Ç¨%' THEN REPLACE(billing_amount, '‚Ç¨', '')
+	WHEN billing_amount LIKE 'Rs%' THEN REPLACE(billing_amount, 'Rs', '')
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN billing_amount_fixed NUMERIC;
+
+UPDATE messy_clinic_appointments_original
+SET billing_amount_fixed=CASE
+	WHEN identify_currency='USD' THEN extract_number*1
+	WHEN identify_currency='GBP' THEN extract_number*1.27
+	WHEN identify_currency='EUR' THEN extract_number*1.09
+	WHEN identify_currency='INR' THEN extract_number*0.012
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_day;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_day=CASE
+	WHEN appointment_date LIKE '%-%' THEN SUBSTR(appointment_date, 1, INSTR(appointment_date, '-') - 1)
+	WHEN appointment_date LIKE '%/%' THEN SUBSTR(SUBSTR(appointment_date,  INSTR(appointment_date, '/')+1), 1, INSTR(SUBSTR(appointment_date,  INSTR(appointment_date, '/')+1),'/')-1)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_day_padded;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_day_padded=CASE
+	WHEN length(appointment_date_day) = 1 THEN '0'||appointment_date_day
+	WHEN length(appointment_date_day) = 2 THEN appointment_date_day
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_month;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_month=CASE
+	WHEN appointment_date LIKE '%-%' THEN SUBSTR(SUBSTR(appointment_date,  INSTR(appointment_date, '-')+1), 1, INSTR(SUBSTR(appointment_date,  INSTR(appointment_date, '-')+1),'-')-1)
+	WHEN appointment_date LIKE '%/%' THEN SUBSTR(appointment_date, 1, INSTR(appointment_date, '/') - 1)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_month_padded;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_month_padded=CASE
+	WHEN length(appointment_date_month) = 1 THEN '0'||appointment_date_month
+	WHEN length(appointment_date_month) = 2 THEN appointment_date_month
+	WHEN appointment_date_month = 'Jan' THEN '01'
+	WHEN appointment_date_month = 'Feb' THEN '02'
+	WHEN appointment_date_month = 'Mar' THEN '03'
+	WHEN appointment_date_month = 'Apr' THEN '04'
+	WHEN appointment_date_month = 'May' THEN '05'
+	WHEN appointment_date_month = 'Jun' THEN '06'
+	WHEN appointment_date_month = 'Jul' THEN '07'
+	WHEN appointment_date_month = 'Aug' THEN '08'
+	WHEN appointment_date_month = 'Sep' THEN '09'
+	WHEN appointment_date_month = 'Oct' THEN '10'
+	WHEN appointment_date_month = 'Nov' THEN '11'
+	WHEN appointment_date_month = 'Dec' THEN '12'
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_year;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_year=CASE
+	WHEN appointment_date LIKE '%-%' THEN '20'||SUBSTR(appointment_date,-2)
+	WHEN appointment_date LIKE '%/%' THEN '20'||SUBSTR(appointment_date,-2)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN appointment_date_final;
+
+UPDATE messy_clinic_appointments_original
+SET appointment_date_final=appointment_date_year||'-'||appointment_date_month_padded||'-'||appointment_date_day_padded;
+
+--For the booking date
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_day;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_day=CASE
+	WHEN booking_date LIKE '%-%' THEN SUBSTR(booking_date, 1, INSTR(booking_date, '-') - 1)
+	WHEN booking_date LIKE '%/%' THEN SUBSTR(SUBSTR(booking_date,  INSTR(booking_date, '/')+1), 1, INSTR(SUBSTR(booking_date,  INSTR(booking_date, '/')+1),'/')-1)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_day_padded;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_day_padded=CASE
+	WHEN length(booking_date_day) = 1 THEN '0'||booking_date_day
+	WHEN length(booking_date_day) = 2 THEN booking_date_day
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_month;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_month=CASE
+	WHEN booking_date LIKE '%-%' THEN SUBSTR(SUBSTR(booking_date,  INSTR(booking_date, '-')+1), 1, INSTR(SUBSTR(booking_date,  INSTR(booking_date, '-')+1),'-')-1)
+	WHEN booking_date LIKE '%/%' THEN SUBSTR(booking_date, 1, INSTR(booking_date, '/') - 1)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_month_padded;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_month_padded=CASE
+	WHEN length(booking_date_month) = 1 THEN '0'||booking_date_month
+	WHEN length(booking_date_month) = 2 THEN booking_date_month
+	WHEN booking_date_month = 'Jan' THEN '01'
+	WHEN booking_date_month = 'Feb' THEN '02'
+	WHEN booking_date_month = 'Mar' THEN '03'
+	WHEN booking_date_month = 'Apr' THEN '04'
+	WHEN booking_date_month = 'May' THEN '05'
+	WHEN booking_date_month = 'Jun' THEN '06'
+	WHEN booking_date_month = 'Jul' THEN '07'
+	WHEN booking_date_month = 'Aug' THEN '08'
+	WHEN booking_date_month = 'Sep' THEN '09'
+	WHEN booking_date_month = 'Oct' THEN '10'
+	WHEN booking_date_month = 'Nov' THEN '11'
+	WHEN booking_date_month = 'Dec' THEN '12'
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_year;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_year=CASE
+	WHEN booking_date LIKE '%-%' THEN '20'||SUBSTR(booking_date,-2)
+	WHEN booking_date LIKE '%/%' THEN '20'||SUBSTR(booking_date,-2)
+ELSE NULL END;
+
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN booking_date_final;
+
+UPDATE messy_clinic_appointments_original
+SET booking_date_final=booking_date_year||'-'||booking_date_month_padded||'-'||booking_date_day_padded;
+
+--Age brackets
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN age_bracket;
+
+UPDATE messy_clinic_appointments_original
+SET age_bracket=CASE
+	WHEN age&lt;40 THEN 'Young Adult'
+	WHEN age&gt;=40 AND age &lt;65 THEN 'Middle Aged'
+	WHEN age&gt;=65 THEN 'Elderly'
+ELSE NULL END;
+
+-- Analysis Queries 
+--Grouping by Age Bracket for follow_up_required_fix
+SELECT age_bracket, SUM(follow_up_required_fix='Yes') as yes,  SUM(follow_up_required_fix='No') as no
+FROM messy_clinic_appointments_original
+GROUP BY age_bracket;
+--Grouping by Gender
+SELECT gender_fixed, SUM(follow_up_required_fix='Yes') as yes,  SUM(follow_up_required_fix='No') as no
+FROM messy_clinic_appointments_original
+GROUP BY gender_fixeyes d;
+--Avg of billing_amount_fixed
+SELECT follow_up_required_fix, AVG(billing_amount_fixed) as avg_billing_amount
+FROM messy_clinic_appointments_original
+GROUP BY follow_up_required_fix;
+
+--lead time analysis
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN lead_time_days;
+
+UPDATE messy_clinic_appointments_original
+SET lead_time_days=julianday(appointment_date_final)-julianday(booking_date_final);
+
+SELECT lead_time_days
+FROM messy_clinic_appointments_original;
+
+--Adding bucket ranges for lead_time_days
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN lead_time_ranges;
+
+UPDATE messy_clinic_appointments_original
+SET lead_time_ranges=percent_rank_value.computed_value
+FROM (
+	SELECT patient_id_fixed, percent_rank() OVER 
+	(ORDER BY lead_time_days) AS computed_value 
+	FROM messy_clinic_appointments_original) AS percent_rank_value 
+WHERE messy_clinic_appointments_original.patient_id_fixed=percent_rank_value.patient_id_fixed;
+
+--Categorize lead_times into Standard Wait, Moderate Wait, Long Wait, Extreme Wait
+ALTER TABLE messy_clinic_appointments_original
+ADD COLUMN lead_time_category;
+
+UPDATE messy_clinic_appointments_original
+SET lead_time_category=CASE
+	WHEN lead_time_ranges &lt; 0.5 THEN 'Standard Wait'
+	WHEN lead_time_ranges BETWEEN 0.5 AND 0.75 THEN 'Moderate Wait'
+	WHEN lead_time_ranges BETWEEN 0.75 AND 0.9 THEN 'Long Wait'
+	WHEN lead_time_ranges &gt; 0.9 THEN 'Extreme Wait'
+ELSE NULL END;
+
+SELECT lead_time_category AS Category, SUM(follow_up_required_fix='Yes') AS Yes, SUM(follow_up_required_fix='No') AS No, CAST(SUM(follow_up_required_fix='Yes') AS REAL)/COUNT(follow_up_required_fix) AS 'Yes Rate'
+FROM messy_clinic_appointments_original
+GROUP BY Category;
+
+--Group by department (for follow up required)
+SELECT department, SUM(follow_up_required_fix='Yes') AS yes, SUM(follow_up_required_fix='No') AS no, CAST(SUM(follow_up_required_fix='Yes') AS REAL)/COUNT(follow_up_required_fix) AS 'Yes Rate'
+FROM messy_clinic_appointments_original
+GROUP BY department;
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
