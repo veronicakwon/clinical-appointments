@@ -30,17 +30,27 @@ Then ran exploratory queries measuring follow-up-required rate by age bracket,
 gender, department, billing amount, and appointment lead time.
 
 **3. Python (pandas) — cleaning, nulls, and EDA**
-Loaded the SQL-cleaned table into pandas, handled remaining nulls (dropped
-rows missing the target variable; imputed missing billing amounts with the
-median; recoded unrecoverable missing gender values as `"Unknown"`), and
-built cross-validated grouped visualizations of follow-up rate by age bracket,
-gender, department, and lead time category.
+Loaded the SQL-cleaned table into pandas, handled remaining nulls with a
+strategy tailored to each variable's type and role (dropped rows missing the
+target variable; imputed missing billing amounts with the median; recoded
+unrecoverable missing gender values as `"Unknown"`), then built a full
+exploratory analysis:
+- Cross-validated grouped visualizations of follow-up rate by age bracket,
+  gender, department, and lead time category (matching the SQL analysis)
+- Scatter plots of age vs. billing amount (overall and split by currency)
+- Line plots of average billing by age bracket and by month
+- A two-variable heatmap of follow-up rate by age bracket x department,
+  revealing an interaction the single-variable charts couldn't show
+- A statistical follow-up (t-test) on an apparent billing difference by lead
+  time category, which turned out **not** to be statistically significant
 
 ## Key finding
 
-Across all five dimensions tested, only **age bracket** and **department**
+Across every dimension tested, only **age bracket** and **department**
 showed a meaningful relationship with follow-up-required rate. Gender,
-billing amount, and appointment lead time showed no meaningful pattern.
+billing amount, and appointment lead time showed no meaningful pattern —
+including a lead-time/billing difference that looked real visually but did
+not hold up under a t-test (p = 0.14).
 
 | Dimension | Range of follow-up "Yes" rate |
 |---|---|
@@ -49,6 +59,18 @@ billing amount, and appointment lead time showed no meaningful pattern.
 | Gender | ~57% – ~57% (no real difference) |
 | Billing amount | ~$223 vs ~$225 (no real difference) |
 | Lead time category | ~52% – ~56% (no real difference) |
+
+The age bracket x department heatmap further showed these two effects don't
+act uniformly together: Neurology's follow-up rate stays consistently
+moderate-high regardless of age, Cardiology shows the clearest age gradient,
+and Orthopedics has an unexplained dip for Middle Aged patients.
+
+**Data quality limitation**: billing amounts were converted to USD using
+fixed nominal exchange rates, which does not account for regional
+differences in healthcare cost structures — INR-converted amounts average
+~$3, dramatically smaller than USD/GBP/EUR (~$267–332). All billing
+comparisons in the Python EDA exclude INR to avoid this confound; this is
+documented inline in `02_exploratory_analysis.ipynb`.
 
 ## Repo structure
 
@@ -59,12 +81,15 @@ queries/        SQL cleaning and analysis scripts
   analysis.sql    Follow-up rate analysis queries
 notebooks/      Python notebooks
   01_data_cleaning.ipynb       Load, null-handling, final column selection
-  02_exploratory_analysis.ipynb  Grouped visualizations, rate analysis
+  02_exploratory_analysis.ipynb  Full EDA: rate comparisons, scatter/line
+                                  plots, heatmap, statistical testing
 ```
 
-## Next steps
+## Status
 
-- Supervised learning: logistic regression predicting `follow_up_required`
-  from age bracket, department, and other features
-- Unsupervised learning: exploratory clustering of patients (e.g. by billing,
-  age, lead time) to check for natural patient segments
+This project concludes at the EDA stage. Across every variable tested, only
+age bracket and department showed a real (if modest) relationship with the
+target variable — a genuine, honestly-tested finding rather than a gap in
+the analysis. Rather than force a weak model onto this dataset, the planned
+supervised/unsupervised learning stage will be carried out on a different
+dataset with a clearer predictive signal.

@@ -1,665 +1,665 @@
-patient_id_fixed,patient_id,patient_name,age,doctor,department,gender_fixed,follow_up_required_fix,billing_amount_fixed,appointment_date_final,booking_date_final,age_bracket,lead_time_category
-1,1074,Megan Strickland,69,Brandon Lewis,Orthopedics,Female,Yes,375.24,2025-05-23,2024-06-12,Elderly,Moderate Wait
-2,1067,Amanda Schroeder,79,Deanna Edwards,Neurology,Male,Yes,221.64,2025-11-30,2024-08-05,Elderly,Long Wait
-3,1072,Anthony Mcpherson,47,Karen Parsons,General,Female,No,1.03,2025-05-18,2024-09-09,Middle Aged,Standard Wait
-4,1057,Joe Sharp,78,Kimberly Fields,General,Unknown,Yes,200.42,2025-09-26,2025-08-31,Elderly,Standard Wait
-5,1018,Alexander Harris,22,Jim Jones,Cardiology,Female,No,107.91,2025-10-30,2024-12-29,Young Adult,Moderate Wait
-6,1074,Raymond Williams,57,James Brooks,Neurology,Male,No,4.5,2025-04-23,2025-03-28,Middle Aged,Standard Wait
-7,1041,Dustin Willis,54,Jamie Hill,General,Female,Yes,452.37,2025-08-22,2024-11-07,Middle Aged,Moderate Wait
-8,1011,Tina Gallagher,45,Tiffany Gates MD,Neurology,Male,Yes,539.52,2026-03-16,2025-12-12,Middle Aged,Standard Wait
-9,1086,Robert Guerrero,54,Shane Brown,Cardiology,Male,Yes,116.73,2025-04-24,2024-10-07,Middle Aged,Standard Wait
-10,1041,Karen Walker,68,Natalie White,General,Female,Yes,82.88,2026-03-07,2024-04-24,Elderly,Extreme Wait
-11,1057,Chris Rice,61,Amy Olson,Neurology,Unknown,No,3.33,2025-07-31,2024-05-05,Middle Aged,Long Wait
-12,1022,Michael Mack,70,John Larsen II,Orthopedics,Male,Yes,448.0,2025-09-21,2024-11-06,Elderly,Moderate Wait
-13,1046,Andrea Hubbard,36,Andrea Gates,Cardiology,Female,No,85.74,2026-03-12,2025-11-08,Young Adult,Standard Wait
-14,1025,Brian Jones,23,Robert Navarro,Orthopedics,Female,Yes,178.75,2026-02-06,2025-03-09,Young Adult,Moderate Wait
-15,1027,Kelly Olsen,72,Christopher Bryant,Cardiology,Male,Yes,320.52,2025-08-27,2025-02-13,Elderly,Standard Wait
-16,1059,Andrew Oconnor,66,Christina Hill,Cardiology,Female,Yes,153.07,2025-11-11,2024-12-01,Elderly,Moderate Wait
-17,1033,Paul Brock,76,Kayla Savage,Neurology,Female,Yes,147.64,2025-11-05,2025-05-23,Elderly,Standard Wait
-18,1069,Jennifer Aguirre,90,Richard Huang,Neurology,Male,No,0.87,2025-10-14,2024-05-28,Elderly,Long Wait
-19,1097,Todd Wilson,56,Rebecca Harrington,Orthopedics,Male,Yes,3.1,2025-05-15,2024-05-05,Middle Aged,Moderate Wait
-20,1064,Jeremiah Cole,88,Louis Turner,General,Female,No,203.61,2026-01-30,2024-08-12,Elderly,Extreme Wait
-21,1089,Vincent Brown,32,Brianna Garcia,Neurology,Female,No,2.83,2025-05-11,2024-07-06,Young Adult,Moderate Wait
-22,1086,Tracy Mcdonald,34,Daniel Gutierrez,Cardiology,Female,Yes,3.51,2025-07-31,2024-04-09,Young Adult,Long Wait
-23,1073,Phillip Simpson,88,Darren Brooks,General,Unknown,Yes,51.72,2025-06-27,2025-05-06,Elderly,Standard Wait
-24,1084,Cynthia Hensley,86,David Robles,Neurology,Male,Yes,1.92,2026-03-08,2024-07-09,Elderly,Extreme Wait
-25,1030,Patrick Saunders,18,Casey Wagner,Orthopedics,Male,No,2.51,2025-09-11,2024-10-05,Young Adult,Moderate Wait
-26,1043,Angel Kelly,82,Stephanie Taylor,General,Female,No,5.12,2025-12-15,2025-07-21,Elderly,Standard Wait
-27,1056,Heather Baker,67,Andrew Thomas,Orthopedics,Female,Yes,273.44,2025-09-13,2025-01-07,Elderly,Standard Wait
-28,1041,Nicole Shaw,20,Mr. Brian Morton,Neurology,Male,Yes,200.42,2025-05-07,2025-01-19,Young Adult,Standard Wait
-29,1071,Michele Park,46,Robert Sparks,General,Unknown,No,503.2,2026-01-10,2024-11-01,Middle Aged,Long Wait
-30,1051,Leslie Silva,26,Thomas Brandt,Orthopedics,Male,Yes,340.25,2025-06-07,2024-12-09,Young Adult,Standard Wait
-31,1001,Melanie Gibson,50,Alison Stanton,Orthopedics,Male,Yes,268.14,2025-08-17,2024-09-23,Middle Aged,Moderate Wait
-32,1060,Amanda Jones,61,Christopher Morris,General,Unknown,Yes,544.73,2025-11-19,2024-04-28,Middle Aged,Extreme Wait
-33,1069,Michael Levine,72,Janet Ray,Neurology,Unknown,Yes,270.95,2025-08-11,2024-04-01,Elderly,Long Wait
-34,1095,Loretta Richardson,29,Shane Jackson,Neurology,Unknown,Yes,1.44,2025-08-22,2025-04-25,Young Adult,Standard Wait
-35,1005,Kathleen Jones,49,Diana Baker,Cardiology,Unknown,No,1.63,2025-06-12,2024-08-11,Middle Aged,Moderate Wait
-36,1001,Michael Allen,64,Brian Osborne DVM,Orthopedics,Female,No,233.74,2025-07-29,2024-06-08,Middle Aged,Long Wait
-37,1024,Kari Jackson,34,Jeremiah Rose,Orthopedics,Female,No,4.51,2025-10-01,2024-10-13,Young Adult,Moderate Wait
-38,1040,Regina Wilson,26,Jenny Zuniga,Cardiology,Male,Yes,2.23,2025-08-14,2024-06-03,Young Adult,Long Wait
-39,1042,Samantha Mosley,30,Thomas Thomas,Neurology,Unknown,Yes,218.01,2025-12-05,2024-09-03,Young Adult,Long Wait
-40,1068,Vanessa Jones,63,Courtney Knight,Orthopedics,Female,Yes,169.25,2025-11-09,2025-09-10,Middle Aged,Standard Wait
-41,1009,Adam Sanders,63,Patrick Floyd,General,Male,Yes,466.97,2025-08-08,2025-05-24,Middle Aged,Standard Wait
-42,1078,Edward Perry,54,James Miller,General,Unknown,No,5.81,2025-12-09,2025-07-12,Middle Aged,Standard Wait
-43,1019,Bonnie Boone,35,Lorraine Figueroa,Orthopedics,Female,Yes,124.75,2025-11-24,2024-11-05,Young Adult,Moderate Wait
-44,1077,Jennifer Stark,34,Jason Williams,Neurology,Unknown,No,3.24,2025-06-29,2024-12-04,Young Adult,Standard Wait
-45,1063,Jordan Camacho Jr.,21,Alexis Carter,Neurology,Male,Yes,186.24,2025-11-12,2025-06-30,Young Adult,Standard Wait
-46,1015,Elizabeth Bryant,37,Rebecca Kim,Orthopedics,Unknown,No,5.11,2025-07-19,2024-06-10,Young Adult,Long Wait
-47,1010,Richard Woodard,38,Whitney Hoffman,Orthopedics,Female,No,99.48,2026-02-11,2025-09-28,Young Adult,Standard Wait
-48,1034,Chad Reed,68,Jennifer Adams,Neurology,Male,No,575.39,2025-07-05,2025-01-23,Elderly,Standard Wait
-49,1095,Jessica Heath,86,Sherri Long,Cardiology,Unknown,Yes,66.89,2025-06-25,2024-04-24,Elderly,Long Wait
-50,1070,Clayton Williamson,85,Glen Diaz,Neurology,Unknown,No,185.52,2025-09-10,2024-08-20,Elderly,Moderate Wait
-51,1099,Timothy Walter,28,Miss Julie Rodriguez,Neurology,Female,Yes,142.85,2025-07-21,2025-07-14,Young Adult,Standard Wait
-52,1022,Katelyn Miller,23,Andrea Cruz,Orthopedics,Female,Yes,382.34,2026-02-19,2024-09-16,Young Adult,Extreme Wait
-53,1095,Elizabeth Decker,86,Brandi Hale,Orthopedics,Female,Yes,2.02,2025-10-22,2025-07-19,Elderly,Standard Wait
-54,1061,Jessica Smith,66,Crystal Mack,Neurology,Female,Yes,200.42,2025-08-20,2025-03-08,Elderly,Standard Wait
-55,1074,Luke Price,23,Virginia Lang,Orthopedics,Unknown,Yes,3.12,2025-12-13,2025-06-18,Young Adult,Standard Wait
-56,1047,Pamela Brown,40,Melinda Duncan,Orthopedics,Male,Yes,247.13,2026-02-25,2025-06-01,Middle Aged,Moderate Wait
-57,1093,Craig Nixon,55,William Key,Neurology,Unknown,No,433.31,2025-10-12,2025-08-20,Middle Aged,Standard Wait
-58,1044,Justin Caldwell,57,Ronnie Miller,Orthopedics,Unknown,No,4.6,2025-05-09,2024-12-18,Middle Aged,Standard Wait
-59,1050,Cassandra Collins,60,Mark Lutz,General,Unknown,Yes,265.72,2025-10-03,2025-08-26,Middle Aged,Standard Wait
-60,1100,Adam Torres,58,Daniel Le,Neurology,Male,No,3.95,2025-07-03,2024-08-25,Middle Aged,Moderate Wait
-61,1088,Chelsey Moore,34,Randy Garrett,Cardiology,Female,Yes,437.59,2025-10-12,2025-01-15,Young Adult,Moderate Wait
-62,1040,Chelsea Burns,62,Michael Morales,Cardiology,Unknown,Yes,2.32,2025-12-29,2024-05-13,Middle Aged,Extreme Wait
-63,1099,Ryan Miller,31,Alexa Peterson,Orthopedics,Male,Yes,3.12,2025-07-11,2025-03-19,Young Adult,Standard Wait
-64,1070,Jared Green,28,Brenda Castro,Neurology,Female,No,256.9,2025-10-08,2025-05-10,Young Adult,Standard Wait
-65,1058,Traci Chandler,18,Tyler Carter,General,Female,No,467.34,2026-02-04,2024-12-10,Young Adult,Long Wait
-66,1018,Angela Watkins,34,Kyle Russell,Cardiology,Female,No,138.82,2025-12-25,2024-09-12,Young Adult,Long Wait
-67,1052,Keith Becker,60,Kristopher Collier,General,Female,Yes,200.42,2025-11-07,2024-08-28,Middle Aged,Long Wait
-68,1028,Hannah Perez,21,Rita Smith,Neurology,Female,No,142.14,2025-11-07,2025-07-27,Young Adult,Standard Wait
-69,1092,Tina Lewis,40,Derrick Salazar,Neurology,Female,Yes,75.78,2026-02-10,2025-12-18,Middle Aged,Standard Wait
-70,1088,Sarah Hahn,60,Theresa Lee,General,Unknown,Yes,1.48,2026-03-19,2024-10-18,Middle Aged,Extreme Wait
-71,1078,Megan Mitchell,69,Desiree Giles,Orthopedics,Unknown,No,382.78,2025-11-27,2024-05-18,Elderly,Extreme Wait
-72,1062,John Anderson,60,Paul Blackburn,Cardiology,Male,No,276.23,2026-01-27,2026-01-18,Middle Aged,Standard Wait
-73,1015,Chelsea Matthews,68,Elizabeth Obrien,Orthopedics,Female,Yes,392.16,2025-12-07,2025-03-24,Elderly,Standard Wait
-74,1018,Monica Horton,53,Kayla Stein,Neurology,Unknown,Yes,277.21,2025-10-11,2024-03-30,Middle Aged,Extreme Wait
-75,1061,Joanna Tucker,18,Andrew Gray,Neurology,Male,No,107.56,2026-03-22,2024-10-05,Young Adult,Extreme Wait
-76,1013,Dr. Peggy Mendoza,60,Ashley Flowers,Neurology,Unknown,Yes,105.66,2025-04-12,2025-01-23,Middle Aged,Standard Wait
-77,1090,Daniel Rivera,63,Morgan Green,Neurology,Female,Yes,1.87,2025-12-28,2025-12-22,Middle Aged,Standard Wait
-78,1086,Harry Wallace,80,Nancy Hernandez,Orthopedics,Female,Yes,493.0,2025-12-01,2024-10-28,Elderly,Long Wait
-79,1014,Melissa Lane,81,Vanessa Pittman,Cardiology,Female,No,133.63,2025-06-01,2024-08-19,Elderly,Moderate Wait
-80,1047,Olivia Lambert,38,Melanie Blanchard,Cardiology,Male,Yes,127.43,2025-12-15,2024-12-25,Young Adult,Moderate Wait
-81,1073,Russell Taylor,38,Breanna Gray,Orthopedics,Unknown,No,4.02,2025-11-29,2025-07-11,Young Adult,Standard Wait
-82,1093,Joshua Sanchez DDS,79,George Flores,Orthopedics,Female,Yes,195.95,2025-03-29,2024-06-27,Elderly,Moderate Wait
-83,1043,Matthew Rivera,31,Theodore Bean,Orthopedics,Unknown,No,278.84,2025-07-03,2025-04-26,Young Adult,Standard Wait
-84,1081,Benjamin Jenkins,86,Michael Bond,General,Unknown,No,281.35,2025-07-23,2025-04-22,Elderly,Standard Wait
-85,1053,John Johnson,81,Steve Bush,General,Unknown,No,162.94,2025-04-23,2024-12-30,Elderly,Standard Wait
-86,1035,Martha Zavala,58,Penny Freeman,Cardiology,Male,Yes,194.37,2026-01-23,2024-04-14,Middle Aged,Extreme Wait
-87,1036,Daniel Ballard,38,Willie Williams,Cardiology,Unknown,No,145.59,2025-03-26,2025-03-02,Young Adult,Standard Wait
-88,1058,Timothy Osborne,83,Christopher Ferguson,Neurology,Female,Yes,273.63,2025-12-18,2025-04-21,Elderly,Standard Wait
-89,1033,Patricia King,68,Jennifer Adams,General,Male,Yes,468.06,2025-10-28,2024-10-16,Elderly,Moderate Wait
-90,1045,Sheri Kline,55,Jennifer Russell,General,Female,Yes,478.97,2026-01-02,2024-04-11,Middle Aged,Extreme Wait
-91,1087,Troy White,80,Cindy Cox,Neurology,Unknown,No,87.2,2026-01-07,2024-05-26,Elderly,Extreme Wait
-92,1020,Tim Flowers,31,Kimberly Henson,Neurology,Unknown,Yes,1.68,2025-09-29,2024-11-04,Young Adult,Moderate Wait
-93,1089,Gregory Garcia,73,Megan Jensen,Cardiology,Female,No,466.08,2025-05-01,2024-07-25,Elderly,Moderate Wait
-94,1005,Max Martinez,63,Joshua Sellers,Cardiology,Unknown,Yes,4.22,2025-09-21,2024-11-05,Middle Aged,Moderate Wait
-95,1031,Paul Hinton,49,Lindsey Fitzpatrick,Neurology,Female,No,461.19,2026-01-02,2025-11-29,Middle Aged,Standard Wait
-96,1069,Thomas Landry,60,Brandon Moore,General,Unknown,No,200.42,2025-09-03,2025-08-01,Middle Aged,Standard Wait
-97,1073,Joseph Irwin,29,Jacob Kerr,General,Male,Yes,262.56,2025-07-27,2025-06-08,Young Adult,Standard Wait
-98,1040,Corey Smith,52,Luke Williams,Cardiology,Male,No,130.7,2025-05-18,2025-02-15,Middle Aged,Standard Wait
-99,1047,John Campbell,67,Tanya Baxter,Orthopedics,Unknown,No,200.42,2026-02-10,2024-06-21,Elderly,Extreme Wait
-100,1021,Craig Hunt,38,Cynthia Brown,Neurology,Female,Yes,122.56,2025-11-01,2024-05-25,Young Adult,Extreme Wait
-101,1097,Dr. Lindsey Arias DDS,48,Colton Williams,Cardiology,Unknown,No,100.14,2025-09-14,2024-11-28,Middle Aged,Moderate Wait
-102,1028,Timothy Matthews,56,Brandy Sutton,Orthopedics,Male,No,529.2,2025-10-30,2024-05-18,Middle Aged,Extreme Wait
-103,1002,Jeffrey Bates,87,Lisa Ho,Cardiology,Male,Yes,401.55,2025-04-08,2024-12-04,Elderly,Standard Wait
-104,1026,Kelly Mcknight,87,Jerry Lopez,Neurology,Unknown,Yes,185.67,2026-02-03,2025-07-12,Elderly,Standard Wait
-105,1100,Jamie Wright,62,Lori Hall,Orthopedics,Unknown,Yes,230.19,2025-04-03,2025-03-18,Middle Aged,Standard Wait
-106,1008,Michael Walsh,69,Tammy Watts,Neurology,Unknown,Yes,148.77,2025-05-08,2025-01-24,Elderly,Standard Wait
-107,1078,Caroline Reed,54,Eric Kelly,Neurology,Unknown,No,5.21,2025-07-29,2024-06-06,Middle Aged,Long Wait
-108,1038,Jennifer Wells,79,David Cole,Orthopedics,Female,No,82.84,2025-05-13,2024-09-02,Elderly,Standard Wait
-109,1082,Gary Walker,87,Matthew Lopez,Orthopedics,Unknown,Yes,2.59,2025-03-26,2024-03-26,Elderly,Moderate Wait
-110,1028,Michelle Johnson,24,Jennifer Brooks,General,Male,Yes,537.35,2025-12-19,2025-07-01,Young Adult,Standard Wait
-111,1048,Malik Robinson,77,Amber Little,General,Female,No,3.37,2025-10-21,2024-07-18,Elderly,Long Wait
-112,1035,Michael Glenn,60,Robert Martinez,Cardiology,Unknown,No,99.19,2025-11-13,2025-06-23,Middle Aged,Standard Wait
-113,1010,Anthony Cortez,57,Derrick Cook,General,Male,Yes,225.83,2025-05-25,2025-03-28,Middle Aged,Standard Wait
-114,1043,Daniel Cole,69,Dustin Jones,Cardiology,Male,Yes,458.12,2025-05-06,2024-09-28,Elderly,Standard Wait
-115,1083,Matthew Lloyd,58,Timothy Morgan,Cardiology,Male,No,266.81,2026-01-17,2025-07-21,Middle Aged,Standard Wait
-116,1046,Stephanie Cisneros,50,Rachel Richards,Orthopedics,Female,Yes,124.64,2025-12-03,2024-08-02,Middle Aged,Long Wait
-117,1084,Troy Taylor,52,Jason Gill,General,Unknown,Yes,590.16,2025-12-28,2025-02-24,Middle Aged,Moderate Wait
-118,1006,Charles Cruz,54,Jessica Sawyer,Orthopedics,Female,No,116.4,2026-01-27,2024-09-01,Middle Aged,Extreme Wait
-119,1015,Brenda Ward,43,Tonya Smith,Neurology,Unknown,Yes,5.11,2025-11-26,2025-08-25,Middle Aged,Standard Wait
-120,1091,David Martinez,80,Amber Braun,Cardiology,Male,Yes,200.42,2025-09-13,2025-07-07,Elderly,Standard Wait
-121,1033,Carl Sanchez,87,Christina Price,Orthopedics,Female,No,446.06,2025-04-06,2024-08-02,Elderly,Standard Wait
-122,1010,Lucas Ray,21,Carrie Larsen,Neurology,Female,Yes,176.01,2026-02-12,2025-02-07,Young Adult,Moderate Wait
-123,1096,Dwayne Clarke,42,Andrew Meadows,Neurology,Male,No,164.52,2025-08-12,2024-09-08,Middle Aged,Moderate Wait
-124,1002,Dr. Michele Copeland,35,Debra Castillo,Neurology,Unknown,Yes,204.14,2025-09-25,2024-05-24,Young Adult,Long Wait
-125,1077,Bradley Fuller,83,John Yang,General,Male,Yes,0.84,2025-05-13,2025-02-28,Elderly,Standard Wait
-126,1026,Miss Crystal Davis DDS,25,Christopher Hayes,General,Female,Yes,623.0,2025-07-07,2024-06-06,Young Adult,Long Wait
-127,1052,Kara White,59,Kyle Dawson,Orthopedics,Unknown,No,344.05,2026-03-14,2025-01-26,Middle Aged,Long Wait
-128,1068,Judy Nguyen,29,Michelle Ortega,General,Male,Yes,429.14,2025-05-27,2024-10-23,Young Adult,Standard Wait
-129,1013,Sandra Murphy,25,Shelby Brown,Orthopedics,Male,No,1.12,2025-11-01,2024-07-29,Young Adult,Long Wait
-130,1024,Debra Ford,33,Allison Smith,Orthopedics,Unknown,Yes,586.5,2026-02-22,2025-09-19,Young Adult,Standard Wait
-131,1033,Michelle Harris,56,Matthew Garrett,Orthopedics,Unknown,Yes,142.48,2025-11-07,2024-12-06,Middle Aged,Moderate Wait
-132,1067,Ariel Davis,85,Jason Gallagher,Orthopedics,Male,Yes,1.03,2025-10-25,2025-02-21,Elderly,Standard Wait
-133,1045,Anna Garrett,24,Alice Lucas,Neurology,Female,Yes,430.44,2025-05-30,2025-03-20,Young Adult,Standard Wait
-134,1087,Kimberly Guzman,31,Kristin Reeves,General,Unknown,Yes,200.42,2025-11-18,2025-04-02,Young Adult,Standard Wait
-135,1056,Terry Miller,24,John Lyons,General,Female,Yes,200.42,2025-04-22,2025-03-24,Young Adult,Standard Wait
-136,1053,Marissa Davidson,81,Philip Davis,Cardiology,Female,Yes,634.58,2025-04-13,2024-12-03,Elderly,Standard Wait
-137,1059,Emma Martin,79,Charles Mcmillan,Orthopedics,Male,Yes,72.64,2025-08-24,2025-08-21,Elderly,Standard Wait
-138,1050,William Lewis,32,Wesley Johnson,Orthopedics,Male,Yes,4.34,2025-04-04,2024-05-16,Young Adult,Moderate Wait
-139,1044,Robert Mclaughlin,21,Shannon Mejia,Orthopedics,Female,No,260.74,2025-06-22,2024-06-09,Young Adult,Moderate Wait
-140,1074,David Kidd,23,Kathy Thompson,Orthopedics,Male,No,408.1,2025-11-23,2025-09-10,Young Adult,Standard Wait
-141,1026,Brandon Martin,87,John Miller,Neurology,Unknown,Yes,446.44,2026-02-06,2024-08-11,Elderly,Extreme Wait
-142,1059,Amanda Martinez,27,Gary Bowman,General,Unknown,Yes,165.8,2025-08-23,2024-11-12,Young Adult,Moderate Wait
-143,1085,Clinton Estrada,75,Jacob Bender,Orthopedics,Male,Yes,200.42,2025-11-06,2024-10-14,Elderly,Moderate Wait
-144,1024,Maria Douglas,86,Daniel Evans,Orthopedics,Unknown,Yes,533.71,2026-02-17,2026-01-15,Elderly,Standard Wait
-145,1048,Walter Webb,33,Dale Herrera,Neurology,Unknown,Yes,200.42,2025-09-26,2024-09-03,Young Adult,Moderate Wait
-146,1069,Megan Avery,73,Michael Arroyo Jr.,General,Female,Yes,96.48,2026-01-08,2024-08-13,Elderly,Extreme Wait
-147,1071,Brianna Morris,73,Gregory West DDS,Orthopedics,Unknown,Yes,460.84,2025-11-03,2024-04-26,Elderly,Extreme Wait
-148,1076,Judy Avila,21,Morgan Ramos,Orthopedics,Female,Yes,3.97,2025-10-19,2025-08-02,Young Adult,Standard Wait
-149,1057,Erika Davis,28,Allison Parker,Neurology,Unknown,No,559.71,2025-06-08,2025-06-06,Young Adult,Standard Wait
-150,1029,Jeffrey Solis,49,William Nichols,Neurology,Female,Yes,312.86,2025-05-15,2025-04-09,Middle Aged,Standard Wait
-151,1049,Scott Graves,65,Marie Clark,General,Male,Yes,533.01,2026-01-10,2026-01-06,Elderly,Standard Wait
-152,1049,Ellen Fitzpatrick,59,Grant Parker,Neurology,Male,No,255.51,2025-11-14,2025-04-23,Middle Aged,Standard Wait
-153,1076,Mark Harrison,24,Jennifer Hernandez,Orthopedics,Female,Yes,169.44,2025-10-06,2024-06-13,Young Adult,Long Wait
-154,1091,Richard Wagner,20,Christopher Sherman,General,Male,Yes,294.81,2025-12-06,2025-11-25,Young Adult,Standard Wait
-155,1099,Eric Coffey,23,Jeffrey Burns,Cardiology,Unknown,No,3.41,2025-08-28,2024-09-04,Young Adult,Moderate Wait
-156,1098,Tony Gibbs,39,Brandon Morris,General,Unknown,No,386.25,2025-11-01,2024-10-13,Young Adult,Moderate Wait
-157,1060,Stephanie Bryant,32,Sara Booth,Orthopedics,Unknown,Yes,574.92,2026-01-02,2025-02-18,Young Adult,Moderate Wait
-158,1031,Robert Jimenez,23,Tony Randall,Cardiology,Male,Yes,491.44,2026-03-06,2024-07-20,Young Adult,Extreme Wait
-159,1018,Chris Wells,71,Crystal Medina,Neurology,Male,Yes,1.59,2025-05-17,2024-12-25,Elderly,Standard Wait
-160,1038,Alicia Davis,19,John Gonzalez,Cardiology,Unknown,No,323.4,2025-03-31,2024-10-27,Young Adult,Standard Wait
-161,1067,Dr. John Hernandez,33,Michelle Austin,General,Unknown,No,409.96,2025-12-29,2024-05-29,Young Adult,Extreme Wait
-162,1097,Vanessa Allen,52,Amy Chavez,Neurology,Male,Yes,2.93,2026-01-09,2025-08-06,Middle Aged,Standard Wait
-163,1056,Virginia Flores,70,Leonard Macias,General,Female,Yes,364.83,2025-12-26,2025-08-13,Elderly,Standard Wait
-164,1031,Kayla Berger,29,Todd Oconnor,Orthopedics,Female,Yes,200.42,2025-08-05,2024-09-27,Young Adult,Moderate Wait
-165,1035,Brian White,80,Rachel Howell,Neurology,Male,Yes,422.46,2025-08-03,2025-04-03,Elderly,Standard Wait
-166,1079,Dale Fisher,24,Dr. Heidi Johnson,Cardiology,Male,No,4.32,2026-01-16,2024-04-20,Young Adult,Extreme Wait
-167,1021,Christopher Miller,51,Christine Arnold,General,Male,No,519.12,2025-12-27,2025-01-11,Middle Aged,Moderate Wait
-168,1089,Brian Davis,72,Michelle Smith,Neurology,Female,Yes,610.55,2025-12-26,2024-08-05,Elderly,Extreme Wait
-169,1026,Christine Vega,80,Jordan Cole,General,Male,Yes,3.61,2025-04-27,2025-03-23,Elderly,Standard Wait
-170,1060,Haley Taylor,51,Christopher Wolfe,General,Female,Yes,5.2,2025-07-06,2025-04-18,Middle Aged,Standard Wait
-171,1022,Linda Nicholson,24,Melissa Daniels,Neurology,Female,Yes,425.91,2025-08-19,2025-05-10,Young Adult,Standard Wait
-172,1089,Carolyn Jacobson,47,Katrina Johnston,Cardiology,Female,No,464.02,2026-02-11,2025-02-14,Middle Aged,Moderate Wait
-173,1016,Joseph Banks,36,Susan Kelley,Neurology,Female,No,108.6,2025-12-05,2024-06-15,Young Adult,Extreme Wait
-174,1045,Brad West,34,Samuel Stone,Cardiology,Female,No,577.91,2025-05-14,2024-05-19,Young Adult,Moderate Wait
-175,1036,Kelsey Johnson,29,Mallory Torres,Neurology,Unknown,No,335.85,2026-01-28,2024-12-03,Young Adult,Long Wait
-176,1031,Jared Parrish,42,Wendy Herrera,Orthopedics,Female,No,1.59,2025-08-05,2025-07-27,Middle Aged,Standard Wait
-177,1097,Megan Murphy,35,Kevin Coleman,Cardiology,Unknown,No,4.31,2025-04-19,2025-04-11,Young Adult,Standard Wait
-178,1058,Mark Bowers,19,Antonio Bryant,Neurology,Unknown,Yes,116.69,2025-05-11,2025-04-02,Young Adult,Standard Wait
-179,1049,Robert Montoya,79,Gregg Bennett,Neurology,Unknown,No,200.42,2025-12-06,2024-09-09,Elderly,Long Wait
-180,1068,Robert Torres,61,Kyle Phillips,Neurology,Male,No,129.48,2025-10-20,2025-08-07,Middle Aged,Standard Wait
-181,1015,Mason Morgan,53,James Cobb,General,Male,No,3.59,2025-04-21,2024-08-25,Middle Aged,Standard Wait
-182,1090,Jeffrey Hart,70,Jacob Townsend,Orthopedics,Female,Yes,5.52,2025-12-09,2024-11-16,Elderly,Moderate Wait
-183,1088,Amy King,49,Peter Wells,General,Female,Yes,306.68,2025-09-15,2025-01-30,Middle Aged,Standard Wait
-184,1034,Lisa Fisher,44,Karen Martin,Neurology,Unknown,Yes,417.38,2025-07-16,2025-06-12,Middle Aged,Standard Wait
-185,1070,Donna Jenkins,68,Rachel Allen,General,Female,Yes,4.69,2025-05-30,2024-05-14,Elderly,Moderate Wait
-186,1032,Matthew Cox,88,Alexander Horton,General,Male,No,1.2,2026-01-22,2024-04-07,Elderly,Extreme Wait
-187,1036,Melissa Berry MD,75,Kathryn Hooper,Cardiology,Unknown,No,587.97,2026-02-23,2024-10-16,Elderly,Long Wait
-188,1071,Jose Bryant,49,Ryan Lopez,Orthopedics,Male,No,445.02,2025-05-24,2024-12-10,Middle Aged,Standard Wait
-189,1054,Thomas Smith,82,Kenneth Turner,Cardiology,Unknown,Yes,4.71,2025-11-23,2024-12-07,Elderly,Moderate Wait
-190,1054,Jason Harrington,62,Stacey Miller,Orthopedics,Male,No,200.42,2026-01-16,2025-07-14,Middle Aged,Standard Wait
-191,1027,Adam Shelton,83,Mary Thompson,Neurology,Unknown,Yes,225.1,2025-06-26,2025-06-12,Elderly,Standard Wait
-192,1027,Jamie Aguilar,77,Michael Duke,Cardiology,Female,Yes,436.01,2025-09-19,2024-08-20,Elderly,Moderate Wait
-193,1026,Alyssa Lucas,47,Daniel Ryan,Neurology,Female,Yes,400.52,2026-01-06,2024-10-11,Middle Aged,Long Wait
-194,1039,Donna Clark,40,Joanne Adams,Cardiology,Unknown,Yes,168.6,2025-09-03,2024-04-08,Middle Aged,Extreme Wait
-195,1059,Michael White,32,Seth Ramirez,General,Male,Yes,300.71,2026-03-11,2025-07-23,Young Adult,Standard Wait
-196,1043,Jessica Johnson,66,Kevin Weaver,Neurology,Unknown,Yes,211.57,2025-11-22,2025-09-07,Elderly,Standard Wait
-197,1040,Jodi Floyd,35,Brett Arnold,General,Male,No,5.5,2025-08-19,2025-06-15,Young Adult,Standard Wait
-198,1003,Stephen Butler,81,Shannon Martinez,Neurology,Female,Yes,266.28,2025-05-22,2024-04-15,Elderly,Long Wait
-199,1054,Jennifer Martin,30,Jeffery Smith,General,Male,No,304.03,2026-02-22,2025-07-04,Young Adult,Standard Wait
-200,1003,Janet Gordon,41,Michelle Johnson,General,Unknown,No,4.78,2025-05-14,2024-04-05,Middle Aged,Long Wait
-201,1011,Susan Bautista,54,Michael Schmidt,Orthopedics,Unknown,No,355.19,2026-02-13,2024-11-06,Middle Aged,Long Wait
-202,1029,Steve Ramirez,30,Michelle Jones,Orthopedics,Female,No,451.11,2025-07-19,2025-05-12,Young Adult,Standard Wait
-203,1051,Kristine Logan,53,Regina Cox,Neurology,Unknown,No,528.82,2025-06-29,2024-09-13,Middle Aged,Moderate Wait
-204,1041,Janet Lewis,65,Gregory Neal,Neurology,Unknown,No,330.73,2025-10-28,2025-08-18,Elderly,Standard Wait
-205,1054,Robert Mason,78,Steven Mercer,Neurology,Male,No,370.37,2025-12-25,2024-12-13,Elderly,Moderate Wait
-206,1006,Rachel Nguyen,63,John Wolf,Neurology,Male,No,5.0,2025-12-13,2025-03-05,Middle Aged,Moderate Wait
-207,1076,John Nguyen,23,David Robertson,General,Male,No,200.42,2025-10-05,2025-03-20,Young Adult,Standard Wait
-208,1054,Jennifer Stevens,70,Joseph Park,Cardiology,Unknown,Yes,293.6,2025-11-03,2025-06-16,Elderly,Standard Wait
-209,1015,Ashley Daniels,50,Robert Davies,Neurology,Unknown,Yes,63.38,2025-08-25,2024-06-18,Middle Aged,Long Wait
-210,1014,Dana Park,79,Christopher Garrett,Neurology,Unknown,Yes,4.1,2026-01-28,2024-04-03,Elderly,Extreme Wait
-211,1088,Michael Short,83,Charles Hess,Orthopedics,Male,Yes,483.19,2026-01-03,2024-12-21,Elderly,Moderate Wait
-212,1034,Anthony Mitchell,37,Theresa Osborne,Neurology,Unknown,No,404.92,2025-10-09,2025-04-05,Young Adult,Standard Wait
-213,1020,Jamie Peck,40,Lisa Garcia,Neurology,Female,No,443.01,2026-01-14,2025-11-13,Middle Aged,Standard Wait
-214,1074,Denise Anderson,51,Timothy Beasley,General,Male,No,479.87,2025-12-28,2025-04-17,Middle Aged,Standard Wait
-215,1043,Dustin Perry,38,Adam Moore,Neurology,Male,No,424.21,2026-01-25,2024-04-09,Young Adult,Extreme Wait
-216,1095,Shawn Tucker,84,Melissa Schmidt,Orthopedics,Female,Yes,281.63,2026-02-15,2025-11-21,Elderly,Standard Wait
-217,1080,Rachel Russo,40,Christine Wilson,Orthopedics,Unknown,Yes,4.39,2025-08-27,2025-07-13,Middle Aged,Standard Wait
-218,1082,Dana Martinez,89,Barry Bennett,Cardiology,Unknown,No,5.6,2025-03-27,2024-12-16,Elderly,Standard Wait
-219,1058,Shane Fowler,57,Kimberly Douglas,Neurology,Unknown,Yes,145.63,2025-10-30,2024-08-27,Middle Aged,Long Wait
-220,1016,Rita Joyce,78,Diana Neal,Neurology,Female,Yes,1.11,2025-05-21,2024-08-18,Elderly,Moderate Wait
-221,1098,Kimberly Meyer,35,Christopher Perez,Orthopedics,Unknown,No,5.3,2025-12-17,2024-04-27,Young Adult,Extreme Wait
-222,1038,April Braun,57,Jacob Mendoza,Neurology,Female,Yes,1.33,2025-04-29,2024-04-16,Middle Aged,Moderate Wait
-223,1020,Scott Bishop,76,Dylan Gibson,General,Female,No,442.38,2025-05-30,2024-07-27,Elderly,Moderate Wait
-224,1031,Randy Austin,40,Dr. Deborah Fitzgerald,Neurology,Unknown,No,364.33,2026-02-12,2024-04-12,Middle Aged,Extreme Wait
-225,1006,Anthony Martin,54,Alex Richards,Neurology,Female,No,1.44,2025-06-18,2024-11-06,Middle Aged,Standard Wait
-226,1084,Daniel Willis,53,Megan Austin,Neurology,Female,Yes,2.82,2025-11-05,2025-08-01,Middle Aged,Standard Wait
-227,1025,Shawn Moore,55,Rebecca Ward,General,Female,No,3.8,2025-11-15,2024-07-06,Middle Aged,Long Wait
-228,1015,Nicole Evans,86,Ashley Cuevas,Cardiology,Female,Yes,5.51,2025-08-13,2024-09-21,Elderly,Moderate Wait
-229,1065,Samantha Wallace,76,Charles Jackson,Orthopedics,Male,Yes,1.75,2025-06-28,2024-12-22,Elderly,Standard Wait
-230,1045,Jared Butler,38,Jason Morales,General,Male,Yes,265.72,2025-08-19,2025-06-09,Young Adult,Standard Wait
-231,1050,Tracey Beck,81,Logan Cooper,Cardiology,Male,Yes,184.28,2025-05-27,2024-09-20,Elderly,Standard Wait
-232,1058,Brianna Mcpherson,90,Nathaniel Thompson,General,Male,Yes,139.2,2025-05-13,2024-06-17,Elderly,Moderate Wait
-233,1047,Ray Mcbride,87,Natalie Turner,General,Female,No,135.41,2025-10-06,2024-12-02,Elderly,Moderate Wait
-234,1095,Nicholas Kelly,53,Paula Freeman,Cardiology,Female,Yes,200.42,2026-03-23,2025-04-02,Middle Aged,Moderate Wait
-235,1098,Anne Jones DVM,48,Linda French,General,Female,Yes,296.43,2026-01-05,2025-05-30,Middle Aged,Standard Wait
-236,1066,Andrea Mendez,33,Joshua Reed,General,Male,No,233.98,2025-07-02,2024-08-14,Young Adult,Moderate Wait
-237,1014,Jennifer Schwartz,90,Mrs. Michelle Ramsey,Orthopedics,Unknown,No,517.03,2026-02-12,2024-08-14,Elderly,Extreme Wait
-238,1033,Michele Green,48,Nancy Hernandez,Orthopedics,Unknown,No,1.06,2025-06-30,2025-01-24,Middle Aged,Standard Wait
-239,1095,Summer Bishop,37,Cynthia Green,Cardiology,Unknown,Yes,200.42,2025-10-21,2025-08-07,Young Adult,Standard Wait
-240,1036,Daniel Braun,27,Tonya Kennedy,Cardiology,Male,Yes,275.09,2026-03-20,2026-02-09,Young Adult,Standard Wait
-241,1082,Kyle Jones,29,Cheryl Mullins,Neurology,Male,No,366.49,2025-11-01,2025-03-17,Young Adult,Standard Wait
-242,1063,Erin Baker,36,Carla King,General,Male,Yes,2.87,2025-10-02,2025-09-12,Young Adult,Standard Wait
-243,1003,Cheryl Calderon,29,Michael Adams,Orthopedics,Female,No,0.67,2026-02-23,2024-04-04,Young Adult,Extreme Wait
-244,1005,Andrea Mcbride,64,Laura Newman,Neurology,Female,No,142.6,2025-09-15,2025-01-19,Middle Aged,Standard Wait
-245,1061,Madison Wilson,23,Ryan Steele,Cardiology,Male,No,251.5,2026-01-08,2024-11-29,Young Adult,Long Wait
-246,1036,Daniel Long,38,Jean Lawson DDS,Neurology,Female,Yes,110.2,2025-11-17,2024-10-09,Young Adult,Long Wait
-247,1095,James Fox,60,Victoria Osborne,General,Female,Yes,2.46,2025-12-22,2024-05-17,Middle Aged,Extreme Wait
-248,1049,Vanessa Graves,58,Leslie Smith,Cardiology,Female,Yes,5.69,2025-08-07,2025-01-02,Middle Aged,Standard Wait
-249,1036,Barbara Drake,20,Julie Jacobs,Cardiology,Unknown,No,311.71,2025-08-26,2025-01-09,Young Adult,Standard Wait
-250,1050,Logan Gonzalez,81,John Anderson,Neurology,Unknown,Yes,228.1,2026-02-17,2025-04-03,Elderly,Moderate Wait
-251,1082,Nichole Phillips,56,Michael Jackson,Cardiology,Male,Yes,200.42,2025-09-17,2025-08-19,Middle Aged,Standard Wait
-252,1074,James Wise,67,Karen Schmidt,Neurology,Female,Yes,106.9,2025-09-05,2024-05-19,Elderly,Long Wait
-253,1084,Tamara Ramirez MD,79,Emily Mcintosh,Neurology,Female,Yes,161.12,2025-12-23,2025-01-12,Elderly,Moderate Wait
-254,1004,Sheryl Lopez,27,Barbara Alvarado,Neurology,Male,Yes,200.42,2025-08-26,2024-09-10,Young Adult,Moderate Wait
-255,1006,Shannon Ramos,42,James Huber,Orthopedics,Male,Yes,200.42,2025-11-04,2024-11-05,Middle Aged,Moderate Wait
-256,1022,Kimberly Heath,19,Amber Avila,Orthopedics,Unknown,Yes,158.87,2025-10-19,2025-09-19,Young Adult,Standard Wait
-257,1089,Tammy Yates,35,Nancy Luna,Cardiology,Unknown,No,63.82,2025-10-29,2025-09-06,Young Adult,Standard Wait
-258,1058,Alison Wolfe,29,Michelle Thomas,General,Male,Yes,481.22,2025-05-30,2024-03-26,Young Adult,Long Wait
-259,1024,Natalie Miller,55,Derrick Glass,General,Female,Yes,61.44,2025-10-12,2024-10-28,Middle Aged,Moderate Wait
-260,1022,Kevin Jackson,56,David Love,Cardiology,Male,No,157.36,2025-06-16,2024-05-31,Middle Aged,Moderate Wait
-261,1088,Mary Werner,32,Bonnie Walker,Orthopedics,Unknown,Yes,69.13,2025-07-22,2024-04-12,Young Adult,Long Wait
-262,1016,Jennifer Barber,74,Christopher Smith,Neurology,Male,Yes,61.73,2025-12-06,2024-10-04,Elderly,Long Wait
-263,1039,Emily Miller,55,Nicole Bates,Orthopedics,Male,No,432.84,2025-04-01,2024-09-13,Middle Aged,Standard Wait
-264,1075,Christine Lane,27,Kimberly Long,Orthopedics,Female,No,265.18,2025-04-07,2024-04-02,Young Adult,Moderate Wait
-265,1089,Alexa Landry,24,Larry Delgado,Orthopedics,Male,Yes,73.59,2025-09-16,2025-01-16,Young Adult,Standard Wait
-266,1018,James Noble,68,Dylan George,Cardiology,Unknown,Yes,232.9,2025-06-25,2025-06-05,Elderly,Standard Wait
-267,1026,Sandra Russo,42,Michael Alexander,General,Unknown,No,156.9,2026-01-25,2024-12-09,Middle Aged,Long Wait
-268,1001,Robert Hampton,90,Kevin Wilkinson,Neurology,Male,No,410.44,2025-11-12,2025-09-04,Elderly,Standard Wait
-269,1004,Rachel Simmons,65,Robert Sanchez,Cardiology,Male,Yes,188.72,2025-08-12,2024-12-27,Elderly,Standard Wait
-270,1021,Ashley Martinez,68,Spencer Torres,Orthopedics,Unknown,No,296.8,2025-05-07,2024-10-18,Elderly,Standard Wait
-271,1100,Megan Edwards,69,Eric Arellano,Neurology,Unknown,No,479.01,2025-10-08,2025-05-19,Elderly,Standard Wait
-272,1005,Mr. Phillip Baxter,80,Tricia Hunt,General,Male,No,320.72,2025-07-24,2025-01-16,Elderly,Standard Wait
-273,1071,Diana Schroeder,73,Alexandra Lee,Neurology,Unknown,No,262.84,2025-08-24,2025-07-04,Elderly,Standard Wait
-274,1020,Brian Garrett,65,Tamara Williams,Cardiology,Female,No,232.12,2026-01-24,2026-01-04,Elderly,Standard Wait
-275,1074,Aaron Clay,87,Timothy Barker,Cardiology,Male,Yes,341.04,2025-10-31,2025-05-22,Elderly,Standard Wait
-276,1067,Karla Bush,66,Victor Hernandez,Cardiology,Unknown,Yes,1.63,2025-05-23,2024-08-14,Elderly,Moderate Wait
-277,1074,Michelle Edwards,30,Charles Harvey,Orthopedics,Female,Yes,307.59,2025-12-03,2025-07-27,Young Adult,Standard Wait
-278,1053,Jack Sutton,76,Paul Giles,General,Female,Yes,374.72,2025-11-28,2025-04-20,Elderly,Standard Wait
-279,1020,Joseph Hart,69,Ralph Fernandez,General,Female,No,355.97,2025-09-04,2025-02-16,Elderly,Standard Wait
-280,1013,Rachel Carlson,27,Paul Martinez,Neurology,Female,Yes,379.39,2026-01-05,2024-12-12,Young Adult,Moderate Wait
-281,1017,Alexander Rios,43,Bryan Parker,Orthopedics,Unknown,No,332.66,2025-05-18,2024-07-22,Middle Aged,Moderate Wait
-282,1085,Jennifer Reese,62,James Aguilar,Cardiology,Unknown,No,453.58,2025-11-07,2024-08-11,Middle Aged,Long Wait
-283,1023,Daniel Valenzuela,45,Karen Brewer,Cardiology,Male,Yes,245.21,2025-06-21,2025-03-13,Middle Aged,Standard Wait
-284,1066,Alexander Jones,85,Mary Ward,General,Female,Yes,5.98,2025-12-09,2025-01-30,Elderly,Moderate Wait
-285,1038,Robert Myers DDS,72,Luis Smith,Neurology,Female,Yes,6.0,2025-08-27,2024-12-07,Elderly,Moderate Wait
-286,1048,Jennifer Sims,63,Janet Coffey,Cardiology,Female,Yes,344.12,2025-10-15,2025-02-02,Middle Aged,Standard Wait
-287,1082,Jenna Williams,67,Ryan Mitchell,General,Unknown,Yes,149.33,2025-07-19,2024-12-04,Elderly,Standard Wait
-288,1085,Jamie Nixon,69,Scott Allen,General,Unknown,No,412.82,2026-03-16,2024-06-19,Elderly,Extreme Wait
-289,1072,Alex Burns,68,Raymond Bond,Cardiology,Unknown,No,316.67,2026-01-10,2025-09-11,Elderly,Standard Wait
-290,1088,Sarah Fuller,80,Cody Ortega,Cardiology,Male,Yes,5.52,2026-03-06,2025-06-18,Elderly,Moderate Wait
-291,1019,Eric Kim,33,Arthur Harris,General,Female,No,200.42,2025-06-13,2024-06-09,Young Adult,Moderate Wait
-292,1065,Anne Jacobs,31,Lauren Clark,Orthopedics,Unknown,Yes,441.17,2026-03-04,2026-01-28,Young Adult,Standard Wait
-293,1081,Brandy Navarro,27,Matthew Nichols,Orthopedics,Unknown,Yes,3.46,2025-07-16,2025-06-13,Young Adult,Standard Wait
-294,1030,Victor Simmons,80,Christopher Nelson,Cardiology,Male,No,528.99,2026-02-10,2025-01-17,Elderly,Moderate Wait
-295,1027,Michael Sullivan,63,Angela Thomas,Orthopedics,Male,Yes,3.83,2025-07-09,2024-07-31,Middle Aged,Moderate Wait
-296,1059,Melissa Ramirez,34,Amber Clayton,Neurology,Male,Yes,212.32,2025-09-10,2024-10-30,Young Adult,Moderate Wait
-297,1040,Rachel Baker,22,Maria Gentry,Orthopedics,Female,No,564.73,2025-12-15,2024-05-18,Young Adult,Extreme Wait
-298,1058,Penny West,84,Heather Ortiz,Neurology,Female,Yes,396.57,2025-10-24,2025-03-27,Elderly,Standard Wait
-299,1026,Jennifer Davis,47,Michael Bryant,Cardiology,Female,No,215.89,2026-02-17,2024-05-09,Middle Aged,Extreme Wait
-300,1058,Kimberly Lee,88,Vanessa Ramirez,Neurology,Unknown,No,557.29,2025-10-19,2024-11-16,Elderly,Moderate Wait
-301,1016,Tyler Smith,42,Melinda Smith,General,Unknown,Yes,200.42,2025-11-05,2024-08-03,Middle Aged,Long Wait
-302,1064,Anthony Boyd,27,Bradley Gibson,General,Female,Yes,220.79,2026-02-20,2025-07-06,Young Adult,Standard Wait
-303,1036,Henry Snyder,59,Theresa Simon,Cardiology,Unknown,Yes,285.44,2025-10-16,2024-04-29,Middle Aged,Extreme Wait
-304,1017,Sabrina Wade,34,Randy Vargas,General,Female,No,2.44,2025-07-20,2025-05-14,Young Adult,Standard Wait
-305,1005,Cody Scott,69,Larry Cohen,Neurology,Male,Yes,417.98,2025-10-06,2024-11-29,Elderly,Moderate Wait
-306,1086,David Mcdonald,84,Donald Garcia,General,Unknown,Yes,384.38,2025-12-24,2024-08-30,Elderly,Long Wait
-307,1095,Sherri Guzman,37,Carlos Morton,Orthopedics,Unknown,Yes,600.16,2025-09-14,2024-05-20,Young Adult,Long Wait
-308,1030,Mr. Brian Anderson,25,Adrienne Roberts,Orthopedics,Female,No,454.76,2025-04-24,2024-04-14,Young Adult,Moderate Wait
-309,1059,Kayla Mccormick,84,Robert Burton,Neurology,Female,Yes,244.68,2026-03-16,2024-12-04,Elderly,Long Wait
-310,1012,Mark Reeves,30,Mark Hill,Cardiology,Unknown,Yes,70.7,2026-01-08,2025-08-19,Young Adult,Standard Wait
-311,1074,Debra Short,64,Karla Baker,General,Male,No,421.14,2025-06-24,2024-10-06,Middle Aged,Moderate Wait
-312,1082,Melissa Richmond,33,Jasmin Holmes,Neurology,Male,Yes,387.75,2025-06-11,2025-02-19,Young Adult,Standard Wait
-313,1009,Linda Murphy,63,Margaret Montoya,Cardiology,Male,No,2.12,2026-02-17,2026-01-11,Middle Aged,Standard Wait
-314,1037,David Reeves,52,Marc Copeland,General,Unknown,No,200.42,2025-12-06,2025-01-19,Middle Aged,Moderate Wait
-315,1053,Jennifer Schwartz,30,Tamara Smith,Cardiology,Female,Yes,280.21,2025-12-31,2025-11-14,Young Adult,Standard Wait
-316,1021,Kelly Ayers,53,Justin Taylor,Neurology,Male,Yes,443.75,2026-02-16,2025-04-04,Middle Aged,Moderate Wait
-317,1059,James Perry,57,Leonard Campbell,Cardiology,Male,Yes,385.61,2025-08-27,2024-04-05,Middle Aged,Extreme Wait
-318,1038,Steven Phelps,19,Darren Williams,Cardiology,Female,Yes,4.21,2025-05-13,2024-07-18,Young Adult,Moderate Wait
-319,1018,Carly Ford,20,Scott Tran,Neurology,Female,No,150.74,2025-07-23,2025-06-22,Young Adult,Standard Wait
-320,1081,Elaine Williams,42,Daniel Carlson,Cardiology,Female,Yes,2.27,2026-03-15,2024-05-23,Middle Aged,Extreme Wait
-321,1098,Randy Wright,27,Jennifer Banks,Orthopedics,Unknown,No,296.99,2025-08-14,2024-12-02,Young Adult,Standard Wait
-322,1070,Charles Foley,56,Richard Arias,Cardiology,Male,Yes,490.9,2025-09-19,2024-09-28,Middle Aged,Moderate Wait
-323,1093,Ryan Kennedy,81,Scott Shannon,General,Unknown,Yes,490.67,2026-02-07,2024-06-27,Elderly,Extreme Wait
-324,1032,Stephen Cox,56,Joseph King,Cardiology,Unknown,No,125.95,2025-09-27,2025-02-05,Middle Aged,Standard Wait
-325,1071,Jennifer Jackson,80,Frank Harrell,Neurology,Unknown,No,105.64,2025-07-29,2024-04-14,Elderly,Long Wait
-326,1067,Jessica Wilson,72,Sharon Nash,Orthopedics,Unknown,No,476.53,2026-03-20,2024-07-13,Elderly,Extreme Wait
-327,1073,Shawn Moon,52,Sheila Williams,Neurology,Male,Yes,169.7,2026-03-17,2025-10-20,Middle Aged,Standard Wait
-328,1092,Sharon Lopez,79,Yolanda Richardson,Neurology,Unknown,No,487.57,2025-09-09,2025-02-02,Elderly,Standard Wait
-329,1091,Daniel Marshall,74,Lisa Taylor,Cardiology,Male,Yes,377.82,2025-12-11,2025-04-23,Elderly,Standard Wait
-330,1057,Andre Pitts,60,Donna Sandoval,General,Female,Yes,524.73,2026-01-26,2024-09-30,Middle Aged,Long Wait
-331,1018,Mary Garcia,54,Brianna Ortega,General,Male,Yes,252.53,2025-10-21,2025-04-11,Middle Aged,Standard Wait
-332,1002,Lawrence Ford,89,Randall Watts,Neurology,Female,Yes,182.9,2025-07-09,2025-01-03,Elderly,Standard Wait
-333,1005,Troy Richards,80,Thomas Baker,Neurology,Unknown,Yes,387.38,2025-05-16,2024-11-13,Elderly,Standard Wait
-334,1094,Anna Rowe,59,Judith Preston,Neurology,Female,No,91.13,2026-02-26,2024-08-25,Middle Aged,Extreme Wait
-335,1084,Michael Espinoza,55,Amber King,Neurology,Female,No,457.7,2025-04-29,2024-12-06,Middle Aged,Standard Wait
-336,1044,Kenneth Dixon,68,Sandra Sloan,Orthopedics,Male,Yes,438.62,2025-08-19,2025-01-31,Elderly,Standard Wait
-337,1067,Justin Ortiz,60,Russell Myers,Cardiology,Male,No,297.51,2025-11-08,2025-03-30,Middle Aged,Standard Wait
-338,1083,Melissa Wagner,59,Megan Garcia,Neurology,Male,Yes,2.63,2025-09-18,2024-06-15,Middle Aged,Long Wait
-339,1017,Jamie Miller,84,Gloria Perez,Orthopedics,Female,No,208.4,2026-02-05,2024-05-28,Elderly,Extreme Wait
-340,1070,Jake Robinson,62,Nathan Quinn,Cardiology,Female,Yes,2.14,2025-09-09,2024-11-25,Middle Aged,Moderate Wait
-341,1093,Kimberly Morrison,34,Brian Young,Orthopedics,Unknown,Yes,248.31,2026-03-04,2024-09-11,Young Adult,Extreme Wait
-342,1033,David Thompson,47,Derek Velazquez,Cardiology,Unknown,No,148.27,2025-12-03,2025-08-24,Middle Aged,Standard Wait
-343,1023,Mary Moon,36,Ernest Rodriguez,Cardiology,Unknown,No,99.51,2025-10-13,2025-01-08,Young Adult,Moderate Wait
-344,1053,John Gallagher,57,Kara Austin,Cardiology,Unknown,Yes,216.48,2025-06-28,2024-11-02,Middle Aged,Standard Wait
-345,1040,Benjamin Allen,20,Richard Johnson,Cardiology,Female,No,280.32,2025-11-22,2025-04-06,Young Adult,Standard Wait
-346,1073,Abigail Holt,50,Jacob Mays,Neurology,Unknown,Yes,343.79,2025-09-11,2025-03-14,Middle Aged,Standard Wait
-347,1029,Jesse Robertson,24,Rebecca Gross,Orthopedics,Male,Yes,103.82,2025-07-27,2025-07-19,Young Adult,Standard Wait
-348,1082,Tyler Trujillo,72,Andrea Walsh,Cardiology,Male,No,212.18,2025-12-11,2025-01-24,Elderly,Moderate Wait
-349,1099,Travis Rodriguez,85,Richard Wagner,Neurology,Male,Yes,465.04,2025-10-20,2025-08-10,Elderly,Standard Wait
-350,1003,Corey Turner,27,Heidi Baker,Orthopedics,Unknown,Yes,5.22,2025-06-05,2025-03-13,Young Adult,Standard Wait
-351,1038,Ashley Wright,45,Kristen Lopez,General,Female,Yes,439.51,2026-02-26,2025-06-03,Middle Aged,Moderate Wait
-352,1061,Jose Bauer,37,Reginald Barrett,Orthopedics,Unknown,No,425.98,2025-10-17,2025-04-07,Young Adult,Standard Wait
-353,1024,Jared Lester,26,David Espinoza,Orthopedics,Male,No,394.23,2025-10-20,2024-09-09,Young Adult,Long Wait
-354,1010,Christopher Massey,82,William Moore,Orthopedics,Male,Yes,540.57,2025-07-15,2025-05-19,Elderly,Standard Wait
-355,1096,Erin Small,82,Jeff Lane,General,Male,No,440.22,2025-05-15,2025-05-13,Elderly,Standard Wait
-356,1058,Rebecca Parrish,59,Jordan Shelton,Orthopedics,Female,No,163.52,2026-03-15,2025-01-06,Middle Aged,Long Wait
-357,1068,Dominic Bell,37,April Castillo,Cardiology,Male,Yes,4.27,2025-11-18,2024-11-18,Young Adult,Moderate Wait
-358,1009,Laura Chan,49,Reginald Miller,Cardiology,Unknown,No,177.93,2026-02-17,2026-01-16,Middle Aged,Standard Wait
-359,1031,Michael Watkins,35,Brian Deleon,General,Male,Yes,397.56,2025-07-06,2025-03-05,Young Adult,Standard Wait
-360,1055,Charles Green,80,Lisa Hoffman,Neurology,Female,No,380.94,2025-04-28,2024-03-30,Elderly,Moderate Wait
-361,1072,Christopher Brown,49,Henry Moore,Cardiology,Female,No,1.1,2025-03-26,2025-01-02,Middle Aged,Standard Wait
-362,1070,Barbara Holland,24,Chelsea Aguirre,General,Male,No,479.12,2026-01-30,2024-12-16,Young Adult,Long Wait
-363,1061,Matthew Herrera,74,Cody Murray,General,Female,Yes,5.68,2025-09-01,2025-05-26,Elderly,Standard Wait
-364,1091,Tiffany Miller,85,Melissa Bradley,Cardiology,Unknown,No,164.61,2025-03-29,2025-03-07,Elderly,Standard Wait
-365,1087,Glen Arroyo,70,Christopher Schneider,Neurology,Female,Yes,212.48,2025-09-12,2024-06-03,Elderly,Long Wait
-366,1056,Erik Martinez,24,Jennifer Carroll,Cardiology,Male,Yes,97.67,2025-10-28,2025-01-15,Young Adult,Moderate Wait
-367,1057,Michael Bradley,86,Carl Gomez,Orthopedics,Unknown,No,323.74,2025-06-11,2024-09-28,Elderly,Standard Wait
-368,1054,Rebecca Carey DDS,57,David Carter,Neurology,Male,No,169.09,2025-10-09,2025-03-17,Middle Aged,Standard Wait
-369,1059,Heidi Alvarez,88,Jeremy Wilson,General,Male,Yes,1.13,2025-07-30,2025-06-30,Elderly,Standard Wait
-370,1035,Robert Edwards,84,Ashley Gonzalez,Orthopedics,Unknown,No,107.78,2025-10-09,2025-05-10,Elderly,Standard Wait
-371,1086,Bryan Fritz,86,Kelsey Hernandez,Orthopedics,Female,Yes,338.43,2025-08-03,2025-02-19,Elderly,Standard Wait
-372,1050,Donald Reed,60,Danny Webster,General,Female,Yes,453.66,2025-05-06,2024-10-11,Middle Aged,Standard Wait
-373,1024,Alejandra Perkins,72,Daniel Dickerson,Orthopedics,Unknown,Yes,200.42,2025-08-03,2025-04-11,Elderly,Standard Wait
-374,1014,Alexis Moody,81,Jennifer Reyes,Orthopedics,Female,Yes,2.42,2025-05-29,2024-06-11,Elderly,Moderate Wait
-375,1059,Carol Williams,75,Joshua Gomez,Cardiology,Female,Yes,129.1,2025-04-15,2024-06-01,Elderly,Moderate Wait
-376,1092,Tracie Jefferson,74,Margaret Robinson,General,Female,Yes,153.53,2025-07-24,2025-04-24,Elderly,Standard Wait
-377,1032,Terry Dennis,28,Kelsey Scott,Neurology,Male,Yes,4.85,2025-07-14,2024-08-16,Young Adult,Moderate Wait
-378,1017,Nicole Green,55,Charles Owens,General,Male,No,4.38,2025-07-18,2024-07-06,Middle Aged,Moderate Wait
-379,1084,Robin Donovan,69,Brian Brown,General,Male,No,163.58,2025-03-27,2024-08-04,Elderly,Standard Wait
-380,1005,Bryan Meyers,84,Michael Trevino,Cardiology,Female,No,5.99,2026-01-05,2025-07-11,Elderly,Standard Wait
-381,1005,Kathryn Bell,24,Andre Carter,Cardiology,Female,No,562.25,2025-06-13,2024-06-06,Young Adult,Moderate Wait
-382,1090,Steven Henderson,53,Nicole Martinez,Orthopedics,Unknown,Yes,1.96,2026-02-15,2025-04-27,Middle Aged,Moderate Wait
-383,1068,Michael Marquez,59,Mr. Curtis Ortiz,Cardiology,Unknown,No,221.25,2025-07-28,2024-07-19,Middle Aged,Moderate Wait
-384,1047,Brittany Thompson,31,Wendy Davis,Cardiology,Female,No,3.09,2025-04-05,2024-05-08,Young Adult,Moderate Wait
-385,1009,Tracy Perez,74,Lauren Rosario,Cardiology,Male,No,508.89,2026-03-19,2025-11-26,Elderly,Standard Wait
-386,1016,Jessica Price,31,Justin Rice,Orthopedics,Unknown,Yes,534.95,2025-10-27,2025-03-12,Young Adult,Standard Wait
-387,1068,Kayla Williams,63,Aaron Cooper,General,Male,No,2.61,2025-10-02,2024-06-06,Middle Aged,Long Wait
-388,1048,Victoria Young,47,Lauren Whitaker,Neurology,Female,Yes,174.04,2025-08-06,2025-07-21,Middle Aged,Standard Wait
-389,1080,Roger Hatfield,52,Victoria Lopez,Orthopedics,Male,No,213.87,2025-08-12,2025-01-22,Middle Aged,Standard Wait
-390,1030,Robert Lewis,66,Samantha Cameron,Cardiology,Female,Yes,5.88,2025-10-23,2024-05-25,Elderly,Extreme Wait
-391,1003,Jeremiah Perez,48,Michael Black,Orthopedics,Male,No,91.94,2025-07-25,2025-01-14,Middle Aged,Standard Wait
-392,1072,Louis Craig,49,Rachel Wood,Orthopedics,Unknown,No,5.82,2025-04-13,2024-10-05,Middle Aged,Standard Wait
-393,1001,Jenny Black,33,Jamie Nunez,Neurology,Female,No,381.93,2025-11-14,2025-09-06,Young Adult,Standard Wait
-394,1009,Sarah Davis,61,Rebecca Thompson,General,Unknown,No,4.83,2026-01-01,2025-08-14,Middle Aged,Standard Wait
-395,1016,Heidi Sosa,29,Nancy Wilson,Cardiology,Male,Yes,2.9,2025-11-10,2025-05-17,Young Adult,Standard Wait
-396,1001,Jacqueline West,70,Steven Walker,General,Male,Yes,188.9,2026-01-19,2025-01-17,Elderly,Moderate Wait
-397,1063,Sherri Barry,48,Janet Schultz,Neurology,Male,No,139.34,2025-08-29,2024-04-15,Middle Aged,Long Wait
-398,1036,Alexander Hammond,41,Tara Moore,Cardiology,Male,No,312.51,2025-06-29,2024-09-21,Middle Aged,Moderate Wait
-399,1015,Nichole Anderson,87,Richard Vega,Cardiology,Unknown,Yes,402.45,2025-05-10,2025-02-06,Elderly,Standard Wait
-400,1069,Jacqueline Peters,40,Adam Jensen,General,Unknown,Yes,290.75,2025-12-09,2025-10-11,Middle Aged,Standard Wait
-401,1029,Kelly Hodge,55,Terry Jones,Orthopedics,Male,No,222.36,2025-10-15,2025-05-28,Middle Aged,Standard Wait
-402,1037,Brandi Boyd,90,Mary Jacobson,Cardiology,Unknown,No,1.15,2025-12-08,2024-08-06,Elderly,Long Wait
-403,1074,Andrea Anderson,75,Mary Burgess,Neurology,Unknown,Yes,59.55,2025-08-15,2024-06-16,Elderly,Long Wait
-404,1039,Shawn Castillo,68,Jennifer Carroll,Orthopedics,Male,No,431.25,2025-05-02,2025-02-15,Elderly,Standard Wait
-405,1071,Jerry Holmes,88,Kim Daniels,Neurology,Male,Yes,4.13,2025-12-05,2024-08-02,Elderly,Long Wait
-406,1039,Kimberly Diaz,47,David Guzman,Orthopedics,Female,Yes,197.72,2025-06-19,2024-05-07,Middle Aged,Long Wait
-407,1084,Nathaniel White,71,Andrew Clark,Cardiology,Male,No,95.4,2025-04-20,2024-07-31,Elderly,Moderate Wait
-408,1031,John Gonzalez,44,Richard Medina,Orthopedics,Male,No,310.28,2026-01-19,2024-06-14,Middle Aged,Extreme Wait
-409,1053,Peter Pierce,70,Deborah Snyder,Neurology,Male,No,4.67,2025-12-21,2025-08-07,Elderly,Standard Wait
-410,1048,Elizabeth Russo,67,Connie Martinez,Neurology,Male,Yes,200.42,2025-07-03,2024-07-30,Elderly,Moderate Wait
-411,1075,Jacqueline Collins,67,Paul Parker,Neurology,Female,No,161.5,2025-06-12,2025-05-18,Elderly,Standard Wait
-412,1054,Samuel Thomas,82,Donna Johnson,General,Male,Yes,421.83,2025-06-16,2024-04-01,Elderly,Long Wait
-413,1020,Robert Williams,53,Jessica Chandler,Neurology,Male,Yes,373.56,2025-07-24,2025-02-03,Middle Aged,Standard Wait
-414,1100,Ms. Kristen Johnson,60,Susan Griffin,Neurology,Male,Yes,5.47,2026-02-15,2024-04-14,Middle Aged,Extreme Wait
-415,1061,Darlene Clark,65,Thomas Williams,Neurology,Male,No,480.8,2025-11-09,2024-11-16,Elderly,Moderate Wait
-416,1040,Jessica Williams,49,Corey King,General,Female,No,140.26,2025-06-21,2024-10-08,Middle Aged,Standard Wait
-417,1030,Jesse Wood,69,Deborah Vasquez,Neurology,Male,Yes,2.7,2026-01-02,2024-09-23,Elderly,Long Wait
-418,1093,James Price,72,Jessica Garcia,General,Male,Yes,194.55,2025-06-20,2024-09-18,Elderly,Moderate Wait
-419,1087,Maria Boyd,69,Mike Miller,Cardiology,Female,Yes,506.81,2025-10-02,2025-02-23,Elderly,Standard Wait
-420,1008,Jacqueline Howell,30,Felicia Smith,Cardiology,Male,Yes,402.13,2026-02-21,2025-05-23,Young Adult,Moderate Wait
-421,1047,Victoria Perry,39,Heather Garcia,Neurology,Unknown,No,487.48,2026-03-26,2025-08-24,Young Adult,Standard Wait
-422,1032,Ryan Tucker,89,Barbara Owens,Orthopedics,Male,No,2.7,2026-02-18,2024-11-03,Elderly,Long Wait
-423,1024,Kelsey Rice,20,Darren Jensen,General,Male,No,190.44,2025-11-16,2024-11-19,Young Adult,Moderate Wait
-424,1044,Monique Daniels,25,Alexander Brown,General,Female,Yes,316.64,2026-03-08,2025-11-11,Young Adult,Standard Wait
-425,1085,Joseph Mcmillan,67,Frederick Nielsen,Orthopedics,Female,No,3.7,2025-05-20,2025-03-20,Elderly,Standard Wait
-426,1089,Miss Christine Lopez,75,Cynthia Turner,Cardiology,Female,Yes,414.58,2025-11-30,2025-06-05,Elderly,Standard Wait
-427,1064,Christy Nunez,54,Theresa Parker,Cardiology,Unknown,Yes,368.68,2025-07-11,2024-06-25,Middle Aged,Moderate Wait
-428,1077,Jeff Lynch,57,Joseph Gibbs,Neurology,Female,No,58.15,2025-12-04,2024-10-12,Middle Aged,Long Wait
-429,1092,James Mendez,89,Jackie Brooks,General,Female,No,186.43,2025-07-02,2025-04-08,Elderly,Standard Wait
-430,1080,Jennifer Williams,80,Emily Barnes,General,Male,No,498.84,2026-01-04,2025-10-18,Elderly,Standard Wait
-431,1097,Kathryn Green,86,Robert Moreno,Cardiology,Unknown,Yes,4.99,2025-05-01,2024-08-19,Elderly,Standard Wait
-432,1035,Holly Potter,75,Christina Mitchell,General,Male,Yes,3.29,2025-11-21,2025-01-02,Elderly,Moderate Wait
-433,1012,Javier Hawkins,38,Debra Fields,Orthopedics,Male,No,427.54,2026-02-01,2024-04-16,Young Adult,Extreme Wait
-434,1100,Sonya Wheeler,60,Adam Carlson,Orthopedics,Female,Yes,5.2,2025-09-07,2024-04-13,Middle Aged,Extreme Wait
-435,1021,Jessica Castillo,37,Bryan Newton,Cardiology,Unknown,No,476.23,2025-09-18,2024-11-17,Young Adult,Moderate Wait
-436,1094,Crystal Oneal,60,Harold Gray,Neurology,Unknown,Yes,421.74,2025-08-19,2025-01-23,Middle Aged,Standard Wait
-437,1022,Alison Robinson,83,Jose Thomas,Orthopedics,Male,No,223.01,2025-09-15,2024-12-23,Elderly,Moderate Wait
-438,1088,Meghan Evans,79,Courtney Yang,Orthopedics,Unknown,No,337.15,2025-11-21,2025-09-11,Elderly,Standard Wait
-439,1076,Melanie Hernandez,19,Adam Anderson,Orthopedics,Unknown,Yes,445.97,2026-02-22,2025-06-12,Young Adult,Standard Wait
-440,1092,Lisa Hill,68,Mia Boyd,Cardiology,Female,No,169.01,2025-06-23,2024-10-24,Elderly,Standard Wait
-441,1043,Derek Smith,82,Jeremy Burton,Cardiology,Unknown,No,215.76,2025-05-23,2024-10-18,Elderly,Standard Wait
-442,1021,Taylor Farley,25,Christy Lewis,Cardiology,Female,Yes,184.11,2025-10-01,2024-09-01,Young Adult,Moderate Wait
-443,1016,Ryan Rodriguez,53,Eric Kennedy,Orthopedics,Female,Yes,3.33,2025-05-29,2025-02-22,Middle Aged,Standard Wait
-444,1050,Jeremy Coleman,83,David Riley,Neurology,Male,No,0.77,2025-09-11,2024-09-03,Elderly,Moderate Wait
-445,1079,Alexander Williams,85,Erin Chandler,Orthopedics,Female,No,1.03,2026-03-20,2025-10-08,Elderly,Standard Wait
-446,1027,Steven Richards,26,Zachary Hamilton,Orthopedics,Unknown,No,258.44,2026-03-23,2025-01-11,Young Adult,Long Wait
-447,1070,Toni Morris DDS,30,Robin Medina,Orthopedics,Female,No,273.25,2025-12-01,2024-07-16,Young Adult,Long Wait
-448,1013,Zachary Allen,21,Justin Smith,Neurology,Female,Yes,200.42,2026-02-24,2025-06-04,Young Adult,Moderate Wait
-449,1081,Trevor Anderson,32,Kenneth Johnson,Neurology,Female,Yes,170.39,2025-07-06,2025-04-10,Young Adult,Standard Wait
-450,1053,Robert Wade,87,Phillip Shelton,Orthopedics,Male,Yes,249.74,2026-02-07,2024-07-11,Elderly,Extreme Wait
-451,1051,Oscar Luna,72,John Stewart,General,Female,Yes,126.56,2026-03-05,2025-03-26,Elderly,Moderate Wait
-452,1098,Lance Hobbs,59,Mr. James Brown,General,Unknown,No,143.32,2025-10-10,2024-08-18,Middle Aged,Long Wait
-453,1009,Misty Wells,64,Debra Booker,Neurology,Male,Yes,449.33,2025-07-31,2024-08-23,Middle Aged,Moderate Wait
-454,1021,Adam Mcdonald,28,David Schmidt,Cardiology,Female,Yes,221.67,2025-08-15,2024-11-17,Young Adult,Moderate Wait
-455,1046,David Mann,68,Donald Ferguson,Orthopedics,Male,Yes,276.57,2026-03-16,2024-05-06,Elderly,Extreme Wait
-456,1044,Daniel White,67,Chad Johnson,Neurology,Male,No,3.33,2025-04-12,2024-07-13,Elderly,Moderate Wait
-457,1058,Steven Gonzalez,37,Jonathan Daniels,Orthopedics,Unknown,Yes,329.17,2026-02-04,2025-11-10,Young Adult,Standard Wait
-458,1004,Samuel Harrison,53,Hunter Powell,Neurology,Unknown,Yes,5.92,2025-08-09,2024-07-06,Middle Aged,Long Wait
-459,1059,Emma Ferrell,23,David Bradford,General,Male,Yes,367.85,2025-09-10,2024-04-23,Young Adult,Extreme Wait
-460,1021,Michael Garcia,61,Barbara Mack,Neurology,Female,Yes,338.06,2026-03-04,2025-08-10,Middle Aged,Standard Wait
-461,1029,Darlene Hodge,69,Amanda Cruz,Orthopedics,Male,No,68.82,2025-05-27,2025-04-20,Elderly,Standard Wait
-462,1005,Katherine Rios,23,Elizabeth Foster,Orthopedics,Unknown,No,265.67,2025-12-24,2025-01-05,Young Adult,Moderate Wait
-463,1094,Jennifer Shaffer,59,Brittany Watson,Orthopedics,Unknown,Yes,382.64,2025-06-08,2024-12-26,Middle Aged,Standard Wait
-464,1058,Alejandro Romero,27,Karen Hancock,Orthopedics,Male,No,262.5,2025-07-25,2024-08-28,Young Adult,Moderate Wait
-465,1076,Ashley Peterson,39,Kyle Mcintyre,General,Female,Yes,455.23,2025-05-30,2025-05-06,Young Adult,Standard Wait
-466,1087,Kenneth Cox,78,Brian Walker,General,Male,No,123.28,2026-01-22,2025-06-07,Elderly,Standard Wait
-467,1012,Susan Winters,45,Christopher Simpson,Orthopedics,Unknown,No,353.09,2025-07-25,2024-08-31,Middle Aged,Moderate Wait
-468,1063,Jason Kennedy,46,Robert Fowler,Orthopedics,Male,No,360.53,2025-10-18,2024-10-03,Middle Aged,Moderate Wait
-469,1046,Melissa Brown,28,Bill Brown,Orthopedics,Unknown,Yes,76.04,2025-04-20,2024-08-01,Young Adult,Moderate Wait
-470,1031,Shannon Vargas,57,Brian Caldwell,Orthopedics,Unknown,No,341.11,2025-05-31,2025-02-14,Middle Aged,Standard Wait
-471,1098,Jennifer Dorsey,27,Michael Stanley,General,Unknown,No,147.08,2026-02-10,2025-06-29,Young Adult,Standard Wait
-472,1085,Nicole Adams,25,Krystal Krueger,General,Female,Yes,389.71,2025-10-13,2025-03-13,Young Adult,Standard Wait
-473,1015,Veronica Shaw,86,Michael Franco,Orthopedics,Unknown,Yes,221.51,2025-09-22,2024-07-15,Elderly,Long Wait
-474,1008,Lisa Smith,40,Daniel Beck,Orthopedics,Unknown,No,5.39,2025-10-30,2024-07-31,Middle Aged,Long Wait
-475,1080,Eric Lawson,78,Andrew Webb,Cardiology,Male,No,179.07,2026-02-02,2025-11-14,Elderly,Standard Wait
-476,1067,Vanessa Wright,28,Virginia Sharp,Cardiology,Male,Yes,4.14,2026-01-07,2025-08-23,Young Adult,Standard Wait
-477,1012,Shawn Mendoza,36,Erin Walton,Cardiology,Unknown,No,85.01,2026-03-25,2024-05-03,Young Adult,Extreme Wait
-478,1066,Sandra Hill,65,Julie May,Orthopedics,Male,Yes,1.36,2025-08-10,2025-01-06,Elderly,Standard Wait
-479,1015,Oscar Hunt,29,Michael Mason,Cardiology,Male,Yes,461.06,2025-06-11,2024-07-02,Young Adult,Moderate Wait
-480,1061,Breanna Lewis,59,Jerry Tucker,Orthopedics,Female,Yes,198.09,2025-10-12,2025-06-15,Middle Aged,Standard Wait
-481,1095,Jackie Lane,56,Jackie Harper,Cardiology,Unknown,Yes,4.02,2025-06-04,2024-05-29,Middle Aged,Moderate Wait
-482,1048,Shawn Cordova,67,Wendy Mcguire,Neurology,Male,No,3.42,2025-11-27,2024-07-30,Elderly,Long Wait
-483,1003,Christine Herring,89,Kristin Hartman,General,Female,Yes,494.57,2025-12-22,2025-03-08,Elderly,Moderate Wait
-484,1030,Brandon Carter,72,James Aguilar,Neurology,Female,No,277.55,2025-05-10,2025-02-27,Elderly,Standard Wait
-485,1004,Deborah Robinson,36,Joseph Bell,Cardiology,Unknown,Yes,173.54,2026-01-25,2024-10-30,Young Adult,Long Wait
-486,1059,Jill Mcconnell,81,Jessica Miller,Cardiology,Female,No,5.7,2025-03-28,2025-02-16,Elderly,Standard Wait
-487,1044,Kyle Barnes Jr.,21,Donna Peters,General,Unknown,Yes,156.1,2025-04-18,2024-09-24,Young Adult,Standard Wait
-488,1068,Regina Smith,87,Donna Orr,General,Unknown,No,246.13,2025-08-30,2024-12-15,Elderly,Standard Wait
-489,1024,Jeffrey Warren,60,Mrs. Michelle Reed,Cardiology,Female,No,4.09,2025-07-20,2024-11-21,Middle Aged,Standard Wait
-490,1010,Andre Crosby,72,Douglas Smith,General,Female,No,235.81,2026-02-16,2024-07-07,Elderly,Extreme Wait
-491,1099,Jessica Maldonado DDS,25,Kelly Thomas,Cardiology,Unknown,No,211.09,2025-04-21,2024-09-20,Young Adult,Standard Wait
-492,1044,Nicole Warren,63,Kimberly Beck,General,Female,No,527.49,2025-09-19,2025-02-07,Middle Aged,Standard Wait
-493,1063,Edward Black,88,Nathan Summers,Orthopedics,Female,No,3.22,2025-12-04,2025-10-11,Elderly,Standard Wait
-494,1075,Sarah Hernandez,25,Jeremy Mclaughlin,Orthopedics,Female,Yes,253.36,2025-09-03,2024-10-27,Young Adult,Moderate Wait
-495,1090,Christina Eaton,85,Stephanie Kelley DVM,Neurology,Male,No,192.87,2026-01-20,2025-03-10,Elderly,Moderate Wait
-496,1073,Molly Hayden,75,Brian Chambers,General,Unknown,No,389.41,2026-01-06,2025-02-22,Elderly,Moderate Wait
-497,1021,Mrs. Jennifer Ingram,41,Katrina Williams MD,General,Male,No,473.2,2025-09-11,2024-11-30,Middle Aged,Moderate Wait
-498,1052,Troy Torres,80,Matthew Carney,Cardiology,Unknown,No,124.09,2025-05-04,2024-09-20,Elderly,Standard Wait
-499,1028,Stephanie Moss,24,Jason Bray,General,Female,Yes,57.03,2026-03-04,2025-04-02,Young Adult,Moderate Wait
-500,1062,Jade Blanchard MD,23,Amber Waters,Orthopedics,Female,No,151.03,2026-01-29,2024-07-01,Young Adult,Extreme Wait
-501,1088,Pamela Johnson,80,Crystal Garza,General,Female,Yes,5.01,2025-07-01,2024-11-12,Elderly,Standard Wait
-502,1028,Glenn Wall,26,Sarah Peterson,Cardiology,Unknown,Yes,112.9,2025-09-15,2025-05-13,Young Adult,Standard Wait
-503,1050,Christopher Beard,65,Jerry Torres,General,Male,Yes,1.52,2026-03-04,2024-06-01,Elderly,Extreme Wait
-504,1004,Darin Caldwell,54,Danielle Pacheco,Cardiology,Male,No,201.81,2025-09-03,2025-02-20,Middle Aged,Standard Wait
-505,1044,Henry Henderson,58,James Love,Orthopedics,Male,No,200.42,2025-06-10,2024-08-02,Middle Aged,Moderate Wait
-506,1030,Regina Giles,42,Kimberly Foster,Neurology,Male,Yes,282.2,2025-10-24,2024-11-27,Middle Aged,Moderate Wait
-507,1073,Curtis Cooke,84,John Hancock,Neurology,Male,No,520.02,2025-09-29,2024-06-24,Elderly,Long Wait
-508,1062,Peter Schaefer,84,Carlos Spence,Cardiology,Female,No,2.28,2025-08-27,2024-06-02,Elderly,Long Wait
-509,1014,Andrew Cross,67,Victor Warner,General,Female,No,3.38,2026-03-26,2026-03-07,Elderly,Standard Wait
-510,1030,Jonathan Fernandez,40,Luis Nolan,Orthopedics,Male,Yes,3.03,2025-12-03,2025-09-08,Middle Aged,Standard Wait
-511,1081,Rebecca Gould,72,Xavier Richardson,General,Female,No,504.19,2025-04-04,2024-12-17,Elderly,Standard Wait
-512,1081,Kimberly Fitzpatrick,65,Mark Moore,Orthopedics,Female,No,200.42,2025-10-07,2024-12-09,Elderly,Moderate Wait
-513,1001,Richard Griffin,61,Tina Gonzalez,Orthopedics,Male,Yes,0.98,2025-10-24,2025-08-21,Middle Aged,Standard Wait
-514,1098,Manuel Becker,66,Jacob Patel,Neurology,Female,No,139.99,2025-05-17,2024-08-29,Elderly,Moderate Wait
-515,1034,Tara Garrison,41,Stacy Hartman,Cardiology,Male,Yes,575.42,2026-02-03,2025-10-04,Middle Aged,Standard Wait
-516,1069,Steven Miller,20,Bob Shaw,Orthopedics,Unknown,No,260.12,2025-05-01,2025-04-28,Young Adult,Standard Wait
-517,1001,Haley King,84,Erin Carr,Cardiology,Male,No,261.52,2026-02-12,2024-06-21,Elderly,Extreme Wait
-518,1066,Jonathan Wood,74,Jon Duarte,Orthopedics,Female,Yes,5.83,2025-05-23,2024-12-26,Elderly,Standard Wait
-519,1033,Bridget Cooley,75,Ashley Edwards,General,Female,Yes,183.87,2026-02-22,2025-02-25,Elderly,Moderate Wait
-520,1078,Nathan Murphy,52,Kerry Rowe,Cardiology,Female,No,1.98,2025-11-24,2024-05-10,Middle Aged,Extreme Wait
-521,1072,Stephanie Caldwell MD,86,Darrell Mendez,Orthopedics,Female,Yes,74.84,2025-07-04,2025-01-19,Elderly,Standard Wait
-522,1011,Henry Carlson,65,Benjamin Brown,Orthopedics,Female,Yes,2.76,2025-09-23,2024-04-01,Elderly,Extreme Wait
-523,1045,Michael Evans,65,Manuel Vargas,Orthopedics,Unknown,No,332.09,2025-03-28,2025-01-04,Elderly,Standard Wait
-524,1095,Regina Wilson,73,Heidi Hamilton,Neurology,Male,Yes,349.4,2025-12-31,2024-12-14,Elderly,Moderate Wait
-525,1074,Jeremiah Cruz,64,Matthew Pratt,Neurology,Male,Yes,193.86,2026-03-14,2026-02-10,Middle Aged,Standard Wait
-526,1080,Nicholas Vasquez,49,Jennifer Anderson,Neurology,Male,No,4.93,2025-10-30,2025-06-12,Middle Aged,Standard Wait
-527,1069,Cheryl Smith,48,Sarah Harper DDS,Cardiology,Female,No,97.46,2025-10-01,2024-11-03,Middle Aged,Moderate Wait
-528,1051,Matthew Moore,63,Erica Riley,General,Unknown,Yes,1.4,2026-03-02,2025-03-04,Middle Aged,Moderate Wait
-529,1092,Katherine Wilson,44,Mitchell Sims,Orthopedics,Unknown,Yes,203.3,2025-12-01,2024-07-31,Middle Aged,Long Wait
-530,1055,Kathleen Oneal,71,Jacob Andrade,Orthopedics,Male,Yes,74.36,2025-05-17,2024-07-28,Elderly,Moderate Wait
-531,1025,Lindsay Harris,28,Ryan Hughes,Orthopedics,Unknown,Yes,484.37,2025-10-26,2025-02-22,Young Adult,Standard Wait
-532,1037,Kathy Banks,39,Anna Yoder,General,Male,Yes,3.83,2025-11-25,2025-07-26,Young Adult,Standard Wait
-533,1010,Beth Murphy,71,Adam Davis,Orthopedics,Female,Yes,420.0,2025-06-30,2024-08-13,Elderly,Moderate Wait
-534,1040,Patrick Perez,62,Jesse Edwards,Neurology,Male,Yes,290.14,2026-01-21,2024-12-13,Middle Aged,Long Wait
-535,1071,Dana Mcclure,41,Mark Norton,General,Female,No,191.14,2026-03-02,2025-09-27,Middle Aged,Standard Wait
-536,1097,Ryan Williams,88,Veronica Fry,General,Female,Yes,398.47,2025-12-27,2024-12-25,Elderly,Moderate Wait
-537,1067,Benjamin Ramirez,57,Wesley Johnson,Neurology,Female,No,142.33,2025-12-22,2025-01-06,Middle Aged,Moderate Wait
-538,1097,Brandi Osborn,42,Daisy Rodriguez,Neurology,Female,No,93.94,2026-02-01,2025-12-31,Middle Aged,Standard Wait
-539,1053,Christopher Lopez,39,Caleb Kennedy,General,Unknown,No,295.71,2026-01-15,2025-11-11,Young Adult,Standard Wait
-540,1074,Gary Taylor,87,Lauren Medina,General,Unknown,Yes,408.3,2025-05-19,2024-06-12,Elderly,Moderate Wait
-541,1015,Rodney Gonzalez,21,Allison Ramos,Cardiology,Female,No,168.33,2025-07-04,2025-02-07,Young Adult,Standard Wait
-542,1071,Patrick Roach,88,Karen Duke,Cardiology,Female,Yes,448.81,2025-10-31,2025-06-23,Elderly,Standard Wait
-543,1044,Sandra Rojas,83,Stephanie Bryant,Cardiology,Unknown,No,200.42,2025-06-16,2025-03-07,Elderly,Standard Wait
-544,1001,Erik Davis,30,Amanda White,Neurology,Male,Yes,200.42,2025-05-30,2024-12-05,Young Adult,Standard Wait
-545,1056,Brian Patel,33,Tracy Harris,Orthopedics,Unknown,No,135.91,2025-10-16,2024-09-13,Young Adult,Long Wait
-546,1099,Mrs. Katherine Huber PhD,74,Kathryn Young,Cardiology,Male,No,488.54,2025-05-09,2024-11-12,Elderly,Standard Wait
-547,1060,Edward Russell,26,Connor Brown,Orthopedics,Male,No,118.68,2025-10-17,2024-12-12,Young Adult,Moderate Wait
-548,1080,Thomas Fleming,18,Kimberly Mcdonald,Neurology,Male,No,80.06,2025-06-04,2024-12-14,Young Adult,Standard Wait
-549,1056,Savannah Butler,26,James Nguyen,Neurology,Unknown,No,340.47,2025-11-26,2025-04-17,Young Adult,Standard Wait
-550,1036,Jacob Price,25,Kimberly Rangel,Neurology,Male,Yes,259.47,2025-06-14,2024-04-27,Young Adult,Long Wait
-551,1050,Brian Davis,41,Brian Mitchell,Orthopedics,Female,Yes,0.76,2026-02-07,2025-05-27,Middle Aged,Standard Wait
-552,1042,Anthony Medina,60,Richard Walker,Orthopedics,Female,Yes,498.48,2025-03-28,2024-11-14,Middle Aged,Standard Wait
-553,1019,Desiree Wilkins,34,Jamie Ford,General,Female,Yes,305.84,2026-02-28,2025-07-31,Young Adult,Standard Wait
-554,1073,Ashley Cunningham,32,Sarah Montgomery,Cardiology,Female,Yes,1.92,2026-01-22,2024-11-29,Young Adult,Long Wait
-555,1027,Abigail Townsend,54,Allison Salazar,Orthopedics,Female,Yes,406.61,2025-12-10,2025-03-08,Middle Aged,Moderate Wait
-556,1077,William Roberts Jr.,21,Savannah Beltran,Orthopedics,Female,No,315.17,2025-08-17,2024-07-02,Young Adult,Long Wait
-557,1085,Sean Bailey,85,Erika Turner,Neurology,Female,Yes,406.3,2025-09-06,2025-02-27,Elderly,Standard Wait
-558,1025,Adrian Vincent,42,William Coleman MD,Orthopedics,Unknown,No,447.05,2025-09-21,2024-12-05,Middle Aged,Moderate Wait
-559,1029,John Walsh,63,Wanda Cox,Orthopedics,Unknown,No,112.47,2025-08-13,2024-09-03,Middle Aged,Moderate Wait
-560,1052,Christopher Johnson,26,Susan Stanton,Neurology,Unknown,Yes,461.18,2025-10-31,2025-03-22,Young Adult,Standard Wait
-561,1014,Michael Hamilton,29,Angie Smith,General,Female,No,136.32,2025-09-03,2024-07-27,Young Adult,Long Wait
-562,1056,Courtney Gonzales,84,Kayla Norris,Cardiology,Female,No,385.01,2025-05-26,2024-10-31,Elderly,Standard Wait
-563,1073,Leslie Medina,18,Matthew Morse,Orthopedics,Female,Yes,623.48,2025-08-17,2025-06-25,Young Adult,Standard Wait
-564,1009,Frank Fields,30,Heather Diaz,General,Female,Yes,168.86,2025-06-27,2025-05-21,Young Adult,Standard Wait
-565,1029,Darren Douglas,23,Andrew Gordon,Orthopedics,Female,Yes,463.06,2026-02-01,2025-09-04,Young Adult,Standard Wait
-566,1091,Sheila Barrett,25,John Wallace,Cardiology,Male,No,2.05,2025-11-19,2025-11-15,Young Adult,Standard Wait
-567,1026,Kim Morris,56,Michael Morris,General,Female,No,197.66,2025-12-20,2025-06-24,Middle Aged,Standard Wait
-568,1075,Sarah Rivas,85,Scott Vega,Neurology,Unknown,No,576.87,2026-03-09,2025-03-18,Elderly,Moderate Wait
-569,1089,Adam Lane,76,Lynn Dorsey,Neurology,Female,Yes,113.69,2026-03-21,2024-09-20,Elderly,Extreme Wait
-570,1082,Angela Smith,51,Nicholas Jones,Orthopedics,Male,No,291.39,2025-09-02,2025-08-15,Middle Aged,Standard Wait
-571,1063,Mary Manning,48,William Harris,Orthopedics,Female,No,248.84,2026-01-23,2025-10-13,Middle Aged,Standard Wait
-572,1009,Samantha Hoffman,37,Julie Smith,Cardiology,Male,No,89.38,2025-07-23,2025-03-14,Young Adult,Standard Wait
-573,1079,Shawn Juarez,64,Patrick Morrison,Neurology,Unknown,Yes,120.77,2025-08-02,2025-05-31,Middle Aged,Standard Wait
-574,1022,Luke Brady,78,Adam Hall,General,Male,Yes,466.5,2025-10-09,2025-06-24,Elderly,Standard Wait
-575,1008,Christian Guerrero,77,Jennifer Perez,Cardiology,Female,Yes,298.89,2026-01-07,2024-06-29,Elderly,Extreme Wait
-576,1100,Terrence Long,46,Natalie Rodriguez,Cardiology,Male,Yes,232.04,2026-02-01,2025-06-27,Middle Aged,Standard Wait
-577,1066,Michael Davis,36,Karen Griffin,Cardiology,Unknown,No,142.68,2026-01-11,2025-09-30,Young Adult,Standard Wait
-578,1084,Amy Pierce,83,Ian Castillo,Orthopedics,Female,No,318.44,2025-07-27,2025-03-28,Elderly,Standard Wait
-579,1039,Erin Williams,69,Sean Hernandez,Cardiology,Female,Yes,161.56,2026-02-04,2024-10-17,Elderly,Long Wait
-580,1092,Tiffany Cooper,58,Katrina Jones,General,Male,Yes,86.98,2025-07-05,2025-05-16,Middle Aged,Standard Wait
-581,1004,Joseph Pace,67,Lydia Baker,Neurology,Unknown,Yes,4.06,2025-11-20,2025-08-02,Elderly,Standard Wait
-582,1056,Jean Kramer,30,Donald Clark,Orthopedics,Unknown,Yes,481.69,2025-05-29,2024-05-31,Young Adult,Moderate Wait
-583,1077,David Rose,78,Dana Ewing,Orthopedics,Male,Yes,1.38,2025-11-09,2025-07-14,Elderly,Standard Wait
-584,1081,Christopher Lopez,45,Kevin Pearson,General,Male,Yes,515.1,2026-03-21,2024-05-04,Middle Aged,Extreme Wait
-585,1078,James Gibbs,25,Lisa Norris,Cardiology,Female,No,368.56,2025-11-16,2024-09-22,Young Adult,Long Wait
-586,1054,Lori Henderson,50,Terri Stewart,General,Female,No,5.96,2025-06-05,2024-12-19,Middle Aged,Standard Wait
-587,1085,Benjamin Lewis,85,Taylor Hicks,Cardiology,Male,No,232.36,2026-01-09,2025-05-03,Elderly,Standard Wait
-588,1028,Matthew Johnson,22,John Moran,Orthopedics,Unknown,No,163.66,2025-12-17,2025-08-06,Young Adult,Standard Wait
-589,1048,Karen Myers,89,David Wright,Neurology,Unknown,No,405.14,2025-07-20,2024-06-12,Elderly,Long Wait
-590,1013,Robert Humphrey,24,Vanessa Brown,Orthopedics,Unknown,No,281.71,2025-04-10,2025-03-22,Young Adult,Standard Wait
-591,1032,Matthew Gutierrez,21,Lisa Smith,General,Male,No,337.15,2026-02-08,2025-05-14,Young Adult,Moderate Wait
-592,1074,Rebecca Banks,23,April Randall DDS,Neurology,Male,Yes,0.68,2025-05-26,2025-01-17,Young Adult,Standard Wait
-593,1025,Ashley Rodriguez,52,Russell Zimmerman,Orthopedics,Unknown,No,2.64,2025-06-05,2024-11-06,Middle Aged,Standard Wait
-594,1040,Laura Ford,36,Kyle Evans,Orthopedics,Unknown,No,236.87,2025-05-27,2024-12-02,Young Adult,Standard Wait
-595,1070,Christian Thomas,38,Gregory Tapia,Neurology,Unknown,Yes,495.5,2025-07-06,2025-04-23,Young Adult,Standard Wait
-596,1070,Stacy Gardner,53,Michael Campbell,Neurology,Unknown,Yes,94.97,2026-01-18,2025-03-11,Middle Aged,Moderate Wait
-597,1077,Taylor Patterson,58,Ellen Miller,Neurology,Female,No,199.03,2026-03-25,2025-10-24,Middle Aged,Standard Wait
-598,1083,Jessica Rodriguez,18,Jeffrey Martin,Neurology,Male,Yes,4.94,2025-04-21,2024-09-04,Young Adult,Standard Wait
-599,1096,Patricia Johnson DDS,70,Ana Hunt,Neurology,Unknown,Yes,184.01,2025-06-12,2024-11-27,Elderly,Standard Wait
-600,1043,Alexandra Sandoval,31,Rachel Moore,Neurology,Male,No,2.39,2025-11-21,2025-08-16,Young Adult,Standard Wait
-601,1080,Danny Cooper,21,Mark Morrison,Neurology,Male,Yes,179.23,2025-04-27,2025-03-13,Young Adult,Standard Wait
-602,1097,Dr. Christina Dunn,51,Madeline Sharp,General,Female,No,4.58,2025-09-11,2024-06-13,Middle Aged,Long Wait
-603,1054,Rachel Porter,29,Patrick Russell,Neurology,Male,No,372.15,2025-05-17,2024-10-06,Young Adult,Standard Wait
-604,1075,Megan Williams,51,Melissa Khan,Neurology,Male,No,5.47,2025-12-11,2025-10-19,Middle Aged,Standard Wait
-605,1036,Michelle Hill,82,Rachel Sanchez,General,Male,Yes,4.46,2025-12-08,2024-04-07,Elderly,Extreme Wait
-606,1064,Donna Green,78,Clifford Ramirez,Orthopedics,Female,No,286.92,2026-01-14,2025-05-07,Elderly,Standard Wait
-607,1015,Leon Anderson,63,Mary Chandler,Neurology,Unknown,Yes,427.62,2025-11-28,2024-09-24,Middle Aged,Long Wait
-608,1045,Cheryl Ruiz,66,Maria Thomas,Orthopedics,Unknown,Yes,127.99,2025-05-23,2024-04-29,Elderly,Moderate Wait
-609,1006,Christina Spencer,61,Mark Kelley,Orthopedics,Male,No,391.52,2025-11-14,2024-05-10,Middle Aged,Extreme Wait
-610,1016,Elizabeth Johnson,87,Dr. Mary Day,General,Female,Yes,5.54,2026-01-24,2024-12-09,Elderly,Long Wait
-611,1014,Ellen Rogers,31,Tammie Melendez,General,Unknown,Yes,462.35,2025-08-30,2025-01-17,Young Adult,Standard Wait
-612,1070,Kenneth Jenkins,49,Tanya Eaton,General,Unknown,Yes,467.28,2025-05-20,2024-09-12,Middle Aged,Standard Wait
-613,1088,Mr. Paul Chavez,65,Evan Marquez,Neurology,Male,Yes,159.06,2025-07-23,2025-02-04,Elderly,Standard Wait
-614,1012,Ian Weaver,18,Audrey Torres,Neurology,Female,Yes,3.81,2026-01-19,2025-06-01,Young Adult,Standard Wait
-615,1066,Daniel White,37,Justin Hall,General,Female,Yes,512.99,2025-05-25,2024-10-12,Young Adult,Standard Wait
-616,1071,Brian Riley,74,Charles Kemp,Cardiology,Male,No,153.44,2025-08-23,2024-09-24,Elderly,Moderate Wait
-617,1075,Amy Cruz,43,Tony Burke,Neurology,Unknown,Yes,500.08,2025-12-14,2025-02-28,Middle Aged,Moderate Wait
-618,1060,James Lopez,85,Carla Cole,Cardiology,Female,Yes,176.08,2025-09-19,2025-09-16,Elderly,Standard Wait
-619,1055,Christopher Powell,69,Gary Wood,Orthopedics,Male,Yes,5.75,2025-03-31,2024-11-05,Elderly,Standard Wait
-620,1087,Alejandra Turner,31,Bradley Jones,Cardiology,Unknown,Yes,212.5,2025-05-31,2025-05-24,Young Adult,Standard Wait
-621,1020,Kelsey Shaffer,56,Christina Simmons,Neurology,Male,Yes,99.24,2025-04-20,2024-12-07,Middle Aged,Standard Wait
-622,1047,Kara Stewart,63,Becky Sanchez,Neurology,Female,No,316.49,2025-04-21,2025-03-06,Middle Aged,Standard Wait
-623,1031,Michelle Bradford,31,Robert Williams,Cardiology,Unknown,Yes,457.52,2026-03-17,2025-08-02,Young Adult,Standard Wait
-624,1047,Danielle Ortega,76,Tiffany Lowery,Orthopedics,Male,No,83.67,2025-08-18,2025-06-14,Elderly,Standard Wait
-625,1012,Gregory Hines,76,Rebecca Goodwin,Orthopedics,Male,No,3.07,2026-02-07,2026-01-15,Elderly,Standard Wait
-626,1091,Scott Walker,62,Brianna Hernandez,Neurology,Male,Yes,433.63,2026-03-22,2025-11-28,Middle Aged,Standard Wait
-627,1072,Kimberly Miller,59,Anna Jennings,Cardiology,Female,Yes,331.48,2025-04-25,2024-04-30,Middle Aged,Moderate Wait
-628,1048,Ashley Black,84,Dennis Murphy,Neurology,Female,No,200.42,2025-05-29,2025-01-29,Elderly,Standard Wait
-629,1063,Stacy Clements,75,Cynthia Dunn,Cardiology,Female,Yes,1.15,2025-06-03,2024-11-09,Elderly,Standard Wait
-630,1028,Michael Heath,88,Benjamin Brown,Cardiology,Unknown,Yes,3.08,2025-10-29,2025-03-22,Elderly,Standard Wait
-631,1025,James Malone,84,Rhonda Oconnor,Neurology,Female,Yes,326.84,2025-09-26,2025-06-16,Elderly,Standard Wait
-632,1046,Christina Moore,64,Joshua Martin,Orthopedics,Unknown,No,605.75,2025-05-31,2024-08-21,Middle Aged,Moderate Wait
-633,1036,Katie Mcdaniel,76,Aaron Perkins,General,Unknown,Yes,136.77,2026-01-10,2025-07-31,Elderly,Standard Wait
-634,1026,Scott Thompson,49,Erika Richards,Neurology,Male,No,508.58,2026-02-14,2025-03-11,Middle Aged,Moderate Wait
-635,1097,Jon Berry,27,Heather Foster,General,Male,Yes,373.11,2025-11-02,2024-04-25,Young Adult,Extreme Wait
-636,1014,Connie Wheeler,29,Sherri Buckley,Neurology,Unknown,No,484.18,2025-12-30,2025-08-08,Young Adult,Standard Wait
-637,1085,Jonathan Howell,63,Darryl Case,Orthopedics,Male,Yes,5.05,2025-08-12,2024-11-03,Middle Aged,Moderate Wait
-638,1005,Michelle King,54,Anthony Hughes,General,Male,No,421.07,2025-05-07,2024-06-22,Middle Aged,Moderate Wait
-639,1089,Kimberly Barnett,69,William Bryan,General,Male,Yes,521.0,2025-10-04,2025-07-31,Elderly,Standard Wait
-640,1092,Abigail Warner,53,Heather Stokes,Orthopedics,Female,Yes,455.91,2025-10-25,2024-05-23,Middle Aged,Extreme Wait
-641,1016,Jocelyn Strickland,22,Vincent Kemp,Cardiology,Male,No,200.42,2025-04-30,2024-07-10,Young Adult,Moderate Wait
-642,1051,Victoria Gilbert,64,April Spears,Cardiology,Female,No,390.1,2025-04-08,2024-07-23,Middle Aged,Moderate Wait
-643,1074,Eugene Underwood,80,Benjamin Williams,Neurology,Male,No,5.61,2025-11-11,2025-05-20,Elderly,Standard Wait
-644,1100,Melanie Lee,31,Andrea Kennedy,Cardiology,Male,No,561.2,2025-10-01,2024-10-25,Young Adult,Moderate Wait
-645,1049,Jessica Murray,20,James Harris,General,Unknown,No,2.21,2025-12-29,2025-06-23,Young Adult,Standard Wait
-646,1069,Monica Jones,18,Cheryl Bailey,Cardiology,Unknown,No,4.37,2025-10-17,2024-05-07,Young Adult,Extreme Wait
-647,1036,Cameron Lopez,44,Christopher Williams,Orthopedics,Female,Yes,163.0,2025-04-27,2024-12-13,Middle Aged,Standard Wait
-648,1042,Dawn Bryant,48,Charles Nguyen,Cardiology,Unknown,Yes,1.97,2025-06-14,2025-03-21,Middle Aged,Standard Wait
-649,1002,Bailey Williamson,88,George Singleton,Cardiology,Female,No,368.53,2025-10-17,2025-05-24,Elderly,Standard Wait
-650,1043,Brandy Estes MD,64,Andrea Lam,Neurology,Male,Yes,303.01,2025-10-26,2024-05-15,Middle Aged,Extreme Wait
-651,1088,Kevin Peters,19,Nancy Wilson,General,Female,No,105.49,2025-07-23,2025-04-28,Young Adult,Standard Wait
-652,1019,David Chapman,66,Rachel Wells,Orthopedics,Female,No,485.99,2025-07-27,2025-07-17,Elderly,Standard Wait
-653,1049,Megan Russell,84,Autumn Hill,Cardiology,Male,Yes,359.17,2025-12-26,2025-08-07,Elderly,Standard Wait
-654,1045,Natalie Marquez,29,Jennifer Paul,Neurology,Female,No,510.01,2025-07-18,2025-03-24,Young Adult,Standard Wait
-655,1076,Sarah Wilson,79,Courtney Foley,Orthopedics,Male,Yes,120.7,2026-02-21,2024-08-08,Elderly,Extreme Wait
-656,1047,Ashley Estes,54,Stephanie Mercer,Cardiology,Unknown,Yes,514.54,2025-06-02,2024-07-31,Middle Aged,Moderate Wait
-657,1068,William Bentley,42,Jacob Mckay,Neurology,Male,Yes,263.3,2025-10-21,2025-03-31,Middle Aged,Standard Wait
-658,1075,Cheryl Rogers,43,Victoria Hansen,General,Male,Yes,478.49,2026-01-12,2025-10-30,Middle Aged,Standard Wait
-659,1017,Erin Bates,50,Chelsea Harris,Cardiology,Male,Yes,370.13,2025-06-13,2025-01-15,Middle Aged,Standard Wait
-660,1068,Aaron Holder,19,Lauren Ayers,General,Male,Yes,4.53,2026-01-26,2024-11-28,Young Adult,Long Wait
-661,1082,Thomas Roman,64,Robert Bass,General,Female,Yes,2.41,2025-09-14,2024-07-15,Middle Aged,Long Wait
-662,1008,Jack Cooper,67,Christopher Smith,General,Female,No,2.93,2025-04-09,2024-06-20,Elderly,Moderate Wait
-663,1022,Christopher Brown,28,Kimberly Johnson,Neurology,Unknown,No,196.19,2026-02-13,2024-06-13,Young Adult,Extreme Wait
-664,1003,Perry Crawford,79,Marvin Hicks,Cardiology,Male,Yes,111.43,2025-11-05,2024-07-22,Elderly,Long Wait
+patient_id_fixed,patient_id,patient_name,age,doctor,department,gender_fixed,follow_up_required_fix,identify_currency,billing_amount_fixed,appointment_date_final,booking_date_final,age_bracket,lead_time_category
+1,1074,Megan Strickland,69,Brandon Lewis,Orthopedics,Female,Yes,EUR,375.24,2025-05-23,2024-06-12,Elderly,Moderate Wait
+2,1067,Amanda Schroeder,79,Deanna Edwards,Neurology,Male,Yes,EUR,221.64,2025-11-30,2024-08-05,Elderly,Long Wait
+3,1072,Anthony Mcpherson,47,Karen Parsons,General,Female,No,INR,1.03,2025-05-18,2024-09-09,Middle Aged,Standard Wait
+4,1057,Joe Sharp,78,Kimberly Fields,General,Unknown,Yes,,200.42,2025-09-26,2025-08-31,Elderly,Standard Wait
+5,1018,Alexander Harris,22,Jim Jones,Cardiology,Female,No,EUR,107.91,2025-10-30,2024-12-29,Young Adult,Moderate Wait
+6,1074,Raymond Williams,57,James Brooks,Neurology,Male,No,INR,4.5,2025-04-23,2025-03-28,Middle Aged,Standard Wait
+7,1041,Dustin Willis,54,Jamie Hill,General,Female,Yes,USD,452.37,2025-08-22,2024-11-07,Middle Aged,Moderate Wait
+8,1011,Tina Gallagher,45,Tiffany Gates MD,Neurology,Male,Yes,EUR,539.52,2026-03-16,2025-12-12,Middle Aged,Standard Wait
+9,1086,Robert Guerrero,54,Shane Brown,Cardiology,Male,Yes,GBP,116.73,2025-04-24,2024-10-07,Middle Aged,Standard Wait
+10,1041,Karen Walker,68,Natalie White,General,Female,Yes,USD,82.88,2026-03-07,2024-04-24,Elderly,Extreme Wait
+11,1057,Chris Rice,61,Amy Olson,Neurology,Unknown,No,INR,3.33,2025-07-31,2024-05-05,Middle Aged,Long Wait
+12,1022,Michael Mack,70,John Larsen II,Orthopedics,Male,Yes,EUR,448.0,2025-09-21,2024-11-06,Elderly,Moderate Wait
+13,1046,Andrea Hubbard,36,Andrea Gates,Cardiology,Female,No,GBP,85.74,2026-03-12,2025-11-08,Young Adult,Standard Wait
+14,1025,Brian Jones,23,Robert Navarro,Orthopedics,Female,Yes,EUR,178.75,2026-02-06,2025-03-09,Young Adult,Moderate Wait
+15,1027,Kelly Olsen,72,Christopher Bryant,Cardiology,Male,Yes,GBP,320.52,2025-08-27,2025-02-13,Elderly,Standard Wait
+16,1059,Andrew Oconnor,66,Christina Hill,Cardiology,Female,Yes,USD,153.07,2025-11-11,2024-12-01,Elderly,Moderate Wait
+17,1033,Paul Brock,76,Kayla Savage,Neurology,Female,Yes,EUR,147.64,2025-11-05,2025-05-23,Elderly,Standard Wait
+18,1069,Jennifer Aguirre,90,Richard Huang,Neurology,Male,No,INR,0.87,2025-10-14,2024-05-28,Elderly,Long Wait
+19,1097,Todd Wilson,56,Rebecca Harrington,Orthopedics,Male,Yes,INR,3.1,2025-05-15,2024-05-05,Middle Aged,Moderate Wait
+20,1064,Jeremiah Cole,88,Louis Turner,General,Female,No,USD,203.61,2026-01-30,2024-08-12,Elderly,Extreme Wait
+21,1089,Vincent Brown,32,Brianna Garcia,Neurology,Female,No,INR,2.83,2025-05-11,2024-07-06,Young Adult,Moderate Wait
+22,1086,Tracy Mcdonald,34,Daniel Gutierrez,Cardiology,Female,Yes,INR,3.51,2025-07-31,2024-04-09,Young Adult,Long Wait
+23,1073,Phillip Simpson,88,Darren Brooks,General,Unknown,Yes,USD,51.72,2025-06-27,2025-05-06,Elderly,Standard Wait
+24,1084,Cynthia Hensley,86,David Robles,Neurology,Male,Yes,INR,1.92,2026-03-08,2024-07-09,Elderly,Extreme Wait
+25,1030,Patrick Saunders,18,Casey Wagner,Orthopedics,Male,No,INR,2.51,2025-09-11,2024-10-05,Young Adult,Moderate Wait
+26,1043,Angel Kelly,82,Stephanie Taylor,General,Female,No,INR,5.12,2025-12-15,2025-07-21,Elderly,Standard Wait
+27,1056,Heather Baker,67,Andrew Thomas,Orthopedics,Female,Yes,GBP,273.44,2025-09-13,2025-01-07,Elderly,Standard Wait
+28,1041,Nicole Shaw,20,Mr. Brian Morton,Neurology,Male,Yes,,200.42,2025-05-07,2025-01-19,Young Adult,Standard Wait
+29,1071,Michele Park,46,Robert Sparks,General,Unknown,No,GBP,503.2,2026-01-10,2024-11-01,Middle Aged,Long Wait
+30,1051,Leslie Silva,26,Thomas Brandt,Orthopedics,Male,Yes,USD,340.25,2025-06-07,2024-12-09,Young Adult,Standard Wait
+31,1001,Melanie Gibson,50,Alison Stanton,Orthopedics,Male,Yes,USD,268.14,2025-08-17,2024-09-23,Middle Aged,Moderate Wait
+32,1060,Amanda Jones,61,Christopher Morris,General,Unknown,Yes,EUR,544.73,2025-11-19,2024-04-28,Middle Aged,Extreme Wait
+33,1069,Michael Levine,72,Janet Ray,Neurology,Unknown,Yes,GBP,270.95,2025-08-11,2024-04-01,Elderly,Long Wait
+34,1095,Loretta Richardson,29,Shane Jackson,Neurology,Unknown,Yes,INR,1.44,2025-08-22,2025-04-25,Young Adult,Standard Wait
+35,1005,Kathleen Jones,49,Diana Baker,Cardiology,Unknown,No,INR,1.63,2025-06-12,2024-08-11,Middle Aged,Moderate Wait
+36,1001,Michael Allen,64,Brian Osborne DVM,Orthopedics,Female,No,EUR,233.74,2025-07-29,2024-06-08,Middle Aged,Long Wait
+37,1024,Kari Jackson,34,Jeremiah Rose,Orthopedics,Female,No,INR,4.51,2025-10-01,2024-10-13,Young Adult,Moderate Wait
+38,1040,Regina Wilson,26,Jenny Zuniga,Cardiology,Male,Yes,INR,2.23,2025-08-14,2024-06-03,Young Adult,Long Wait
+39,1042,Samantha Mosley,30,Thomas Thomas,Neurology,Unknown,Yes,EUR,218.01,2025-12-05,2024-09-03,Young Adult,Long Wait
+40,1068,Vanessa Jones,63,Courtney Knight,Orthopedics,Female,Yes,USD,169.25,2025-11-09,2025-09-10,Middle Aged,Standard Wait
+41,1009,Adam Sanders,63,Patrick Floyd,General,Male,Yes,USD,466.97,2025-08-08,2025-05-24,Middle Aged,Standard Wait
+42,1078,Edward Perry,54,James Miller,General,Unknown,No,INR,5.81,2025-12-09,2025-07-12,Middle Aged,Standard Wait
+43,1019,Bonnie Boone,35,Lorraine Figueroa,Orthopedics,Female,Yes,EUR,124.75,2025-11-24,2024-11-05,Young Adult,Moderate Wait
+44,1077,Jennifer Stark,34,Jason Williams,Neurology,Unknown,No,INR,3.24,2025-06-29,2024-12-04,Young Adult,Standard Wait
+45,1063,Jordan Camacho Jr.,21,Alexis Carter,Neurology,Male,Yes,USD,186.24,2025-11-12,2025-06-30,Young Adult,Standard Wait
+46,1015,Elizabeth Bryant,37,Rebecca Kim,Orthopedics,Unknown,No,INR,5.11,2025-07-19,2024-06-10,Young Adult,Long Wait
+47,1010,Richard Woodard,38,Whitney Hoffman,Orthopedics,Female,No,EUR,99.48,2026-02-11,2025-09-28,Young Adult,Standard Wait
+48,1034,Chad Reed,68,Jennifer Adams,Neurology,Male,No,GBP,575.39,2025-07-05,2025-01-23,Elderly,Standard Wait
+49,1095,Jessica Heath,86,Sherri Long,Cardiology,Unknown,Yes,EUR,66.89,2025-06-25,2024-04-24,Elderly,Long Wait
+50,1070,Clayton Williamson,85,Glen Diaz,Neurology,Unknown,No,USD,185.52,2025-09-10,2024-08-20,Elderly,Moderate Wait
+51,1099,Timothy Walter,28,Miss Julie Rodriguez,Neurology,Female,Yes,GBP,142.85,2025-07-21,2025-07-14,Young Adult,Standard Wait
+52,1022,Katelyn Miller,23,Andrea Cruz,Orthopedics,Female,Yes,USD,382.34,2026-02-19,2024-09-16,Young Adult,Extreme Wait
+53,1095,Elizabeth Decker,86,Brandi Hale,Orthopedics,Female,Yes,INR,2.02,2025-10-22,2025-07-19,Elderly,Standard Wait
+54,1061,Jessica Smith,66,Crystal Mack,Neurology,Female,Yes,,200.42,2025-08-20,2025-03-08,Elderly,Standard Wait
+55,1074,Luke Price,23,Virginia Lang,Orthopedics,Unknown,Yes,INR,3.12,2025-12-13,2025-06-18,Young Adult,Standard Wait
+56,1047,Pamela Brown,40,Melinda Duncan,Orthopedics,Male,Yes,USD,247.13,2026-02-25,2025-06-01,Middle Aged,Moderate Wait
+57,1093,Craig Nixon,55,William Key,Neurology,Unknown,No,GBP,433.31,2025-10-12,2025-08-20,Middle Aged,Standard Wait
+58,1044,Justin Caldwell,57,Ronnie Miller,Orthopedics,Unknown,No,INR,4.6,2025-05-09,2024-12-18,Middle Aged,Standard Wait
+59,1050,Cassandra Collins,60,Mark Lutz,General,Unknown,Yes,EUR,265.72,2025-10-03,2025-08-26,Middle Aged,Standard Wait
+60,1100,Adam Torres,58,Daniel Le,Neurology,Male,No,INR,3.95,2025-07-03,2024-08-25,Middle Aged,Moderate Wait
+61,1088,Chelsey Moore,34,Randy Garrett,Cardiology,Female,Yes,GBP,437.59,2025-10-12,2025-01-15,Young Adult,Moderate Wait
+62,1040,Chelsea Burns,62,Michael Morales,Cardiology,Unknown,Yes,INR,2.32,2025-12-29,2024-05-13,Middle Aged,Extreme Wait
+63,1099,Ryan Miller,31,Alexa Peterson,Orthopedics,Male,Yes,INR,3.12,2025-07-11,2025-03-19,Young Adult,Standard Wait
+64,1070,Jared Green,28,Brenda Castro,Neurology,Female,No,EUR,256.9,2025-10-08,2025-05-10,Young Adult,Standard Wait
+65,1058,Traci Chandler,18,Tyler Carter,General,Female,No,EUR,467.34,2026-02-04,2024-12-10,Young Adult,Long Wait
+66,1018,Angela Watkins,34,Kyle Russell,Cardiology,Female,No,GBP,138.82,2025-12-25,2024-09-12,Young Adult,Long Wait
+67,1052,Keith Becker,60,Kristopher Collier,General,Female,Yes,,200.42,2025-11-07,2024-08-28,Middle Aged,Long Wait
+68,1028,Hannah Perez,21,Rita Smith,Neurology,Female,No,GBP,142.14,2025-11-07,2025-07-27,Young Adult,Standard Wait
+69,1092,Tina Lewis,40,Derrick Salazar,Neurology,Female,Yes,GBP,75.78,2026-02-10,2025-12-18,Middle Aged,Standard Wait
+70,1088,Sarah Hahn,60,Theresa Lee,General,Unknown,Yes,INR,1.48,2026-03-19,2024-10-18,Middle Aged,Extreme Wait
+71,1078,Megan Mitchell,69,Desiree Giles,Orthopedics,Unknown,No,EUR,382.78,2025-11-27,2024-05-18,Elderly,Extreme Wait
+72,1062,John Anderson,60,Paul Blackburn,Cardiology,Male,No,EUR,276.23,2026-01-27,2026-01-18,Middle Aged,Standard Wait
+73,1015,Chelsea Matthews,68,Elizabeth Obrien,Orthopedics,Female,Yes,EUR,392.16,2025-12-07,2025-03-24,Elderly,Standard Wait
+74,1018,Monica Horton,53,Kayla Stein,Neurology,Unknown,Yes,USD,277.21,2025-10-11,2024-03-30,Middle Aged,Extreme Wait
+75,1061,Joanna Tucker,18,Andrew Gray,Neurology,Male,No,GBP,107.56,2026-03-22,2024-10-05,Young Adult,Extreme Wait
+76,1013,Dr. Peggy Mendoza,60,Ashley Flowers,Neurology,Unknown,Yes,EUR,105.66,2025-04-12,2025-01-23,Middle Aged,Standard Wait
+77,1090,Daniel Rivera,63,Morgan Green,Neurology,Female,Yes,INR,1.87,2025-12-28,2025-12-22,Middle Aged,Standard Wait
+78,1086,Harry Wallace,80,Nancy Hernandez,Orthopedics,Female,Yes,USD,493.0,2025-12-01,2024-10-28,Elderly,Long Wait
+79,1014,Melissa Lane,81,Vanessa Pittman,Cardiology,Female,No,EUR,133.63,2025-06-01,2024-08-19,Elderly,Moderate Wait
+80,1047,Olivia Lambert,38,Melanie Blanchard,Cardiology,Male,Yes,GBP,127.43,2025-12-15,2024-12-25,Young Adult,Moderate Wait
+81,1073,Russell Taylor,38,Breanna Gray,Orthopedics,Unknown,No,INR,4.02,2025-11-29,2025-07-11,Young Adult,Standard Wait
+82,1093,Joshua Sanchez DDS,79,George Flores,Orthopedics,Female,Yes,GBP,195.95,2025-03-29,2024-06-27,Elderly,Moderate Wait
+83,1043,Matthew Rivera,31,Theodore Bean,Orthopedics,Unknown,No,EUR,278.84,2025-07-03,2025-04-26,Young Adult,Standard Wait
+84,1081,Benjamin Jenkins,86,Michael Bond,General,Unknown,No,EUR,281.35,2025-07-23,2025-04-22,Elderly,Standard Wait
+85,1053,John Johnson,81,Steve Bush,General,Unknown,No,USD,162.94,2025-04-23,2024-12-30,Elderly,Standard Wait
+86,1035,Martha Zavala,58,Penny Freeman,Cardiology,Male,Yes,GBP,194.37,2026-01-23,2024-04-14,Middle Aged,Extreme Wait
+87,1036,Daniel Ballard,38,Willie Williams,Cardiology,Unknown,No,GBP,145.59,2025-03-26,2025-03-02,Young Adult,Standard Wait
+88,1058,Timothy Osborne,83,Christopher Ferguson,Neurology,Female,Yes,GBP,273.63,2025-12-18,2025-04-21,Elderly,Standard Wait
+89,1033,Patricia King,68,Jennifer Adams,General,Male,Yes,USD,468.06,2025-10-28,2024-10-16,Elderly,Moderate Wait
+90,1045,Sheri Kline,55,Jennifer Russell,General,Female,Yes,GBP,478.97,2026-01-02,2024-04-11,Middle Aged,Extreme Wait
+91,1087,Troy White,80,Cindy Cox,Neurology,Unknown,No,USD,87.2,2026-01-07,2024-05-26,Elderly,Extreme Wait
+92,1020,Tim Flowers,31,Kimberly Henson,Neurology,Unknown,Yes,INR,1.68,2025-09-29,2024-11-04,Young Adult,Moderate Wait
+93,1089,Gregory Garcia,73,Megan Jensen,Cardiology,Female,No,USD,466.08,2025-05-01,2024-07-25,Elderly,Moderate Wait
+94,1005,Max Martinez,63,Joshua Sellers,Cardiology,Unknown,Yes,INR,4.22,2025-09-21,2024-11-05,Middle Aged,Moderate Wait
+95,1031,Paul Hinton,49,Lindsey Fitzpatrick,Neurology,Female,No,USD,461.19,2026-01-02,2025-11-29,Middle Aged,Standard Wait
+96,1069,Thomas Landry,60,Brandon Moore,General,Unknown,No,,200.42,2025-09-03,2025-08-01,Middle Aged,Standard Wait
+97,1073,Joseph Irwin,29,Jacob Kerr,General,Male,Yes,GBP,262.56,2025-07-27,2025-06-08,Young Adult,Standard Wait
+98,1040,Corey Smith,52,Luke Williams,Cardiology,Male,No,USD,130.7,2025-05-18,2025-02-15,Middle Aged,Standard Wait
+99,1047,John Campbell,67,Tanya Baxter,Orthopedics,Unknown,No,,200.42,2026-02-10,2024-06-21,Elderly,Extreme Wait
+100,1021,Craig Hunt,38,Cynthia Brown,Neurology,Female,Yes,USD,122.56,2025-11-01,2024-05-25,Young Adult,Extreme Wait
+101,1097,Dr. Lindsey Arias DDS,48,Colton Williams,Cardiology,Unknown,No,EUR,100.14,2025-09-14,2024-11-28,Middle Aged,Moderate Wait
+102,1028,Timothy Matthews,56,Brandy Sutton,Orthopedics,Male,No,EUR,529.2,2025-10-30,2024-05-18,Middle Aged,Extreme Wait
+103,1002,Jeffrey Bates,87,Lisa Ho,Cardiology,Male,Yes,USD,401.55,2025-04-08,2024-12-04,Elderly,Standard Wait
+104,1026,Kelly Mcknight,87,Jerry Lopez,Neurology,Unknown,Yes,GBP,185.67,2026-02-03,2025-07-12,Elderly,Standard Wait
+105,1100,Jamie Wright,62,Lori Hall,Orthopedics,Unknown,Yes,EUR,230.19,2025-04-03,2025-03-18,Middle Aged,Standard Wait
+106,1008,Michael Walsh,69,Tammy Watts,Neurology,Unknown,Yes,GBP,148.77,2025-05-08,2025-01-24,Elderly,Standard Wait
+107,1078,Caroline Reed,54,Eric Kelly,Neurology,Unknown,No,INR,5.21,2025-07-29,2024-06-06,Middle Aged,Long Wait
+108,1038,Jennifer Wells,79,David Cole,Orthopedics,Female,No,USD,82.84,2025-05-13,2024-09-02,Elderly,Standard Wait
+109,1082,Gary Walker,87,Matthew Lopez,Orthopedics,Unknown,Yes,INR,2.59,2025-03-26,2024-03-26,Elderly,Moderate Wait
+110,1028,Michelle Johnson,24,Jennifer Brooks,General,Male,Yes,EUR,537.35,2025-12-19,2025-07-01,Young Adult,Standard Wait
+111,1048,Malik Robinson,77,Amber Little,General,Female,No,INR,3.37,2025-10-21,2024-07-18,Elderly,Long Wait
+112,1035,Michael Glenn,60,Robert Martinez,Cardiology,Unknown,No,USD,99.19,2025-11-13,2025-06-23,Middle Aged,Standard Wait
+113,1010,Anthony Cortez,57,Derrick Cook,General,Male,Yes,USD,225.83,2025-05-25,2025-03-28,Middle Aged,Standard Wait
+114,1043,Daniel Cole,69,Dustin Jones,Cardiology,Male,Yes,USD,458.12,2025-05-06,2024-09-28,Elderly,Standard Wait
+115,1083,Matthew Lloyd,58,Timothy Morgan,Cardiology,Male,No,EUR,266.81,2026-01-17,2025-07-21,Middle Aged,Standard Wait
+116,1046,Stephanie Cisneros,50,Rachel Richards,Orthopedics,Female,Yes,GBP,124.64,2025-12-03,2024-08-02,Middle Aged,Long Wait
+117,1084,Troy Taylor,52,Jason Gill,General,Unknown,Yes,GBP,590.16,2025-12-28,2025-02-24,Middle Aged,Moderate Wait
+118,1006,Charles Cruz,54,Jessica Sawyer,Orthopedics,Female,No,GBP,116.4,2026-01-27,2024-09-01,Middle Aged,Extreme Wait
+119,1015,Brenda Ward,43,Tonya Smith,Neurology,Unknown,Yes,INR,5.11,2025-11-26,2025-08-25,Middle Aged,Standard Wait
+120,1091,David Martinez,80,Amber Braun,Cardiology,Male,Yes,,200.42,2025-09-13,2025-07-07,Elderly,Standard Wait
+121,1033,Carl Sanchez,87,Christina Price,Orthopedics,Female,No,USD,446.06,2025-04-06,2024-08-02,Elderly,Standard Wait
+122,1010,Lucas Ray,21,Carrie Larsen,Neurology,Female,Yes,GBP,176.01,2026-02-12,2025-02-07,Young Adult,Moderate Wait
+123,1096,Dwayne Clarke,42,Andrew Meadows,Neurology,Male,No,EUR,164.52,2025-08-12,2024-09-08,Middle Aged,Moderate Wait
+124,1002,Dr. Michele Copeland,35,Debra Castillo,Neurology,Unknown,Yes,EUR,204.14,2025-09-25,2024-05-24,Young Adult,Long Wait
+125,1077,Bradley Fuller,83,John Yang,General,Male,Yes,INR,0.84,2025-05-13,2025-02-28,Elderly,Standard Wait
+126,1026,Miss Crystal Davis DDS,25,Christopher Hayes,General,Female,Yes,GBP,623.0,2025-07-07,2024-06-06,Young Adult,Long Wait
+127,1052,Kara White,59,Kyle Dawson,Orthopedics,Unknown,No,EUR,344.05,2026-03-14,2025-01-26,Middle Aged,Long Wait
+128,1068,Judy Nguyen,29,Michelle Ortega,General,Male,Yes,USD,429.14,2025-05-27,2024-10-23,Young Adult,Standard Wait
+129,1013,Sandra Murphy,25,Shelby Brown,Orthopedics,Male,No,INR,1.12,2025-11-01,2024-07-29,Young Adult,Long Wait
+130,1024,Debra Ford,33,Allison Smith,Orthopedics,Unknown,Yes,GBP,586.5,2026-02-22,2025-09-19,Young Adult,Standard Wait
+131,1033,Michelle Harris,56,Matthew Garrett,Orthopedics,Unknown,Yes,EUR,142.48,2025-11-07,2024-12-06,Middle Aged,Moderate Wait
+132,1067,Ariel Davis,85,Jason Gallagher,Orthopedics,Male,Yes,INR,1.03,2025-10-25,2025-02-21,Elderly,Standard Wait
+133,1045,Anna Garrett,24,Alice Lucas,Neurology,Female,Yes,EUR,430.44,2025-05-30,2025-03-20,Young Adult,Standard Wait
+134,1087,Kimberly Guzman,31,Kristin Reeves,General,Unknown,Yes,,200.42,2025-11-18,2025-04-02,Young Adult,Standard Wait
+135,1056,Terry Miller,24,John Lyons,General,Female,Yes,,200.42,2025-04-22,2025-03-24,Young Adult,Standard Wait
+136,1053,Marissa Davidson,81,Philip Davis,Cardiology,Female,Yes,GBP,634.58,2025-04-13,2024-12-03,Elderly,Standard Wait
+137,1059,Emma Martin,79,Charles Mcmillan,Orthopedics,Male,Yes,EUR,72.64,2025-08-24,2025-08-21,Elderly,Standard Wait
+138,1050,William Lewis,32,Wesley Johnson,Orthopedics,Male,Yes,INR,4.34,2025-04-04,2024-05-16,Young Adult,Moderate Wait
+139,1044,Robert Mclaughlin,21,Shannon Mejia,Orthopedics,Female,No,GBP,260.74,2025-06-22,2024-06-09,Young Adult,Moderate Wait
+140,1074,David Kidd,23,Kathy Thompson,Orthopedics,Male,No,GBP,408.1,2025-11-23,2025-09-10,Young Adult,Standard Wait
+141,1026,Brandon Martin,87,John Miller,Neurology,Unknown,Yes,USD,446.44,2026-02-06,2024-08-11,Elderly,Extreme Wait
+142,1059,Amanda Martinez,27,Gary Bowman,General,Unknown,Yes,USD,165.8,2025-08-23,2024-11-12,Young Adult,Moderate Wait
+143,1085,Clinton Estrada,75,Jacob Bender,Orthopedics,Male,Yes,,200.42,2025-11-06,2024-10-14,Elderly,Moderate Wait
+144,1024,Maria Douglas,86,Daniel Evans,Orthopedics,Unknown,Yes,EUR,533.71,2026-02-17,2026-01-15,Elderly,Standard Wait
+145,1048,Walter Webb,33,Dale Herrera,Neurology,Unknown,Yes,,200.42,2025-09-26,2024-09-03,Young Adult,Moderate Wait
+146,1069,Megan Avery,73,Michael Arroyo Jr.,General,Female,Yes,USD,96.48,2026-01-08,2024-08-13,Elderly,Extreme Wait
+147,1071,Brianna Morris,73,Gregory West DDS,Orthopedics,Unknown,Yes,EUR,460.84,2025-11-03,2024-04-26,Elderly,Extreme Wait
+148,1076,Judy Avila,21,Morgan Ramos,Orthopedics,Female,Yes,INR,3.97,2025-10-19,2025-08-02,Young Adult,Standard Wait
+149,1057,Erika Davis,28,Allison Parker,Neurology,Unknown,No,GBP,559.71,2025-06-08,2025-06-06,Young Adult,Standard Wait
+150,1029,Jeffrey Solis,49,William Nichols,Neurology,Female,Yes,EUR,312.86,2025-05-15,2025-04-09,Middle Aged,Standard Wait
+151,1049,Scott Graves,65,Marie Clark,General,Male,Yes,EUR,533.01,2026-01-10,2026-01-06,Elderly,Standard Wait
+152,1049,Ellen Fitzpatrick,59,Grant Parker,Neurology,Male,No,GBP,255.51,2025-11-14,2025-04-23,Middle Aged,Standard Wait
+153,1076,Mark Harrison,24,Jennifer Hernandez,Orthopedics,Female,Yes,EUR,169.44,2025-10-06,2024-06-13,Young Adult,Long Wait
+154,1091,Richard Wagner,20,Christopher Sherman,General,Male,Yes,EUR,294.81,2025-12-06,2025-11-25,Young Adult,Standard Wait
+155,1099,Eric Coffey,23,Jeffrey Burns,Cardiology,Unknown,No,INR,3.41,2025-08-28,2024-09-04,Young Adult,Moderate Wait
+156,1098,Tony Gibbs,39,Brandon Morris,General,Unknown,No,EUR,386.25,2025-11-01,2024-10-13,Young Adult,Moderate Wait
+157,1060,Stephanie Bryant,32,Sara Booth,Orthopedics,Unknown,Yes,GBP,574.92,2026-01-02,2025-02-18,Young Adult,Moderate Wait
+158,1031,Robert Jimenez,23,Tony Randall,Cardiology,Male,Yes,EUR,491.44,2026-03-06,2024-07-20,Young Adult,Extreme Wait
+159,1018,Chris Wells,71,Crystal Medina,Neurology,Male,Yes,INR,1.59,2025-05-17,2024-12-25,Elderly,Standard Wait
+160,1038,Alicia Davis,19,John Gonzalez,Cardiology,Unknown,No,EUR,323.4,2025-03-31,2024-10-27,Young Adult,Standard Wait
+161,1067,Dr. John Hernandez,33,Michelle Austin,General,Unknown,No,USD,409.96,2025-12-29,2024-05-29,Young Adult,Extreme Wait
+162,1097,Vanessa Allen,52,Amy Chavez,Neurology,Male,Yes,INR,2.93,2026-01-09,2025-08-06,Middle Aged,Standard Wait
+163,1056,Virginia Flores,70,Leonard Macias,General,Female,Yes,USD,364.83,2025-12-26,2025-08-13,Elderly,Standard Wait
+164,1031,Kayla Berger,29,Todd Oconnor,Orthopedics,Female,Yes,,200.42,2025-08-05,2024-09-27,Young Adult,Moderate Wait
+165,1035,Brian White,80,Rachel Howell,Neurology,Male,Yes,EUR,422.46,2025-08-03,2025-04-03,Elderly,Standard Wait
+166,1079,Dale Fisher,24,Dr. Heidi Johnson,Cardiology,Male,No,INR,4.32,2026-01-16,2024-04-20,Young Adult,Extreme Wait
+167,1021,Christopher Miller,51,Christine Arnold,General,Male,No,EUR,519.12,2025-12-27,2025-01-11,Middle Aged,Moderate Wait
+168,1089,Brian Davis,72,Michelle Smith,Neurology,Female,Yes,GBP,610.55,2025-12-26,2024-08-05,Elderly,Extreme Wait
+169,1026,Christine Vega,80,Jordan Cole,General,Male,Yes,INR,3.61,2025-04-27,2025-03-23,Elderly,Standard Wait
+170,1060,Haley Taylor,51,Christopher Wolfe,General,Female,Yes,INR,5.2,2025-07-06,2025-04-18,Middle Aged,Standard Wait
+171,1022,Linda Nicholson,24,Melissa Daniels,Neurology,Female,Yes,USD,425.91,2025-08-19,2025-05-10,Young Adult,Standard Wait
+172,1089,Carolyn Jacobson,47,Katrina Johnston,Cardiology,Female,No,GBP,464.02,2026-02-11,2025-02-14,Middle Aged,Moderate Wait
+173,1016,Joseph Banks,36,Susan Kelley,Neurology,Female,No,USD,108.6,2025-12-05,2024-06-15,Young Adult,Extreme Wait
+174,1045,Brad West,34,Samuel Stone,Cardiology,Female,No,GBP,577.91,2025-05-14,2024-05-19,Young Adult,Moderate Wait
+175,1036,Kelsey Johnson,29,Mallory Torres,Neurology,Unknown,No,GBP,335.85,2026-01-28,2024-12-03,Young Adult,Long Wait
+176,1031,Jared Parrish,42,Wendy Herrera,Orthopedics,Female,No,INR,1.59,2025-08-05,2025-07-27,Middle Aged,Standard Wait
+177,1097,Megan Murphy,35,Kevin Coleman,Cardiology,Unknown,No,INR,4.31,2025-04-19,2025-04-11,Young Adult,Standard Wait
+178,1058,Mark Bowers,19,Antonio Bryant,Neurology,Unknown,Yes,USD,116.69,2025-05-11,2025-04-02,Young Adult,Standard Wait
+179,1049,Robert Montoya,79,Gregg Bennett,Neurology,Unknown,No,,200.42,2025-12-06,2024-09-09,Elderly,Long Wait
+180,1068,Robert Torres,61,Kyle Phillips,Neurology,Male,No,USD,129.48,2025-10-20,2025-08-07,Middle Aged,Standard Wait
+181,1015,Mason Morgan,53,James Cobb,General,Male,No,INR,3.59,2025-04-21,2024-08-25,Middle Aged,Standard Wait
+182,1090,Jeffrey Hart,70,Jacob Townsend,Orthopedics,Female,Yes,INR,5.52,2025-12-09,2024-11-16,Elderly,Moderate Wait
+183,1088,Amy King,49,Peter Wells,General,Female,Yes,GBP,306.68,2025-09-15,2025-01-30,Middle Aged,Standard Wait
+184,1034,Lisa Fisher,44,Karen Martin,Neurology,Unknown,Yes,USD,417.38,2025-07-16,2025-06-12,Middle Aged,Standard Wait
+185,1070,Donna Jenkins,68,Rachel Allen,General,Female,Yes,INR,4.69,2025-05-30,2024-05-14,Elderly,Moderate Wait
+186,1032,Matthew Cox,88,Alexander Horton,General,Male,No,INR,1.2,2026-01-22,2024-04-07,Elderly,Extreme Wait
+187,1036,Melissa Berry MD,75,Kathryn Hooper,Cardiology,Unknown,No,GBP,587.97,2026-02-23,2024-10-16,Elderly,Long Wait
+188,1071,Jose Bryant,49,Ryan Lopez,Orthopedics,Male,No,GBP,445.02,2025-05-24,2024-12-10,Middle Aged,Standard Wait
+189,1054,Thomas Smith,82,Kenneth Turner,Cardiology,Unknown,Yes,INR,4.71,2025-11-23,2024-12-07,Elderly,Moderate Wait
+190,1054,Jason Harrington,62,Stacey Miller,Orthopedics,Male,No,,200.42,2026-01-16,2025-07-14,Middle Aged,Standard Wait
+191,1027,Adam Shelton,83,Mary Thompson,Neurology,Unknown,Yes,USD,225.1,2025-06-26,2025-06-12,Elderly,Standard Wait
+192,1027,Jamie Aguilar,77,Michael Duke,Cardiology,Female,Yes,EUR,436.01,2025-09-19,2024-08-20,Elderly,Moderate Wait
+193,1026,Alyssa Lucas,47,Daniel Ryan,Neurology,Female,Yes,USD,400.52,2026-01-06,2024-10-11,Middle Aged,Long Wait
+194,1039,Donna Clark,40,Joanne Adams,Cardiology,Unknown,Yes,EUR,168.6,2025-09-03,2024-04-08,Middle Aged,Extreme Wait
+195,1059,Michael White,32,Seth Ramirez,General,Male,Yes,USD,300.71,2026-03-11,2025-07-23,Young Adult,Standard Wait
+196,1043,Jessica Johnson,66,Kevin Weaver,Neurology,Unknown,Yes,GBP,211.57,2025-11-22,2025-09-07,Elderly,Standard Wait
+197,1040,Jodi Floyd,35,Brett Arnold,General,Male,No,INR,5.5,2025-08-19,2025-06-15,Young Adult,Standard Wait
+198,1003,Stephen Butler,81,Shannon Martinez,Neurology,Female,Yes,GBP,266.28,2025-05-22,2024-04-15,Elderly,Long Wait
+199,1054,Jennifer Martin,30,Jeffery Smith,General,Male,No,GBP,304.03,2026-02-22,2025-07-04,Young Adult,Standard Wait
+200,1003,Janet Gordon,41,Michelle Johnson,General,Unknown,No,INR,4.78,2025-05-14,2024-04-05,Middle Aged,Long Wait
+201,1011,Susan Bautista,54,Michael Schmidt,Orthopedics,Unknown,No,EUR,355.19,2026-02-13,2024-11-06,Middle Aged,Long Wait
+202,1029,Steve Ramirez,30,Michelle Jones,Orthopedics,Female,No,USD,451.11,2025-07-19,2025-05-12,Young Adult,Standard Wait
+203,1051,Kristine Logan,53,Regina Cox,Neurology,Unknown,No,GBP,528.82,2025-06-29,2024-09-13,Middle Aged,Moderate Wait
+204,1041,Janet Lewis,65,Gregory Neal,Neurology,Unknown,No,EUR,330.73,2025-10-28,2025-08-18,Elderly,Standard Wait
+205,1054,Robert Mason,78,Steven Mercer,Neurology,Male,No,USD,370.37,2025-12-25,2024-12-13,Elderly,Moderate Wait
+206,1006,Rachel Nguyen,63,John Wolf,Neurology,Male,No,INR,5.0,2025-12-13,2025-03-05,Middle Aged,Moderate Wait
+207,1076,John Nguyen,23,David Robertson,General,Male,No,,200.42,2025-10-05,2025-03-20,Young Adult,Standard Wait
+208,1054,Jennifer Stevens,70,Joseph Park,Cardiology,Unknown,Yes,GBP,293.6,2025-11-03,2025-06-16,Elderly,Standard Wait
+209,1015,Ashley Daniels,50,Robert Davies,Neurology,Unknown,Yes,USD,63.38,2025-08-25,2024-06-18,Middle Aged,Long Wait
+210,1014,Dana Park,79,Christopher Garrett,Neurology,Unknown,Yes,INR,4.1,2026-01-28,2024-04-03,Elderly,Extreme Wait
+211,1088,Michael Short,83,Charles Hess,Orthopedics,Male,Yes,USD,483.19,2026-01-03,2024-12-21,Elderly,Moderate Wait
+212,1034,Anthony Mitchell,37,Theresa Osborne,Neurology,Unknown,No,EUR,404.92,2025-10-09,2025-04-05,Young Adult,Standard Wait
+213,1020,Jamie Peck,40,Lisa Garcia,Neurology,Female,No,EUR,443.01,2026-01-14,2025-11-13,Middle Aged,Standard Wait
+214,1074,Denise Anderson,51,Timothy Beasley,General,Male,No,GBP,479.87,2025-12-28,2025-04-17,Middle Aged,Standard Wait
+215,1043,Dustin Perry,38,Adam Moore,Neurology,Male,No,USD,424.21,2026-01-25,2024-04-09,Young Adult,Extreme Wait
+216,1095,Shawn Tucker,84,Melissa Schmidt,Orthopedics,Female,Yes,EUR,281.63,2026-02-15,2025-11-21,Elderly,Standard Wait
+217,1080,Rachel Russo,40,Christine Wilson,Orthopedics,Unknown,Yes,INR,4.39,2025-08-27,2025-07-13,Middle Aged,Standard Wait
+218,1082,Dana Martinez,89,Barry Bennett,Cardiology,Unknown,No,INR,5.6,2025-03-27,2024-12-16,Elderly,Standard Wait
+219,1058,Shane Fowler,57,Kimberly Douglas,Neurology,Unknown,Yes,GBP,145.63,2025-10-30,2024-08-27,Middle Aged,Long Wait
+220,1016,Rita Joyce,78,Diana Neal,Neurology,Female,Yes,INR,1.11,2025-05-21,2024-08-18,Elderly,Moderate Wait
+221,1098,Kimberly Meyer,35,Christopher Perez,Orthopedics,Unknown,No,INR,5.3,2025-12-17,2024-04-27,Young Adult,Extreme Wait
+222,1038,April Braun,57,Jacob Mendoza,Neurology,Female,Yes,INR,1.33,2025-04-29,2024-04-16,Middle Aged,Moderate Wait
+223,1020,Scott Bishop,76,Dylan Gibson,General,Female,No,EUR,442.38,2025-05-30,2024-07-27,Elderly,Moderate Wait
+224,1031,Randy Austin,40,Dr. Deborah Fitzgerald,Neurology,Unknown,No,USD,364.33,2026-02-12,2024-04-12,Middle Aged,Extreme Wait
+225,1006,Anthony Martin,54,Alex Richards,Neurology,Female,No,INR,1.44,2025-06-18,2024-11-06,Middle Aged,Standard Wait
+226,1084,Daniel Willis,53,Megan Austin,Neurology,Female,Yes,INR,2.82,2025-11-05,2025-08-01,Middle Aged,Standard Wait
+227,1025,Shawn Moore,55,Rebecca Ward,General,Female,No,INR,3.8,2025-11-15,2024-07-06,Middle Aged,Long Wait
+228,1015,Nicole Evans,86,Ashley Cuevas,Cardiology,Female,Yes,INR,5.51,2025-08-13,2024-09-21,Elderly,Moderate Wait
+229,1065,Samantha Wallace,76,Charles Jackson,Orthopedics,Male,Yes,INR,1.75,2025-06-28,2024-12-22,Elderly,Standard Wait
+230,1045,Jared Butler,38,Jason Morales,General,Male,Yes,EUR,265.72,2025-08-19,2025-06-09,Young Adult,Standard Wait
+231,1050,Tracey Beck,81,Logan Cooper,Cardiology,Male,Yes,USD,184.28,2025-05-27,2024-09-20,Elderly,Standard Wait
+232,1058,Brianna Mcpherson,90,Nathaniel Thompson,General,Male,Yes,GBP,139.2,2025-05-13,2024-06-17,Elderly,Moderate Wait
+233,1047,Ray Mcbride,87,Natalie Turner,General,Female,No,USD,135.41,2025-10-06,2024-12-02,Elderly,Moderate Wait
+234,1095,Nicholas Kelly,53,Paula Freeman,Cardiology,Female,Yes,,200.42,2026-03-23,2025-04-02,Middle Aged,Moderate Wait
+235,1098,Anne Jones DVM,48,Linda French,General,Female,Yes,USD,296.43,2026-01-05,2025-05-30,Middle Aged,Standard Wait
+236,1066,Andrea Mendez,33,Joshua Reed,General,Male,No,USD,233.98,2025-07-02,2024-08-14,Young Adult,Moderate Wait
+237,1014,Jennifer Schwartz,90,Mrs. Michelle Ramsey,Orthopedics,Unknown,No,EUR,517.03,2026-02-12,2024-08-14,Elderly,Extreme Wait
+238,1033,Michele Green,48,Nancy Hernandez,Orthopedics,Unknown,No,INR,1.06,2025-06-30,2025-01-24,Middle Aged,Standard Wait
+239,1095,Summer Bishop,37,Cynthia Green,Cardiology,Unknown,Yes,,200.42,2025-10-21,2025-08-07,Young Adult,Standard Wait
+240,1036,Daniel Braun,27,Tonya Kennedy,Cardiology,Male,Yes,EUR,275.09,2026-03-20,2026-02-09,Young Adult,Standard Wait
+241,1082,Kyle Jones,29,Cheryl Mullins,Neurology,Male,No,USD,366.49,2025-11-01,2025-03-17,Young Adult,Standard Wait
+242,1063,Erin Baker,36,Carla King,General,Male,Yes,INR,2.87,2025-10-02,2025-09-12,Young Adult,Standard Wait
+243,1003,Cheryl Calderon,29,Michael Adams,Orthopedics,Female,No,INR,0.67,2026-02-23,2024-04-04,Young Adult,Extreme Wait
+244,1005,Andrea Mcbride,64,Laura Newman,Neurology,Female,No,GBP,142.6,2025-09-15,2025-01-19,Middle Aged,Standard Wait
+245,1061,Madison Wilson,23,Ryan Steele,Cardiology,Male,No,EUR,251.5,2026-01-08,2024-11-29,Young Adult,Long Wait
+246,1036,Daniel Long,38,Jean Lawson DDS,Neurology,Female,Yes,EUR,110.2,2025-11-17,2024-10-09,Young Adult,Long Wait
+247,1095,James Fox,60,Victoria Osborne,General,Female,Yes,INR,2.46,2025-12-22,2024-05-17,Middle Aged,Extreme Wait
+248,1049,Vanessa Graves,58,Leslie Smith,Cardiology,Female,Yes,INR,5.69,2025-08-07,2025-01-02,Middle Aged,Standard Wait
+249,1036,Barbara Drake,20,Julie Jacobs,Cardiology,Unknown,No,EUR,311.71,2025-08-26,2025-01-09,Young Adult,Standard Wait
+250,1050,Logan Gonzalez,81,John Anderson,Neurology,Unknown,Yes,EUR,228.1,2026-02-17,2025-04-03,Elderly,Moderate Wait
+251,1082,Nichole Phillips,56,Michael Jackson,Cardiology,Male,Yes,,200.42,2025-09-17,2025-08-19,Middle Aged,Standard Wait
+252,1074,James Wise,67,Karen Schmidt,Neurology,Female,Yes,EUR,106.9,2025-09-05,2024-05-19,Elderly,Long Wait
+253,1084,Tamara Ramirez MD,79,Emily Mcintosh,Neurology,Female,Yes,GBP,161.12,2025-12-23,2025-01-12,Elderly,Moderate Wait
+254,1004,Sheryl Lopez,27,Barbara Alvarado,Neurology,Male,Yes,,200.42,2025-08-26,2024-09-10,Young Adult,Moderate Wait
+255,1006,Shannon Ramos,42,James Huber,Orthopedics,Male,Yes,,200.42,2025-11-04,2024-11-05,Middle Aged,Moderate Wait
+256,1022,Kimberly Heath,19,Amber Avila,Orthopedics,Unknown,Yes,EUR,158.87,2025-10-19,2025-09-19,Young Adult,Standard Wait
+257,1089,Tammy Yates,35,Nancy Luna,Cardiology,Unknown,No,EUR,63.82,2025-10-29,2025-09-06,Young Adult,Standard Wait
+258,1058,Alison Wolfe,29,Michelle Thomas,General,Male,Yes,USD,481.22,2025-05-30,2024-03-26,Young Adult,Long Wait
+259,1024,Natalie Miller,55,Derrick Glass,General,Female,Yes,EUR,61.44,2025-10-12,2024-10-28,Middle Aged,Moderate Wait
+260,1022,Kevin Jackson,56,David Love,Cardiology,Male,No,USD,157.36,2025-06-16,2024-05-31,Middle Aged,Moderate Wait
+261,1088,Mary Werner,32,Bonnie Walker,Orthopedics,Unknown,Yes,USD,69.13,2025-07-22,2024-04-12,Young Adult,Long Wait
+262,1016,Jennifer Barber,74,Christopher Smith,Neurology,Male,Yes,EUR,61.73,2025-12-06,2024-10-04,Elderly,Long Wait
+263,1039,Emily Miller,55,Nicole Bates,Orthopedics,Male,No,USD,432.84,2025-04-01,2024-09-13,Middle Aged,Standard Wait
+264,1075,Christine Lane,27,Kimberly Long,Orthopedics,Female,No,GBP,265.18,2025-04-07,2024-04-02,Young Adult,Moderate Wait
+265,1089,Alexa Landry,24,Larry Delgado,Orthopedics,Male,Yes,USD,73.59,2025-09-16,2025-01-16,Young Adult,Standard Wait
+266,1018,James Noble,68,Dylan George,Cardiology,Unknown,Yes,EUR,232.9,2025-06-25,2025-06-05,Elderly,Standard Wait
+267,1026,Sandra Russo,42,Michael Alexander,General,Unknown,No,USD,156.9,2026-01-25,2024-12-09,Middle Aged,Long Wait
+268,1001,Robert Hampton,90,Kevin Wilkinson,Neurology,Male,No,GBP,410.44,2025-11-12,2025-09-04,Elderly,Standard Wait
+269,1004,Rachel Simmons,65,Robert Sanchez,Cardiology,Male,Yes,USD,188.72,2025-08-12,2024-12-27,Elderly,Standard Wait
+270,1021,Ashley Martinez,68,Spencer Torres,Orthopedics,Unknown,No,USD,296.8,2025-05-07,2024-10-18,Elderly,Standard Wait
+271,1100,Megan Edwards,69,Eric Arellano,Neurology,Unknown,No,EUR,479.01,2025-10-08,2025-05-19,Elderly,Standard Wait
+272,1005,Mr. Phillip Baxter,80,Tricia Hunt,General,Male,No,USD,320.72,2025-07-24,2025-01-16,Elderly,Standard Wait
+273,1071,Diana Schroeder,73,Alexandra Lee,Neurology,Unknown,No,USD,262.84,2025-08-24,2025-07-04,Elderly,Standard Wait
+274,1020,Brian Garrett,65,Tamara Williams,Cardiology,Female,No,GBP,232.12,2026-01-24,2026-01-04,Elderly,Standard Wait
+275,1074,Aaron Clay,87,Timothy Barker,Cardiology,Male,Yes,EUR,341.04,2025-10-31,2025-05-22,Elderly,Standard Wait
+276,1067,Karla Bush,66,Victor Hernandez,Cardiology,Unknown,Yes,INR,1.63,2025-05-23,2024-08-14,Elderly,Moderate Wait
+277,1074,Michelle Edwards,30,Charles Harvey,Orthopedics,Female,Yes,GBP,307.59,2025-12-03,2025-07-27,Young Adult,Standard Wait
+278,1053,Jack Sutton,76,Paul Giles,General,Female,Yes,USD,374.72,2025-11-28,2025-04-20,Elderly,Standard Wait
+279,1020,Joseph Hart,69,Ralph Fernandez,General,Female,No,EUR,355.97,2025-09-04,2025-02-16,Elderly,Standard Wait
+280,1013,Rachel Carlson,27,Paul Martinez,Neurology,Female,Yes,USD,379.39,2026-01-05,2024-12-12,Young Adult,Moderate Wait
+281,1017,Alexander Rios,43,Bryan Parker,Orthopedics,Unknown,No,EUR,332.66,2025-05-18,2024-07-22,Middle Aged,Moderate Wait
+282,1085,Jennifer Reese,62,James Aguilar,Cardiology,Unknown,No,GBP,453.58,2025-11-07,2024-08-11,Middle Aged,Long Wait
+283,1023,Daniel Valenzuela,45,Karen Brewer,Cardiology,Male,Yes,USD,245.21,2025-06-21,2025-03-13,Middle Aged,Standard Wait
+284,1066,Alexander Jones,85,Mary Ward,General,Female,Yes,INR,5.98,2025-12-09,2025-01-30,Elderly,Moderate Wait
+285,1038,Robert Myers DDS,72,Luis Smith,Neurology,Female,Yes,INR,6.0,2025-08-27,2024-12-07,Elderly,Moderate Wait
+286,1048,Jennifer Sims,63,Janet Coffey,Cardiology,Female,Yes,EUR,344.12,2025-10-15,2025-02-02,Middle Aged,Standard Wait
+287,1082,Jenna Williams,67,Ryan Mitchell,General,Unknown,Yes,USD,149.33,2025-07-19,2024-12-04,Elderly,Standard Wait
+288,1085,Jamie Nixon,69,Scott Allen,General,Unknown,No,USD,412.82,2026-03-16,2024-06-19,Elderly,Extreme Wait
+289,1072,Alex Burns,68,Raymond Bond,Cardiology,Unknown,No,EUR,316.67,2026-01-10,2025-09-11,Elderly,Standard Wait
+290,1088,Sarah Fuller,80,Cody Ortega,Cardiology,Male,Yes,INR,5.52,2026-03-06,2025-06-18,Elderly,Moderate Wait
+291,1019,Eric Kim,33,Arthur Harris,General,Female,No,,200.42,2025-06-13,2024-06-09,Young Adult,Moderate Wait
+292,1065,Anne Jacobs,31,Lauren Clark,Orthopedics,Unknown,Yes,GBP,441.17,2026-03-04,2026-01-28,Young Adult,Standard Wait
+293,1081,Brandy Navarro,27,Matthew Nichols,Orthopedics,Unknown,Yes,INR,3.46,2025-07-16,2025-06-13,Young Adult,Standard Wait
+294,1030,Victor Simmons,80,Christopher Nelson,Cardiology,Male,No,EUR,528.99,2026-02-10,2025-01-17,Elderly,Moderate Wait
+295,1027,Michael Sullivan,63,Angela Thomas,Orthopedics,Male,Yes,INR,3.83,2025-07-09,2024-07-31,Middle Aged,Moderate Wait
+296,1059,Melissa Ramirez,34,Amber Clayton,Neurology,Male,Yes,GBP,212.32,2025-09-10,2024-10-30,Young Adult,Moderate Wait
+297,1040,Rachel Baker,22,Maria Gentry,Orthopedics,Female,No,GBP,564.73,2025-12-15,2024-05-18,Young Adult,Extreme Wait
+298,1058,Penny West,84,Heather Ortiz,Neurology,Female,Yes,USD,396.57,2025-10-24,2025-03-27,Elderly,Standard Wait
+299,1026,Jennifer Davis,47,Michael Bryant,Cardiology,Female,No,USD,215.89,2026-02-17,2024-05-09,Middle Aged,Extreme Wait
+300,1058,Kimberly Lee,88,Vanessa Ramirez,Neurology,Unknown,No,GBP,557.29,2025-10-19,2024-11-16,Elderly,Moderate Wait
+301,1016,Tyler Smith,42,Melinda Smith,General,Unknown,Yes,,200.42,2025-11-05,2024-08-03,Middle Aged,Long Wait
+302,1064,Anthony Boyd,27,Bradley Gibson,General,Female,Yes,GBP,220.79,2026-02-20,2025-07-06,Young Adult,Standard Wait
+303,1036,Henry Snyder,59,Theresa Simon,Cardiology,Unknown,Yes,USD,285.44,2025-10-16,2024-04-29,Middle Aged,Extreme Wait
+304,1017,Sabrina Wade,34,Randy Vargas,General,Female,No,INR,2.44,2025-07-20,2025-05-14,Young Adult,Standard Wait
+305,1005,Cody Scott,69,Larry Cohen,Neurology,Male,Yes,EUR,417.98,2025-10-06,2024-11-29,Elderly,Moderate Wait
+306,1086,David Mcdonald,84,Donald Garcia,General,Unknown,Yes,GBP,384.38,2025-12-24,2024-08-30,Elderly,Long Wait
+307,1095,Sherri Guzman,37,Carlos Morton,Orthopedics,Unknown,Yes,GBP,600.16,2025-09-14,2024-05-20,Young Adult,Long Wait
+308,1030,Mr. Brian Anderson,25,Adrienne Roberts,Orthopedics,Female,No,EUR,454.76,2025-04-24,2024-04-14,Young Adult,Moderate Wait
+309,1059,Kayla Mccormick,84,Robert Burton,Neurology,Female,Yes,USD,244.68,2026-03-16,2024-12-04,Elderly,Long Wait
+310,1012,Mark Reeves,30,Mark Hill,Cardiology,Unknown,Yes,USD,70.7,2026-01-08,2025-08-19,Young Adult,Standard Wait
+311,1074,Debra Short,64,Karla Baker,General,Male,No,EUR,421.14,2025-06-24,2024-10-06,Middle Aged,Moderate Wait
+312,1082,Melissa Richmond,33,Jasmin Holmes,Neurology,Male,Yes,USD,387.75,2025-06-11,2025-02-19,Young Adult,Standard Wait
+313,1009,Linda Murphy,63,Margaret Montoya,Cardiology,Male,No,INR,2.12,2026-02-17,2026-01-11,Middle Aged,Standard Wait
+314,1037,David Reeves,52,Marc Copeland,General,Unknown,No,,200.42,2025-12-06,2025-01-19,Middle Aged,Moderate Wait
+315,1053,Jennifer Schwartz,30,Tamara Smith,Cardiology,Female,Yes,USD,280.21,2025-12-31,2025-11-14,Young Adult,Standard Wait
+316,1021,Kelly Ayers,53,Justin Taylor,Neurology,Male,Yes,USD,443.75,2026-02-16,2025-04-04,Middle Aged,Moderate Wait
+317,1059,James Perry,57,Leonard Campbell,Cardiology,Male,Yes,USD,385.61,2025-08-27,2024-04-05,Middle Aged,Extreme Wait
+318,1038,Steven Phelps,19,Darren Williams,Cardiology,Female,Yes,INR,4.21,2025-05-13,2024-07-18,Young Adult,Moderate Wait
+319,1018,Carly Ford,20,Scott Tran,Neurology,Female,No,EUR,150.74,2025-07-23,2025-06-22,Young Adult,Standard Wait
+320,1081,Elaine Williams,42,Daniel Carlson,Cardiology,Female,Yes,INR,2.27,2026-03-15,2024-05-23,Middle Aged,Extreme Wait
+321,1098,Randy Wright,27,Jennifer Banks,Orthopedics,Unknown,No,EUR,296.99,2025-08-14,2024-12-02,Young Adult,Standard Wait
+322,1070,Charles Foley,56,Richard Arias,Cardiology,Male,Yes,EUR,490.9,2025-09-19,2024-09-28,Middle Aged,Moderate Wait
+323,1093,Ryan Kennedy,81,Scott Shannon,General,Unknown,Yes,USD,490.67,2026-02-07,2024-06-27,Elderly,Extreme Wait
+324,1032,Stephen Cox,56,Joseph King,Cardiology,Unknown,No,GBP,125.95,2025-09-27,2025-02-05,Middle Aged,Standard Wait
+325,1071,Jennifer Jackson,80,Frank Harrell,Neurology,Unknown,No,USD,105.64,2025-07-29,2024-04-14,Elderly,Long Wait
+326,1067,Jessica Wilson,72,Sharon Nash,Orthopedics,Unknown,No,EUR,476.53,2026-03-20,2024-07-13,Elderly,Extreme Wait
+327,1073,Shawn Moon,52,Sheila Williams,Neurology,Male,Yes,EUR,169.7,2026-03-17,2025-10-20,Middle Aged,Standard Wait
+328,1092,Sharon Lopez,79,Yolanda Richardson,Neurology,Unknown,No,USD,487.57,2025-09-09,2025-02-02,Elderly,Standard Wait
+329,1091,Daniel Marshall,74,Lisa Taylor,Cardiology,Male,Yes,GBP,377.82,2025-12-11,2025-04-23,Elderly,Standard Wait
+330,1057,Andre Pitts,60,Donna Sandoval,General,Female,Yes,EUR,524.73,2026-01-26,2024-09-30,Middle Aged,Long Wait
+331,1018,Mary Garcia,54,Brianna Ortega,General,Male,Yes,USD,252.53,2025-10-21,2025-04-11,Middle Aged,Standard Wait
+332,1002,Lawrence Ford,89,Randall Watts,Neurology,Female,Yes,EUR,182.9,2025-07-09,2025-01-03,Elderly,Standard Wait
+333,1005,Troy Richards,80,Thomas Baker,Neurology,Unknown,Yes,GBP,387.38,2025-05-16,2024-11-13,Elderly,Standard Wait
+334,1094,Anna Rowe,59,Judith Preston,Neurology,Female,No,EUR,91.13,2026-02-26,2024-08-25,Middle Aged,Extreme Wait
+335,1084,Michael Espinoza,55,Amber King,Neurology,Female,No,GBP,457.7,2025-04-29,2024-12-06,Middle Aged,Standard Wait
+336,1044,Kenneth Dixon,68,Sandra Sloan,Orthopedics,Male,Yes,EUR,438.62,2025-08-19,2025-01-31,Elderly,Standard Wait
+337,1067,Justin Ortiz,60,Russell Myers,Cardiology,Male,No,GBP,297.51,2025-11-08,2025-03-30,Middle Aged,Standard Wait
+338,1083,Melissa Wagner,59,Megan Garcia,Neurology,Male,Yes,INR,2.63,2025-09-18,2024-06-15,Middle Aged,Long Wait
+339,1017,Jamie Miller,84,Gloria Perez,Orthopedics,Female,No,EUR,208.4,2026-02-05,2024-05-28,Elderly,Extreme Wait
+340,1070,Jake Robinson,62,Nathan Quinn,Cardiology,Female,Yes,INR,2.14,2025-09-09,2024-11-25,Middle Aged,Moderate Wait
+341,1093,Kimberly Morrison,34,Brian Young,Orthopedics,Unknown,Yes,USD,248.31,2026-03-04,2024-09-11,Young Adult,Extreme Wait
+342,1033,David Thompson,47,Derek Velazquez,Cardiology,Unknown,No,GBP,148.27,2025-12-03,2025-08-24,Middle Aged,Standard Wait
+343,1023,Mary Moon,36,Ernest Rodriguez,Cardiology,Unknown,No,EUR,99.51,2025-10-13,2025-01-08,Young Adult,Moderate Wait
+344,1053,John Gallagher,57,Kara Austin,Cardiology,Unknown,Yes,EUR,216.48,2025-06-28,2024-11-02,Middle Aged,Standard Wait
+345,1040,Benjamin Allen,20,Richard Johnson,Cardiology,Female,No,EUR,280.32,2025-11-22,2025-04-06,Young Adult,Standard Wait
+346,1073,Abigail Holt,50,Jacob Mays,Neurology,Unknown,Yes,USD,343.79,2025-09-11,2025-03-14,Middle Aged,Standard Wait
+347,1029,Jesse Robertson,24,Rebecca Gross,Orthopedics,Male,Yes,EUR,103.82,2025-07-27,2025-07-19,Young Adult,Standard Wait
+348,1082,Tyler Trujillo,72,Andrea Walsh,Cardiology,Male,No,GBP,212.18,2025-12-11,2025-01-24,Elderly,Moderate Wait
+349,1099,Travis Rodriguez,85,Richard Wagner,Neurology,Male,Yes,EUR,465.04,2025-10-20,2025-08-10,Elderly,Standard Wait
+350,1003,Corey Turner,27,Heidi Baker,Orthopedics,Unknown,Yes,INR,5.22,2025-06-05,2025-03-13,Young Adult,Standard Wait
+351,1038,Ashley Wright,45,Kristen Lopez,General,Female,Yes,EUR,439.51,2026-02-26,2025-06-03,Middle Aged,Moderate Wait
+352,1061,Jose Bauer,37,Reginald Barrett,Orthopedics,Unknown,No,EUR,425.98,2025-10-17,2025-04-07,Young Adult,Standard Wait
+353,1024,Jared Lester,26,David Espinoza,Orthopedics,Male,No,GBP,394.23,2025-10-20,2024-09-09,Young Adult,Long Wait
+354,1010,Christopher Massey,82,William Moore,Orthopedics,Male,Yes,EUR,540.57,2025-07-15,2025-05-19,Elderly,Standard Wait
+355,1096,Erin Small,82,Jeff Lane,General,Male,No,EUR,440.22,2025-05-15,2025-05-13,Elderly,Standard Wait
+356,1058,Rebecca Parrish,59,Jordan Shelton,Orthopedics,Female,No,USD,163.52,2026-03-15,2025-01-06,Middle Aged,Long Wait
+357,1068,Dominic Bell,37,April Castillo,Cardiology,Male,Yes,INR,4.27,2025-11-18,2024-11-18,Young Adult,Moderate Wait
+358,1009,Laura Chan,49,Reginald Miller,Cardiology,Unknown,No,USD,177.93,2026-02-17,2026-01-16,Middle Aged,Standard Wait
+359,1031,Michael Watkins,35,Brian Deleon,General,Male,Yes,GBP,397.56,2025-07-06,2025-03-05,Young Adult,Standard Wait
+360,1055,Charles Green,80,Lisa Hoffman,Neurology,Female,No,EUR,380.94,2025-04-28,2024-03-30,Elderly,Moderate Wait
+361,1072,Christopher Brown,49,Henry Moore,Cardiology,Female,No,INR,1.1,2025-03-26,2025-01-02,Middle Aged,Standard Wait
+362,1070,Barbara Holland,24,Chelsea Aguirre,General,Male,No,EUR,479.12,2026-01-30,2024-12-16,Young Adult,Long Wait
+363,1061,Matthew Herrera,74,Cody Murray,General,Female,Yes,INR,5.68,2025-09-01,2025-05-26,Elderly,Standard Wait
+364,1091,Tiffany Miller,85,Melissa Bradley,Cardiology,Unknown,No,EUR,164.61,2025-03-29,2025-03-07,Elderly,Standard Wait
+365,1087,Glen Arroyo,70,Christopher Schneider,Neurology,Female,Yes,GBP,212.48,2025-09-12,2024-06-03,Elderly,Long Wait
+366,1056,Erik Martinez,24,Jennifer Carroll,Cardiology,Male,Yes,USD,97.67,2025-10-28,2025-01-15,Young Adult,Moderate Wait
+367,1057,Michael Bradley,86,Carl Gomez,Orthopedics,Unknown,No,GBP,323.74,2025-06-11,2024-09-28,Elderly,Standard Wait
+368,1054,Rebecca Carey DDS,57,David Carter,Neurology,Male,No,USD,169.09,2025-10-09,2025-03-17,Middle Aged,Standard Wait
+369,1059,Heidi Alvarez,88,Jeremy Wilson,General,Male,Yes,INR,1.13,2025-07-30,2025-06-30,Elderly,Standard Wait
+370,1035,Robert Edwards,84,Ashley Gonzalez,Orthopedics,Unknown,No,GBP,107.78,2025-10-09,2025-05-10,Elderly,Standard Wait
+371,1086,Bryan Fritz,86,Kelsey Hernandez,Orthopedics,Female,Yes,USD,338.43,2025-08-03,2025-02-19,Elderly,Standard Wait
+372,1050,Donald Reed,60,Danny Webster,General,Female,Yes,USD,453.66,2025-05-06,2024-10-11,Middle Aged,Standard Wait
+373,1024,Alejandra Perkins,72,Daniel Dickerson,Orthopedics,Unknown,Yes,,200.42,2025-08-03,2025-04-11,Elderly,Standard Wait
+374,1014,Alexis Moody,81,Jennifer Reyes,Orthopedics,Female,Yes,INR,2.42,2025-05-29,2024-06-11,Elderly,Moderate Wait
+375,1059,Carol Williams,75,Joshua Gomez,Cardiology,Female,Yes,USD,129.1,2025-04-15,2024-06-01,Elderly,Moderate Wait
+376,1092,Tracie Jefferson,74,Margaret Robinson,General,Female,Yes,USD,153.53,2025-07-24,2025-04-24,Elderly,Standard Wait
+377,1032,Terry Dennis,28,Kelsey Scott,Neurology,Male,Yes,INR,4.85,2025-07-14,2024-08-16,Young Adult,Moderate Wait
+378,1017,Nicole Green,55,Charles Owens,General,Male,No,INR,4.38,2025-07-18,2024-07-06,Middle Aged,Moderate Wait
+379,1084,Robin Donovan,69,Brian Brown,General,Male,No,USD,163.58,2025-03-27,2024-08-04,Elderly,Standard Wait
+380,1005,Bryan Meyers,84,Michael Trevino,Cardiology,Female,No,INR,5.99,2026-01-05,2025-07-11,Elderly,Standard Wait
+381,1005,Kathryn Bell,24,Andre Carter,Cardiology,Female,No,GBP,562.25,2025-06-13,2024-06-06,Young Adult,Moderate Wait
+382,1090,Steven Henderson,53,Nicole Martinez,Orthopedics,Unknown,Yes,INR,1.96,2026-02-15,2025-04-27,Middle Aged,Moderate Wait
+383,1068,Michael Marquez,59,Mr. Curtis Ortiz,Cardiology,Unknown,No,EUR,221.25,2025-07-28,2024-07-19,Middle Aged,Moderate Wait
+384,1047,Brittany Thompson,31,Wendy Davis,Cardiology,Female,No,INR,3.09,2025-04-05,2024-05-08,Young Adult,Moderate Wait
+385,1009,Tracy Perez,74,Lauren Rosario,Cardiology,Male,No,EUR,508.89,2026-03-19,2025-11-26,Elderly,Standard Wait
+386,1016,Jessica Price,31,Justin Rice,Orthopedics,Unknown,Yes,EUR,534.95,2025-10-27,2025-03-12,Young Adult,Standard Wait
+387,1068,Kayla Williams,63,Aaron Cooper,General,Male,No,INR,2.61,2025-10-02,2024-06-06,Middle Aged,Long Wait
+388,1048,Victoria Young,47,Lauren Whitaker,Neurology,Female,Yes,USD,174.04,2025-08-06,2025-07-21,Middle Aged,Standard Wait
+389,1080,Roger Hatfield,52,Victoria Lopez,Orthopedics,Male,No,EUR,213.87,2025-08-12,2025-01-22,Middle Aged,Standard Wait
+390,1030,Robert Lewis,66,Samantha Cameron,Cardiology,Female,Yes,INR,5.88,2025-10-23,2024-05-25,Elderly,Extreme Wait
+391,1003,Jeremiah Perez,48,Michael Black,Orthopedics,Male,No,USD,91.94,2025-07-25,2025-01-14,Middle Aged,Standard Wait
+392,1072,Louis Craig,49,Rachel Wood,Orthopedics,Unknown,No,INR,5.82,2025-04-13,2024-10-05,Middle Aged,Standard Wait
+393,1001,Jenny Black,33,Jamie Nunez,Neurology,Female,No,USD,381.93,2025-11-14,2025-09-06,Young Adult,Standard Wait
+394,1009,Sarah Davis,61,Rebecca Thompson,General,Unknown,No,INR,4.83,2026-01-01,2025-08-14,Middle Aged,Standard Wait
+395,1016,Heidi Sosa,29,Nancy Wilson,Cardiology,Male,Yes,INR,2.9,2025-11-10,2025-05-17,Young Adult,Standard Wait
+396,1001,Jacqueline West,70,Steven Walker,General,Male,Yes,GBP,188.9,2026-01-19,2025-01-17,Elderly,Moderate Wait
+397,1063,Sherri Barry,48,Janet Schultz,Neurology,Male,No,GBP,139.34,2025-08-29,2024-04-15,Middle Aged,Long Wait
+398,1036,Alexander Hammond,41,Tara Moore,Cardiology,Male,No,EUR,312.51,2025-06-29,2024-09-21,Middle Aged,Moderate Wait
+399,1015,Nichole Anderson,87,Richard Vega,Cardiology,Unknown,Yes,GBP,402.45,2025-05-10,2025-02-06,Elderly,Standard Wait
+400,1069,Jacqueline Peters,40,Adam Jensen,General,Unknown,Yes,EUR,290.75,2025-12-09,2025-10-11,Middle Aged,Standard Wait
+401,1029,Kelly Hodge,55,Terry Jones,Orthopedics,Male,No,GBP,222.36,2025-10-15,2025-05-28,Middle Aged,Standard Wait
+402,1037,Brandi Boyd,90,Mary Jacobson,Cardiology,Unknown,No,INR,1.15,2025-12-08,2024-08-06,Elderly,Long Wait
+403,1074,Andrea Anderson,75,Mary Burgess,Neurology,Unknown,Yes,USD,59.55,2025-08-15,2024-06-16,Elderly,Long Wait
+404,1039,Shawn Castillo,68,Jennifer Carroll,Orthopedics,Male,No,GBP,431.25,2025-05-02,2025-02-15,Elderly,Standard Wait
+405,1071,Jerry Holmes,88,Kim Daniels,Neurology,Male,Yes,INR,4.13,2025-12-05,2024-08-02,Elderly,Long Wait
+406,1039,Kimberly Diaz,47,David Guzman,Orthopedics,Female,Yes,USD,197.72,2025-06-19,2024-05-07,Middle Aged,Long Wait
+407,1084,Nathaniel White,71,Andrew Clark,Cardiology,Male,No,USD,95.4,2025-04-20,2024-07-31,Elderly,Moderate Wait
+408,1031,John Gonzalez,44,Richard Medina,Orthopedics,Male,No,EUR,310.28,2026-01-19,2024-06-14,Middle Aged,Extreme Wait
+409,1053,Peter Pierce,70,Deborah Snyder,Neurology,Male,No,INR,4.67,2025-12-21,2025-08-07,Elderly,Standard Wait
+410,1048,Elizabeth Russo,67,Connie Martinez,Neurology,Male,Yes,,200.42,2025-07-03,2024-07-30,Elderly,Moderate Wait
+411,1075,Jacqueline Collins,67,Paul Parker,Neurology,Female,No,USD,161.5,2025-06-12,2025-05-18,Elderly,Standard Wait
+412,1054,Samuel Thomas,82,Donna Johnson,General,Male,Yes,GBP,421.83,2025-06-16,2024-04-01,Elderly,Long Wait
+413,1020,Robert Williams,53,Jessica Chandler,Neurology,Male,Yes,GBP,373.56,2025-07-24,2025-02-03,Middle Aged,Standard Wait
+414,1100,Ms. Kristen Johnson,60,Susan Griffin,Neurology,Male,Yes,INR,5.47,2026-02-15,2024-04-14,Middle Aged,Extreme Wait
+415,1061,Darlene Clark,65,Thomas Williams,Neurology,Male,No,GBP,480.8,2025-11-09,2024-11-16,Elderly,Moderate Wait
+416,1040,Jessica Williams,49,Corey King,General,Female,No,GBP,140.26,2025-06-21,2024-10-08,Middle Aged,Standard Wait
+417,1030,Jesse Wood,69,Deborah Vasquez,Neurology,Male,Yes,INR,2.7,2026-01-02,2024-09-23,Elderly,Long Wait
+418,1093,James Price,72,Jessica Garcia,General,Male,Yes,USD,194.55,2025-06-20,2024-09-18,Elderly,Moderate Wait
+419,1087,Maria Boyd,69,Mike Miller,Cardiology,Female,Yes,EUR,506.81,2025-10-02,2025-02-23,Elderly,Standard Wait
+420,1008,Jacqueline Howell,30,Felicia Smith,Cardiology,Male,Yes,GBP,402.13,2026-02-21,2025-05-23,Young Adult,Moderate Wait
+421,1047,Victoria Perry,39,Heather Garcia,Neurology,Unknown,No,EUR,487.48,2026-03-26,2025-08-24,Young Adult,Standard Wait
+422,1032,Ryan Tucker,89,Barbara Owens,Orthopedics,Male,No,INR,2.7,2026-02-18,2024-11-03,Elderly,Long Wait
+423,1024,Kelsey Rice,20,Darren Jensen,General,Male,No,USD,190.44,2025-11-16,2024-11-19,Young Adult,Moderate Wait
+424,1044,Monique Daniels,25,Alexander Brown,General,Female,Yes,USD,316.64,2026-03-08,2025-11-11,Young Adult,Standard Wait
+425,1085,Joseph Mcmillan,67,Frederick Nielsen,Orthopedics,Female,No,INR,3.7,2025-05-20,2025-03-20,Elderly,Standard Wait
+426,1089,Miss Christine Lopez,75,Cynthia Turner,Cardiology,Female,Yes,USD,414.58,2025-11-30,2025-06-05,Elderly,Standard Wait
+427,1064,Christy Nunez,54,Theresa Parker,Cardiology,Unknown,Yes,EUR,368.68,2025-07-11,2024-06-25,Middle Aged,Moderate Wait
+428,1077,Jeff Lynch,57,Joseph Gibbs,Neurology,Female,No,EUR,58.15,2025-12-04,2024-10-12,Middle Aged,Long Wait
+429,1092,James Mendez,89,Jackie Brooks,General,Female,No,USD,186.43,2025-07-02,2025-04-08,Elderly,Standard Wait
+430,1080,Jennifer Williams,80,Emily Barnes,General,Male,No,USD,498.84,2026-01-04,2025-10-18,Elderly,Standard Wait
+431,1097,Kathryn Green,86,Robert Moreno,Cardiology,Unknown,Yes,INR,4.99,2025-05-01,2024-08-19,Elderly,Standard Wait
+432,1035,Holly Potter,75,Christina Mitchell,General,Male,Yes,INR,3.29,2025-11-21,2025-01-02,Elderly,Moderate Wait
+433,1012,Javier Hawkins,38,Debra Fields,Orthopedics,Male,No,USD,427.54,2026-02-01,2024-04-16,Young Adult,Extreme Wait
+434,1100,Sonya Wheeler,60,Adam Carlson,Orthopedics,Female,Yes,INR,5.2,2025-09-07,2024-04-13,Middle Aged,Extreme Wait
+435,1021,Jessica Castillo,37,Bryan Newton,Cardiology,Unknown,No,EUR,476.23,2025-09-18,2024-11-17,Young Adult,Moderate Wait
+436,1094,Crystal Oneal,60,Harold Gray,Neurology,Unknown,Yes,USD,421.74,2025-08-19,2025-01-23,Middle Aged,Standard Wait
+437,1022,Alison Robinson,83,Jose Thomas,Orthopedics,Male,No,GBP,223.01,2025-09-15,2024-12-23,Elderly,Moderate Wait
+438,1088,Meghan Evans,79,Courtney Yang,Orthopedics,Unknown,No,USD,337.15,2025-11-21,2025-09-11,Elderly,Standard Wait
+439,1076,Melanie Hernandez,19,Adam Anderson,Orthopedics,Unknown,Yes,USD,445.97,2026-02-22,2025-06-12,Young Adult,Standard Wait
+440,1092,Lisa Hill,68,Mia Boyd,Cardiology,Female,No,USD,169.01,2025-06-23,2024-10-24,Elderly,Standard Wait
+441,1043,Derek Smith,82,Jeremy Burton,Cardiology,Unknown,No,USD,215.76,2025-05-23,2024-10-18,Elderly,Standard Wait
+442,1021,Taylor Farley,25,Christy Lewis,Cardiology,Female,Yes,USD,184.11,2025-10-01,2024-09-01,Young Adult,Moderate Wait
+443,1016,Ryan Rodriguez,53,Eric Kennedy,Orthopedics,Female,Yes,INR,3.33,2025-05-29,2025-02-22,Middle Aged,Standard Wait
+444,1050,Jeremy Coleman,83,David Riley,Neurology,Male,No,INR,0.77,2025-09-11,2024-09-03,Elderly,Moderate Wait
+445,1079,Alexander Williams,85,Erin Chandler,Orthopedics,Female,No,INR,1.03,2026-03-20,2025-10-08,Elderly,Standard Wait
+446,1027,Steven Richards,26,Zachary Hamilton,Orthopedics,Unknown,No,EUR,258.44,2026-03-23,2025-01-11,Young Adult,Long Wait
+447,1070,Toni Morris DDS,30,Robin Medina,Orthopedics,Female,No,EUR,273.25,2025-12-01,2024-07-16,Young Adult,Long Wait
+448,1013,Zachary Allen,21,Justin Smith,Neurology,Female,Yes,,200.42,2026-02-24,2025-06-04,Young Adult,Moderate Wait
+449,1081,Trevor Anderson,32,Kenneth Johnson,Neurology,Female,Yes,EUR,170.39,2025-07-06,2025-04-10,Young Adult,Standard Wait
+450,1053,Robert Wade,87,Phillip Shelton,Orthopedics,Male,Yes,USD,249.74,2026-02-07,2024-07-11,Elderly,Extreme Wait
+451,1051,Oscar Luna,72,John Stewart,General,Female,Yes,USD,126.56,2026-03-05,2025-03-26,Elderly,Moderate Wait
+452,1098,Lance Hobbs,59,Mr. James Brown,General,Unknown,No,USD,143.32,2025-10-10,2024-08-18,Middle Aged,Long Wait
+453,1009,Misty Wells,64,Debra Booker,Neurology,Male,Yes,GBP,449.33,2025-07-31,2024-08-23,Middle Aged,Moderate Wait
+454,1021,Adam Mcdonald,28,David Schmidt,Cardiology,Female,Yes,GBP,221.67,2025-08-15,2024-11-17,Young Adult,Moderate Wait
+455,1046,David Mann,68,Donald Ferguson,Orthopedics,Male,Yes,GBP,276.57,2026-03-16,2024-05-06,Elderly,Extreme Wait
+456,1044,Daniel White,67,Chad Johnson,Neurology,Male,No,INR,3.33,2025-04-12,2024-07-13,Elderly,Moderate Wait
+457,1058,Steven Gonzalez,37,Jonathan Daniels,Orthopedics,Unknown,Yes,GBP,329.17,2026-02-04,2025-11-10,Young Adult,Standard Wait
+458,1004,Samuel Harrison,53,Hunter Powell,Neurology,Unknown,Yes,INR,5.92,2025-08-09,2024-07-06,Middle Aged,Long Wait
+459,1059,Emma Ferrell,23,David Bradford,General,Male,Yes,EUR,367.85,2025-09-10,2024-04-23,Young Adult,Extreme Wait
+460,1021,Michael Garcia,61,Barbara Mack,Neurology,Female,Yes,EUR,338.06,2026-03-04,2025-08-10,Middle Aged,Standard Wait
+461,1029,Darlene Hodge,69,Amanda Cruz,Orthopedics,Male,No,EUR,68.82,2025-05-27,2025-04-20,Elderly,Standard Wait
+462,1005,Katherine Rios,23,Elizabeth Foster,Orthopedics,Unknown,No,USD,265.67,2025-12-24,2025-01-05,Young Adult,Moderate Wait
+463,1094,Jennifer Shaffer,59,Brittany Watson,Orthopedics,Unknown,Yes,USD,382.64,2025-06-08,2024-12-26,Middle Aged,Standard Wait
+464,1058,Alejandro Romero,27,Karen Hancock,Orthopedics,Male,No,GBP,262.5,2025-07-25,2024-08-28,Young Adult,Moderate Wait
+465,1076,Ashley Peterson,39,Kyle Mcintyre,General,Female,Yes,GBP,455.23,2025-05-30,2025-05-06,Young Adult,Standard Wait
+466,1087,Kenneth Cox,78,Brian Walker,General,Male,No,USD,123.28,2026-01-22,2025-06-07,Elderly,Standard Wait
+467,1012,Susan Winters,45,Christopher Simpson,Orthopedics,Unknown,No,USD,353.09,2025-07-25,2024-08-31,Middle Aged,Moderate Wait
+468,1063,Jason Kennedy,46,Robert Fowler,Orthopedics,Male,No,EUR,360.53,2025-10-18,2024-10-03,Middle Aged,Moderate Wait
+469,1046,Melissa Brown,28,Bill Brown,Orthopedics,Unknown,Yes,EUR,76.04,2025-04-20,2024-08-01,Young Adult,Moderate Wait
+470,1031,Shannon Vargas,57,Brian Caldwell,Orthopedics,Unknown,No,USD,341.11,2025-05-31,2025-02-14,Middle Aged,Standard Wait
+471,1098,Jennifer Dorsey,27,Michael Stanley,General,Unknown,No,USD,147.08,2026-02-10,2025-06-29,Young Adult,Standard Wait
+472,1085,Nicole Adams,25,Krystal Krueger,General,Female,Yes,EUR,389.71,2025-10-13,2025-03-13,Young Adult,Standard Wait
+473,1015,Veronica Shaw,86,Michael Franco,Orthopedics,Unknown,Yes,GBP,221.51,2025-09-22,2024-07-15,Elderly,Long Wait
+474,1008,Lisa Smith,40,Daniel Beck,Orthopedics,Unknown,No,INR,5.39,2025-10-30,2024-07-31,Middle Aged,Long Wait
+475,1080,Eric Lawson,78,Andrew Webb,Cardiology,Male,No,USD,179.07,2026-02-02,2025-11-14,Elderly,Standard Wait
+476,1067,Vanessa Wright,28,Virginia Sharp,Cardiology,Male,Yes,INR,4.14,2026-01-07,2025-08-23,Young Adult,Standard Wait
+477,1012,Shawn Mendoza,36,Erin Walton,Cardiology,Unknown,No,EUR,85.01,2026-03-25,2024-05-03,Young Adult,Extreme Wait
+478,1066,Sandra Hill,65,Julie May,Orthopedics,Male,Yes,INR,1.36,2025-08-10,2025-01-06,Elderly,Standard Wait
+479,1015,Oscar Hunt,29,Michael Mason,Cardiology,Male,Yes,GBP,461.06,2025-06-11,2024-07-02,Young Adult,Moderate Wait
+480,1061,Breanna Lewis,59,Jerry Tucker,Orthopedics,Female,Yes,GBP,198.09,2025-10-12,2025-06-15,Middle Aged,Standard Wait
+481,1095,Jackie Lane,56,Jackie Harper,Cardiology,Unknown,Yes,INR,4.02,2025-06-04,2024-05-29,Middle Aged,Moderate Wait
+482,1048,Shawn Cordova,67,Wendy Mcguire,Neurology,Male,No,INR,3.42,2025-11-27,2024-07-30,Elderly,Long Wait
+483,1003,Christine Herring,89,Kristin Hartman,General,Female,Yes,EUR,494.57,2025-12-22,2025-03-08,Elderly,Moderate Wait
+484,1030,Brandon Carter,72,James Aguilar,Neurology,Female,No,GBP,277.55,2025-05-10,2025-02-27,Elderly,Standard Wait
+485,1004,Deborah Robinson,36,Joseph Bell,Cardiology,Unknown,Yes,EUR,173.54,2026-01-25,2024-10-30,Young Adult,Long Wait
+486,1059,Jill Mcconnell,81,Jessica Miller,Cardiology,Female,No,INR,5.7,2025-03-28,2025-02-16,Elderly,Standard Wait
+487,1044,Kyle Barnes Jr.,21,Donna Peters,General,Unknown,Yes,USD,156.1,2025-04-18,2024-09-24,Young Adult,Standard Wait
+488,1068,Regina Smith,87,Donna Orr,General,Unknown,No,USD,246.13,2025-08-30,2024-12-15,Elderly,Standard Wait
+489,1024,Jeffrey Warren,60,Mrs. Michelle Reed,Cardiology,Female,No,INR,4.09,2025-07-20,2024-11-21,Middle Aged,Standard Wait
+490,1010,Andre Crosby,72,Douglas Smith,General,Female,No,USD,235.81,2026-02-16,2024-07-07,Elderly,Extreme Wait
+491,1099,Jessica Maldonado DDS,25,Kelly Thomas,Cardiology,Unknown,No,GBP,211.09,2025-04-21,2024-09-20,Young Adult,Standard Wait
+492,1044,Nicole Warren,63,Kimberly Beck,General,Female,No,GBP,527.49,2025-09-19,2025-02-07,Middle Aged,Standard Wait
+493,1063,Edward Black,88,Nathan Summers,Orthopedics,Female,No,INR,3.22,2025-12-04,2025-10-11,Elderly,Standard Wait
+494,1075,Sarah Hernandez,25,Jeremy Mclaughlin,Orthopedics,Female,Yes,USD,253.36,2025-09-03,2024-10-27,Young Adult,Moderate Wait
+495,1090,Christina Eaton,85,Stephanie Kelley DVM,Neurology,Male,No,USD,192.87,2026-01-20,2025-03-10,Elderly,Moderate Wait
+496,1073,Molly Hayden,75,Brian Chambers,General,Unknown,No,GBP,389.41,2026-01-06,2025-02-22,Elderly,Moderate Wait
+497,1021,Mrs. Jennifer Ingram,41,Katrina Williams MD,General,Male,No,USD,473.2,2025-09-11,2024-11-30,Middle Aged,Moderate Wait
+498,1052,Troy Torres,80,Matthew Carney,Cardiology,Unknown,No,USD,124.09,2025-05-04,2024-09-20,Elderly,Standard Wait
+499,1028,Stephanie Moss,24,Jason Bray,General,Female,Yes,EUR,57.03,2026-03-04,2025-04-02,Young Adult,Moderate Wait
+500,1062,Jade Blanchard MD,23,Amber Waters,Orthopedics,Female,No,USD,151.03,2026-01-29,2024-07-01,Young Adult,Extreme Wait
+501,1088,Pamela Johnson,80,Crystal Garza,General,Female,Yes,INR,5.01,2025-07-01,2024-11-12,Elderly,Standard Wait
+502,1028,Glenn Wall,26,Sarah Peterson,Cardiology,Unknown,Yes,USD,112.9,2025-09-15,2025-05-13,Young Adult,Standard Wait
+503,1050,Christopher Beard,65,Jerry Torres,General,Male,Yes,INR,1.52,2026-03-04,2024-06-01,Elderly,Extreme Wait
+504,1004,Darin Caldwell,54,Danielle Pacheco,Cardiology,Male,No,EUR,201.81,2025-09-03,2025-02-20,Middle Aged,Standard Wait
+505,1044,Henry Henderson,58,James Love,Orthopedics,Male,No,,200.42,2025-06-10,2024-08-02,Middle Aged,Moderate Wait
+506,1030,Regina Giles,42,Kimberly Foster,Neurology,Male,Yes,EUR,282.2,2025-10-24,2024-11-27,Middle Aged,Moderate Wait
+507,1073,Curtis Cooke,84,John Hancock,Neurology,Male,No,EUR,520.02,2025-09-29,2024-06-24,Elderly,Long Wait
+508,1062,Peter Schaefer,84,Carlos Spence,Cardiology,Female,No,INR,2.28,2025-08-27,2024-06-02,Elderly,Long Wait
+509,1014,Andrew Cross,67,Victor Warner,General,Female,No,INR,3.38,2026-03-26,2026-03-07,Elderly,Standard Wait
+510,1030,Jonathan Fernandez,40,Luis Nolan,Orthopedics,Male,Yes,INR,3.03,2025-12-03,2025-09-08,Middle Aged,Standard Wait
+511,1081,Rebecca Gould,72,Xavier Richardson,General,Female,No,GBP,504.19,2025-04-04,2024-12-17,Elderly,Standard Wait
+512,1081,Kimberly Fitzpatrick,65,Mark Moore,Orthopedics,Female,No,,200.42,2025-10-07,2024-12-09,Elderly,Moderate Wait
+513,1001,Richard Griffin,61,Tina Gonzalez,Orthopedics,Male,Yes,INR,0.98,2025-10-24,2025-08-21,Middle Aged,Standard Wait
+514,1098,Manuel Becker,66,Jacob Patel,Neurology,Female,No,USD,139.99,2025-05-17,2024-08-29,Elderly,Moderate Wait
+515,1034,Tara Garrison,41,Stacy Hartman,Cardiology,Male,Yes,GBP,575.42,2026-02-03,2025-10-04,Middle Aged,Standard Wait
+516,1069,Steven Miller,20,Bob Shaw,Orthopedics,Unknown,No,GBP,260.12,2025-05-01,2025-04-28,Young Adult,Standard Wait
+517,1001,Haley King,84,Erin Carr,Cardiology,Male,No,EUR,261.52,2026-02-12,2024-06-21,Elderly,Extreme Wait
+518,1066,Jonathan Wood,74,Jon Duarte,Orthopedics,Female,Yes,INR,5.83,2025-05-23,2024-12-26,Elderly,Standard Wait
+519,1033,Bridget Cooley,75,Ashley Edwards,General,Female,Yes,GBP,183.87,2026-02-22,2025-02-25,Elderly,Moderate Wait
+520,1078,Nathan Murphy,52,Kerry Rowe,Cardiology,Female,No,INR,1.98,2025-11-24,2024-05-10,Middle Aged,Extreme Wait
+521,1072,Stephanie Caldwell MD,86,Darrell Mendez,Orthopedics,Female,Yes,USD,74.84,2025-07-04,2025-01-19,Elderly,Standard Wait
+522,1011,Henry Carlson,65,Benjamin Brown,Orthopedics,Female,Yes,INR,2.76,2025-09-23,2024-04-01,Elderly,Extreme Wait
+523,1045,Michael Evans,65,Manuel Vargas,Orthopedics,Unknown,No,EUR,332.09,2025-03-28,2025-01-04,Elderly,Standard Wait
+524,1095,Regina Wilson,73,Heidi Hamilton,Neurology,Male,Yes,GBP,349.4,2025-12-31,2024-12-14,Elderly,Moderate Wait
+525,1074,Jeremiah Cruz,64,Matthew Pratt,Neurology,Male,Yes,EUR,193.86,2026-03-14,2026-02-10,Middle Aged,Standard Wait
+526,1080,Nicholas Vasquez,49,Jennifer Anderson,Neurology,Male,No,INR,4.93,2025-10-30,2025-06-12,Middle Aged,Standard Wait
+527,1069,Cheryl Smith,48,Sarah Harper DDS,Cardiology,Female,No,USD,97.46,2025-10-01,2024-11-03,Middle Aged,Moderate Wait
+528,1051,Matthew Moore,63,Erica Riley,General,Unknown,Yes,INR,1.4,2026-03-02,2025-03-04,Middle Aged,Moderate Wait
+529,1092,Katherine Wilson,44,Mitchell Sims,Orthopedics,Unknown,Yes,USD,203.3,2025-12-01,2024-07-31,Middle Aged,Long Wait
+530,1055,Kathleen Oneal,71,Jacob Andrade,Orthopedics,Male,Yes,USD,74.36,2025-05-17,2024-07-28,Elderly,Moderate Wait
+531,1025,Lindsay Harris,28,Ryan Hughes,Orthopedics,Unknown,Yes,EUR,484.37,2025-10-26,2025-02-22,Young Adult,Standard Wait
+532,1037,Kathy Banks,39,Anna Yoder,General,Male,Yes,INR,3.83,2025-11-25,2025-07-26,Young Adult,Standard Wait
+533,1010,Beth Murphy,71,Adam Davis,Orthopedics,Female,Yes,GBP,420.0,2025-06-30,2024-08-13,Elderly,Moderate Wait
+534,1040,Patrick Perez,62,Jesse Edwards,Neurology,Male,Yes,USD,290.14,2026-01-21,2024-12-13,Middle Aged,Long Wait
+535,1071,Dana Mcclure,41,Mark Norton,General,Female,No,GBP,191.14,2026-03-02,2025-09-27,Middle Aged,Standard Wait
+536,1097,Ryan Williams,88,Veronica Fry,General,Female,Yes,USD,398.47,2025-12-27,2024-12-25,Elderly,Moderate Wait
+537,1067,Benjamin Ramirez,57,Wesley Johnson,Neurology,Female,No,USD,142.33,2025-12-22,2025-01-06,Middle Aged,Moderate Wait
+538,1097,Brandi Osborn,42,Daisy Rodriguez,Neurology,Female,No,GBP,93.94,2026-02-01,2025-12-31,Middle Aged,Standard Wait
+539,1053,Christopher Lopez,39,Caleb Kennedy,General,Unknown,No,USD,295.71,2026-01-15,2025-11-11,Young Adult,Standard Wait
+540,1074,Gary Taylor,87,Lauren Medina,General,Unknown,Yes,GBP,408.3,2025-05-19,2024-06-12,Elderly,Moderate Wait
+541,1015,Rodney Gonzalez,21,Allison Ramos,Cardiology,Female,No,USD,168.33,2025-07-04,2025-02-07,Young Adult,Standard Wait
+542,1071,Patrick Roach,88,Karen Duke,Cardiology,Female,Yes,EUR,448.81,2025-10-31,2025-06-23,Elderly,Standard Wait
+543,1044,Sandra Rojas,83,Stephanie Bryant,Cardiology,Unknown,No,,200.42,2025-06-16,2025-03-07,Elderly,Standard Wait
+544,1001,Erik Davis,30,Amanda White,Neurology,Male,Yes,,200.42,2025-05-30,2024-12-05,Young Adult,Standard Wait
+545,1056,Brian Patel,33,Tracy Harris,Orthopedics,Unknown,No,EUR,135.91,2025-10-16,2024-09-13,Young Adult,Long Wait
+546,1099,Mrs. Katherine Huber PhD,74,Kathryn Young,Cardiology,Male,No,USD,488.54,2025-05-09,2024-11-12,Elderly,Standard Wait
+547,1060,Edward Russell,26,Connor Brown,Orthopedics,Male,No,GBP,118.68,2025-10-17,2024-12-12,Young Adult,Moderate Wait
+548,1080,Thomas Fleming,18,Kimberly Mcdonald,Neurology,Male,No,EUR,80.06,2025-06-04,2024-12-14,Young Adult,Standard Wait
+549,1056,Savannah Butler,26,James Nguyen,Neurology,Unknown,No,USD,340.47,2025-11-26,2025-04-17,Young Adult,Standard Wait
+550,1036,Jacob Price,25,Kimberly Rangel,Neurology,Male,Yes,EUR,259.47,2025-06-14,2024-04-27,Young Adult,Long Wait
+551,1050,Brian Davis,41,Brian Mitchell,Orthopedics,Female,Yes,INR,0.76,2026-02-07,2025-05-27,Middle Aged,Standard Wait
+552,1042,Anthony Medina,60,Richard Walker,Orthopedics,Female,Yes,USD,498.48,2025-03-28,2024-11-14,Middle Aged,Standard Wait
+553,1019,Desiree Wilkins,34,Jamie Ford,General,Female,Yes,USD,305.84,2026-02-28,2025-07-31,Young Adult,Standard Wait
+554,1073,Ashley Cunningham,32,Sarah Montgomery,Cardiology,Female,Yes,INR,1.92,2026-01-22,2024-11-29,Young Adult,Long Wait
+555,1027,Abigail Townsend,54,Allison Salazar,Orthopedics,Female,Yes,USD,406.61,2025-12-10,2025-03-08,Middle Aged,Moderate Wait
+556,1077,William Roberts Jr.,21,Savannah Beltran,Orthopedics,Female,No,USD,315.17,2025-08-17,2024-07-02,Young Adult,Long Wait
+557,1085,Sean Bailey,85,Erika Turner,Neurology,Female,Yes,GBP,406.3,2025-09-06,2025-02-27,Elderly,Standard Wait
+558,1025,Adrian Vincent,42,William Coleman MD,Orthopedics,Unknown,No,GBP,447.05,2025-09-21,2024-12-05,Middle Aged,Moderate Wait
+559,1029,John Walsh,63,Wanda Cox,Orthopedics,Unknown,No,GBP,112.47,2025-08-13,2024-09-03,Middle Aged,Moderate Wait
+560,1052,Christopher Johnson,26,Susan Stanton,Neurology,Unknown,Yes,USD,461.18,2025-10-31,2025-03-22,Young Adult,Standard Wait
+561,1014,Michael Hamilton,29,Angie Smith,General,Female,No,GBP,136.32,2025-09-03,2024-07-27,Young Adult,Long Wait
+562,1056,Courtney Gonzales,84,Kayla Norris,Cardiology,Female,No,USD,385.01,2025-05-26,2024-10-31,Elderly,Standard Wait
+563,1073,Leslie Medina,18,Matthew Morse,Orthopedics,Female,Yes,GBP,623.48,2025-08-17,2025-06-25,Young Adult,Standard Wait
+564,1009,Frank Fields,30,Heather Diaz,General,Female,Yes,USD,168.86,2025-06-27,2025-05-21,Young Adult,Standard Wait
+565,1029,Darren Douglas,23,Andrew Gordon,Orthopedics,Female,Yes,USD,463.06,2026-02-01,2025-09-04,Young Adult,Standard Wait
+566,1091,Sheila Barrett,25,John Wallace,Cardiology,Male,No,INR,2.05,2025-11-19,2025-11-15,Young Adult,Standard Wait
+567,1026,Kim Morris,56,Michael Morris,General,Female,No,USD,197.66,2025-12-20,2025-06-24,Middle Aged,Standard Wait
+568,1075,Sarah Rivas,85,Scott Vega,Neurology,Unknown,No,GBP,576.87,2026-03-09,2025-03-18,Elderly,Moderate Wait
+569,1089,Adam Lane,76,Lynn Dorsey,Neurology,Female,Yes,EUR,113.69,2026-03-21,2024-09-20,Elderly,Extreme Wait
+570,1082,Angela Smith,51,Nicholas Jones,Orthopedics,Male,No,GBP,291.39,2025-09-02,2025-08-15,Middle Aged,Standard Wait
+571,1063,Mary Manning,48,William Harris,Orthopedics,Female,No,USD,248.84,2026-01-23,2025-10-13,Middle Aged,Standard Wait
+572,1009,Samantha Hoffman,37,Julie Smith,Cardiology,Male,No,USD,89.38,2025-07-23,2025-03-14,Young Adult,Standard Wait
+573,1079,Shawn Juarez,64,Patrick Morrison,Neurology,Unknown,Yes,EUR,120.77,2025-08-02,2025-05-31,Middle Aged,Standard Wait
+574,1022,Luke Brady,78,Adam Hall,General,Male,Yes,EUR,466.5,2025-10-09,2025-06-24,Elderly,Standard Wait
+575,1008,Christian Guerrero,77,Jennifer Perez,Cardiology,Female,Yes,USD,298.89,2026-01-07,2024-06-29,Elderly,Extreme Wait
+576,1100,Terrence Long,46,Natalie Rodriguez,Cardiology,Male,Yes,GBP,232.04,2026-02-01,2025-06-27,Middle Aged,Standard Wait
+577,1066,Michael Davis,36,Karen Griffin,Cardiology,Unknown,No,EUR,142.68,2026-01-11,2025-09-30,Young Adult,Standard Wait
+578,1084,Amy Pierce,83,Ian Castillo,Orthopedics,Female,No,USD,318.44,2025-07-27,2025-03-28,Elderly,Standard Wait
+579,1039,Erin Williams,69,Sean Hernandez,Cardiology,Female,Yes,USD,161.56,2026-02-04,2024-10-17,Elderly,Long Wait
+580,1092,Tiffany Cooper,58,Katrina Jones,General,Male,Yes,EUR,86.98,2025-07-05,2025-05-16,Middle Aged,Standard Wait
+581,1004,Joseph Pace,67,Lydia Baker,Neurology,Unknown,Yes,INR,4.06,2025-11-20,2025-08-02,Elderly,Standard Wait
+582,1056,Jean Kramer,30,Donald Clark,Orthopedics,Unknown,Yes,EUR,481.69,2025-05-29,2024-05-31,Young Adult,Moderate Wait
+583,1077,David Rose,78,Dana Ewing,Orthopedics,Male,Yes,INR,1.38,2025-11-09,2025-07-14,Elderly,Standard Wait
+584,1081,Christopher Lopez,45,Kevin Pearson,General,Male,Yes,GBP,515.1,2026-03-21,2024-05-04,Middle Aged,Extreme Wait
+585,1078,James Gibbs,25,Lisa Norris,Cardiology,Female,No,USD,368.56,2025-11-16,2024-09-22,Young Adult,Long Wait
+586,1054,Lori Henderson,50,Terri Stewart,General,Female,No,INR,5.96,2025-06-05,2024-12-19,Middle Aged,Standard Wait
+587,1085,Benjamin Lewis,85,Taylor Hicks,Cardiology,Male,No,EUR,232.36,2026-01-09,2025-05-03,Elderly,Standard Wait
+588,1028,Matthew Johnson,22,John Moran,Orthopedics,Unknown,No,EUR,163.66,2025-12-17,2025-08-06,Young Adult,Standard Wait
+589,1048,Karen Myers,89,David Wright,Neurology,Unknown,No,EUR,405.14,2025-07-20,2024-06-12,Elderly,Long Wait
+590,1013,Robert Humphrey,24,Vanessa Brown,Orthopedics,Unknown,No,USD,281.71,2025-04-10,2025-03-22,Young Adult,Standard Wait
+591,1032,Matthew Gutierrez,21,Lisa Smith,General,Male,No,EUR,337.15,2026-02-08,2025-05-14,Young Adult,Moderate Wait
+592,1074,Rebecca Banks,23,April Randall DDS,Neurology,Male,Yes,INR,0.68,2025-05-26,2025-01-17,Young Adult,Standard Wait
+593,1025,Ashley Rodriguez,52,Russell Zimmerman,Orthopedics,Unknown,No,INR,2.64,2025-06-05,2024-11-06,Middle Aged,Standard Wait
+594,1040,Laura Ford,36,Kyle Evans,Orthopedics,Unknown,No,GBP,236.87,2025-05-27,2024-12-02,Young Adult,Standard Wait
+595,1070,Christian Thomas,38,Gregory Tapia,Neurology,Unknown,Yes,GBP,495.5,2025-07-06,2025-04-23,Young Adult,Standard Wait
+596,1070,Stacy Gardner,53,Michael Campbell,Neurology,Unknown,Yes,GBP,94.97,2026-01-18,2025-03-11,Middle Aged,Moderate Wait
+597,1077,Taylor Patterson,58,Ellen Miller,Neurology,Female,No,USD,199.03,2026-03-25,2025-10-24,Middle Aged,Standard Wait
+598,1083,Jessica Rodriguez,18,Jeffrey Martin,Neurology,Male,Yes,INR,4.94,2025-04-21,2024-09-04,Young Adult,Standard Wait
+599,1096,Patricia Johnson DDS,70,Ana Hunt,Neurology,Unknown,Yes,GBP,184.01,2025-06-12,2024-11-27,Elderly,Standard Wait
+600,1043,Alexandra Sandoval,31,Rachel Moore,Neurology,Male,No,INR,2.39,2025-11-21,2025-08-16,Young Adult,Standard Wait
+601,1080,Danny Cooper,21,Mark Morrison,Neurology,Male,Yes,EUR,179.23,2025-04-27,2025-03-13,Young Adult,Standard Wait
+602,1097,Dr. Christina Dunn,51,Madeline Sharp,General,Female,No,INR,4.58,2025-09-11,2024-06-13,Middle Aged,Long Wait
+603,1054,Rachel Porter,29,Patrick Russell,Neurology,Male,No,EUR,372.15,2025-05-17,2024-10-06,Young Adult,Standard Wait
+604,1075,Megan Williams,51,Melissa Khan,Neurology,Male,No,INR,5.47,2025-12-11,2025-10-19,Middle Aged,Standard Wait
+605,1036,Michelle Hill,82,Rachel Sanchez,General,Male,Yes,INR,4.46,2025-12-08,2024-04-07,Elderly,Extreme Wait
+606,1064,Donna Green,78,Clifford Ramirez,Orthopedics,Female,No,EUR,286.92,2026-01-14,2025-05-07,Elderly,Standard Wait
+607,1015,Leon Anderson,63,Mary Chandler,Neurology,Unknown,Yes,USD,427.62,2025-11-28,2024-09-24,Middle Aged,Long Wait
+608,1045,Cheryl Ruiz,66,Maria Thomas,Orthopedics,Unknown,Yes,GBP,127.99,2025-05-23,2024-04-29,Elderly,Moderate Wait
+609,1006,Christina Spencer,61,Mark Kelley,Orthopedics,Male,No,GBP,391.52,2025-11-14,2024-05-10,Middle Aged,Extreme Wait
+610,1016,Elizabeth Johnson,87,Dr. Mary Day,General,Female,Yes,INR,5.54,2026-01-24,2024-12-09,Elderly,Long Wait
+611,1014,Ellen Rogers,31,Tammie Melendez,General,Unknown,Yes,EUR,462.35,2025-08-30,2025-01-17,Young Adult,Standard Wait
+612,1070,Kenneth Jenkins,49,Tanya Eaton,General,Unknown,Yes,EUR,467.28,2025-05-20,2024-09-12,Middle Aged,Standard Wait
+613,1088,Mr. Paul Chavez,65,Evan Marquez,Neurology,Male,Yes,USD,159.06,2025-07-23,2025-02-04,Elderly,Standard Wait
+614,1012,Ian Weaver,18,Audrey Torres,Neurology,Female,Yes,INR,3.81,2026-01-19,2025-06-01,Young Adult,Standard Wait
+615,1066,Daniel White,37,Justin Hall,General,Female,Yes,EUR,512.99,2025-05-25,2024-10-12,Young Adult,Standard Wait
+616,1071,Brian Riley,74,Charles Kemp,Cardiology,Male,No,USD,153.44,2025-08-23,2024-09-24,Elderly,Moderate Wait
+617,1075,Amy Cruz,43,Tony Burke,Neurology,Unknown,Yes,EUR,500.08,2025-12-14,2025-02-28,Middle Aged,Moderate Wait
+618,1060,James Lopez,85,Carla Cole,Cardiology,Female,Yes,EUR,176.08,2025-09-19,2025-09-16,Elderly,Standard Wait
+619,1055,Christopher Powell,69,Gary Wood,Orthopedics,Male,Yes,INR,5.75,2025-03-31,2024-11-05,Elderly,Standard Wait
+620,1087,Alejandra Turner,31,Bradley Jones,Cardiology,Unknown,Yes,EUR,212.5,2025-05-31,2025-05-24,Young Adult,Standard Wait
+621,1020,Kelsey Shaffer,56,Christina Simmons,Neurology,Male,Yes,EUR,99.24,2025-04-20,2024-12-07,Middle Aged,Standard Wait
+622,1047,Kara Stewart,63,Becky Sanchez,Neurology,Female,No,EUR,316.49,2025-04-21,2025-03-06,Middle Aged,Standard Wait
+623,1031,Michelle Bradford,31,Robert Williams,Cardiology,Unknown,Yes,EUR,457.52,2026-03-17,2025-08-02,Young Adult,Standard Wait
+624,1047,Danielle Ortega,76,Tiffany Lowery,Orthopedics,Male,No,USD,83.67,2025-08-18,2025-06-14,Elderly,Standard Wait
+625,1012,Gregory Hines,76,Rebecca Goodwin,Orthopedics,Male,No,INR,3.07,2026-02-07,2026-01-15,Elderly,Standard Wait
+626,1091,Scott Walker,62,Brianna Hernandez,Neurology,Male,Yes,USD,433.63,2026-03-22,2025-11-28,Middle Aged,Standard Wait
+627,1072,Kimberly Miller,59,Anna Jennings,Cardiology,Female,Yes,GBP,331.48,2025-04-25,2024-04-30,Middle Aged,Moderate Wait
+628,1048,Ashley Black,84,Dennis Murphy,Neurology,Female,No,,200.42,2025-05-29,2025-01-29,Elderly,Standard Wait
+629,1063,Stacy Clements,75,Cynthia Dunn,Cardiology,Female,Yes,INR,1.15,2025-06-03,2024-11-09,Elderly,Standard Wait
+630,1028,Michael Heath,88,Benjamin Brown,Cardiology,Unknown,Yes,INR,3.08,2025-10-29,2025-03-22,Elderly,Standard Wait
+631,1025,James Malone,84,Rhonda Oconnor,Neurology,Female,Yes,USD,326.84,2025-09-26,2025-06-16,Elderly,Standard Wait
+632,1046,Christina Moore,64,Joshua Martin,Orthopedics,Unknown,No,GBP,605.75,2025-05-31,2024-08-21,Middle Aged,Moderate Wait
+633,1036,Katie Mcdaniel,76,Aaron Perkins,General,Unknown,Yes,USD,136.77,2026-01-10,2025-07-31,Elderly,Standard Wait
+634,1026,Scott Thompson,49,Erika Richards,Neurology,Male,No,EUR,508.58,2026-02-14,2025-03-11,Middle Aged,Moderate Wait
+635,1097,Jon Berry,27,Heather Foster,General,Male,Yes,EUR,373.11,2025-11-02,2024-04-25,Young Adult,Extreme Wait
+636,1014,Connie Wheeler,29,Sherri Buckley,Neurology,Unknown,No,EUR,484.18,2025-12-30,2025-08-08,Young Adult,Standard Wait
+637,1085,Jonathan Howell,63,Darryl Case,Orthopedics,Male,Yes,INR,5.05,2025-08-12,2024-11-03,Middle Aged,Moderate Wait
+638,1005,Michelle King,54,Anthony Hughes,General,Male,No,EUR,421.07,2025-05-07,2024-06-22,Middle Aged,Moderate Wait
+639,1089,Kimberly Barnett,69,William Bryan,General,Male,Yes,EUR,521.0,2025-10-04,2025-07-31,Elderly,Standard Wait
+640,1092,Abigail Warner,53,Heather Stokes,Orthopedics,Female,Yes,EUR,455.91,2025-10-25,2024-05-23,Middle Aged,Extreme Wait
+641,1016,Jocelyn Strickland,22,Vincent Kemp,Cardiology,Male,No,,200.42,2025-04-30,2024-07-10,Young Adult,Moderate Wait
+642,1051,Victoria Gilbert,64,April Spears,Cardiology,Female,No,USD,390.1,2025-04-08,2024-07-23,Middle Aged,Moderate Wait
+643,1074,Eugene Underwood,80,Benjamin Williams,Neurology,Male,No,INR,5.61,2025-11-11,2025-05-20,Elderly,Standard Wait
+644,1100,Melanie Lee,31,Andrea Kennedy,Cardiology,Male,No,GBP,561.2,2025-10-01,2024-10-25,Young Adult,Moderate Wait
+645,1049,Jessica Murray,20,James Harris,General,Unknown,No,INR,2.21,2025-12-29,2025-06-23,Young Adult,Standard Wait
+646,1069,Monica Jones,18,Cheryl Bailey,Cardiology,Unknown,No,INR,4.37,2025-10-17,2024-05-07,Young Adult,Extreme Wait
+647,1036,Cameron Lopez,44,Christopher Williams,Orthopedics,Female,Yes,USD,163.0,2025-04-27,2024-12-13,Middle Aged,Standard Wait
+648,1042,Dawn Bryant,48,Charles Nguyen,Cardiology,Unknown,Yes,INR,1.97,2025-06-14,2025-03-21,Middle Aged,Standard Wait
+649,1002,Bailey Williamson,88,George Singleton,Cardiology,Female,No,USD,368.53,2025-10-17,2025-05-24,Elderly,Standard Wait
+650,1043,Brandy Estes MD,64,Andrea Lam,Neurology,Male,Yes,GBP,303.01,2025-10-26,2024-05-15,Middle Aged,Extreme Wait
+651,1088,Kevin Peters,19,Nancy Wilson,General,Female,No,EUR,105.49,2025-07-23,2025-04-28,Young Adult,Standard Wait
+652,1019,David Chapman,66,Rachel Wells,Orthopedics,Female,No,GBP,485.99,2025-07-27,2025-07-17,Elderly,Standard Wait
+653,1049,Megan Russell,84,Autumn Hill,Cardiology,Male,Yes,USD,359.17,2025-12-26,2025-08-07,Elderly,Standard Wait
+654,1045,Natalie Marquez,29,Jennifer Paul,Neurology,Female,No,GBP,510.01,2025-07-18,2025-03-24,Young Adult,Standard Wait
+655,1076,Sarah Wilson,79,Courtney Foley,Orthopedics,Male,Yes,USD,120.7,2026-02-21,2024-08-08,Elderly,Extreme Wait
+656,1047,Ashley Estes,54,Stephanie Mercer,Cardiology,Unknown,Yes,GBP,514.54,2025-06-02,2024-07-31,Middle Aged,Moderate Wait
+657,1068,William Bentley,42,Jacob Mckay,Neurology,Male,Yes,USD,263.3,2025-10-21,2025-03-31,Middle Aged,Standard Wait
+658,1075,Cheryl Rogers,43,Victoria Hansen,General,Male,Yes,GBP,478.49,2026-01-12,2025-10-30,Middle Aged,Standard Wait
+659,1017,Erin Bates,50,Chelsea Harris,Cardiology,Male,Yes,USD,370.13,2025-06-13,2025-01-15,Middle Aged,Standard Wait
+660,1068,Aaron Holder,19,Lauren Ayers,General,Male,Yes,INR,4.53,2026-01-26,2024-11-28,Young Adult,Long Wait
+661,1082,Thomas Roman,64,Robert Bass,General,Female,Yes,INR,2.41,2025-09-14,2024-07-15,Middle Aged,Long Wait
+662,1008,Jack Cooper,67,Christopher Smith,General,Female,No,INR,2.93,2025-04-09,2024-06-20,Elderly,Moderate Wait
+663,1022,Christopher Brown,28,Kimberly Johnson,Neurology,Unknown,No,GBP,196.19,2026-02-13,2024-06-13,Young Adult,Extreme Wait
+664,1003,Perry Crawford,79,Marvin Hicks,Cardiology,Male,Yes,EUR,111.43,2025-11-05,2024-07-22,Elderly,Long Wait
