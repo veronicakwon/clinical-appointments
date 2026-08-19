@@ -68,7 +68,7 @@ and Orthopedics has an unexplained dip for Middle Aged patients.
 **Data quality limitation**: billing amounts were converted to USD using
 fixed nominal exchange rates, which does not account for regional
 differences in healthcare cost structures — INR-converted amounts average
-~$3, dramatically smaller than USD/GBP/EUR (~$267–332). All billing
+~3 USD, dramatically smaller than USD/GBP/EUR (~267–332 USD). All billing
 comparisons in the Python EDA exclude INR to avoid this confound; this is
 documented inline in `02_exploratory_analysis.ipynb`.
 
