@@ -14,6 +14,14 @@ gender; `Yes`/`Y`/`1` for follow-up status), mixed currency formats across 4
 currencies (USD, GBP, EUR, INR — including two currency symbols corrupted by an
 encoding issue), and two conflicting date formats.
 
+Also built pivot tables and a chart dashboard directly in Excel to explore
+follow-up rate by age bracket and gender, and average billing amount by
+follow-up status:
+
+![Pivot tables: follow-up rate by age bracket and gender, average billing by follow-up status](images/pivot_tables.png)
+
+![Dashboard: age bracket, average billing amount, and gender vs. follow-up status, filterable by department](images/charts.png)
+
 **2. SQL (SQLite) — independent cleaning pipeline + analysis**
 Rebuilt the full cleaning pipeline from the raw data in SQL, independently of
 the Excel pass, to cross-validate both approaches against each other:
